@@ -1,0 +1,39 @@
+{
+  "tfidf_style": {
+    "accuracy": 0.4186666666666667,
+    "precision": 0.28289473684210525,
+    "recall": 0.11621621621621622,
+    "f1": 0.16475095785440613,
+    "auc": 0.3208081436699858
+  },
+  "support_gate": {
+    "accuracy": 0.9633333333333334,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "auc": 0.7163888015099088,
+    "threshold_used": 0.35,
+    "derived_target_thresholds": {
+      "ent_th": 0.8,
+      "rel_th": 0.48618487119674675,
+      "margin_th": 0.0
+    },
+    "positives_in_derived_target": 55
+  },
+  "contradiction_gate": {
+    "accuracy": 0.9913333333333333,
+    "precision": 0.9166666666666666,
+    "recall": 0.9734513274336283,
+    "f1": 0.944206008583691,
+    "auc": 0.9978115369646082,
+    "threshold_used": 0.7,
+    "derived_target_thresholds": {
+      "rel_th": 0.48260664939880366,
+      "con_th": 0.2816612517242416,
+      "ent_max": 0.1,
+      "ctx_th": 0.0,
+      "upd_th": 0.0
+    },
+    "positives_in_derived_target": 113
+  }
+}

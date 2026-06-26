@@ -1,0 +1,15 @@
+{
+  "model_type": "tfidf_char_ngrams_logreg",
+  "analyzer": "char",
+  "ngram_range": [
+    3,
+    5
+  ],
+  "min_df": 3,
+  "max_df": 0.98,
+  "max_features": 250000,
+  "invert_label": true,
+  "train_rows": 39500,
+  "test_rows": 9876,
+  "label_mean_test": 0.36502632644795463
+}

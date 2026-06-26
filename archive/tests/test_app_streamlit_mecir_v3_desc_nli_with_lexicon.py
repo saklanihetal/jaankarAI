@@ -1,0 +1,882 @@
+# app_streamlit_mecir_v2_multilang_search_v2.py
+# MECIR v2: Multilingual retrieval (native + English queries) + title/description NLI + India entity lexicon
+# Fixes in this version:
+# 1) NLI support uses max entailment over (full claim, core claim) to handle Kannada/Telugu headlines with extra promo/question bits
+# 2) Show NLI with 3 decimals (avoid misleading 0.00)
+# 3) Add image explanation text when image is provided (consistent / weakly related / inconsistent)
+# 4) Keep landmark guard silent in UI (no hard-coded "replica/location guard active" line)
+
+import os
+import re
+import unicodedata
+from typing import Dict, List, Tuple, Optional
+from collections import Counter
+
+os.environ.setdefault("HF_HUB_READ_TIMEOUT", "180")
+os.environ.setdefault("HF_HUB_CONNECT_TIMEOUT", "60")
+os.environ.setdefault("TRANSFORMERS_VERBOSITY", "error")
+
+import streamlit as st
+import torch
+import requests
+import spacy
+from PIL import Image, ImageFile
+from langdetect import detect
+
+from transformers import (
+    AutoTokenizer,
+    AutoModelForSeq2SeqLM,
+    AutoModelForSequenceClassification,
+    CLIPProcessor,
+    CLIPModel,
+)
+from sentence_transformers import SentenceTransformer, util
+
+ImageFile.LOAD_TRUNCATED_IMAGES = True
+
+# ---------------- PAGE SETUP ----------------
+st.set_page_config(page_title="Fake News Detection", layout="wide")
+st.title("Fake News Detection")
+
+# ---------------- spaCy LOAD ----------------
+DEFAULT_SPACY = "en_core_web_sm"
+PREFERRED_TRF = "en_core_web_trf"
+
+def load_spacy():
+    for name in [PREFERRED_TRF, DEFAULT_SPACY]:
+        try:
+            return spacy.load(name), name
+        except Exception:
+            pass
+    return None, ""
+
+nlp, spacy_name = load_spacy()
+if nlp is None:
+    st.error(
+        "spaCy model not found.\n\nRun:\n"
+        "  python -m spacy download en_core_web_sm\n\n"
+        "Optional (better NER):\n"
+        "  python -m spacy download en_core_web_trf\n"
+    )
+    st.stop()
+
+SUPPORTED_LANGS = {"en", "hi", "kn", "te"}
+
+# ---------------- TEXT UTILS ----------------
+def normalize_text(s: str) -> str:
+    s = (s or "").strip()
+    s = unicodedata.normalize("NFKC", s)
+    s = re.sub(r"\s+", " ", s)
+    return s
+
+def detect_language(text: str) -> str:
+    try:
+        lang = detect(text)
+        return lang if lang in SUPPORTED_LANGS else "en"
+    except Exception:
+        return "en"
+
+def keyword_set(text: str) -> set:
+    text = normalize_text(text).lower()
+    text = re.sub(r"[^a-z0-9\s]", " ", text)
+    return set(t for t in text.split() if len(t) > 2)
+
+def clamp01(x: float) -> float:
+    return max(0.0, min(1.0, x))
+
+def rel_gate(relevance: float, r0: float, r1: float) -> float:
+    if r1 <= r0:
+        return 1.0
+    return clamp01((relevance - r0) / (r1 - r0))
+
+def clean_desc(s: str) -> str:
+    s = normalize_text(s or "")
+    s = re.sub(r"\[\+\d+\s+chars\]$", "", s).strip()
+    return s
+
+def short(s: str, n: int = 260) -> str:
+    s = normalize_text(s)
+    if len(s) <= n:
+        return s
+    return s[: n - 3].rstrip() + "..."
+
+# ---------------- CORE CLAIM (remove promo / question bits) ----------------
+PROMO_PATTERNS_EN = [
+    r"\bwhere\b.*$",                 # trailing "where ...?"
+    r"\bwhich place\b.*$",
+    r"\bhow\b.*$",
+    r"\bfree\b.*$",                  # trailing "free ..."
+    r"\bfree treatment\b.*$",
+    r"\bfor free\b.*$",
+]
+
+def core_claim(text_en: str) -> str:
+    """
+    Build a simpler "core" claim for NLI support when original headline contains
+    promo/question fragments that evidence won't contain.
+    """
+    t = normalize_text(text_en)
+    # take only before question mark
+    t = t.split("?")[0].strip()
+    # take only before semicolon (Kannada/Telugu headlines often use ; before promo)
+    t = t.split(";")[0].strip()
+    # remove some trailing promo fragments
+    low = t.lower()
+    for pat in PROMO_PATTERNS_EN:
+        low2 = re.sub(pat, "", low).strip()
+        if len(low2) >= 6:
+            low = low2
+    # rebuild with original casing approximately
+    # (we'll just return the cleaned lowercase version in title case? no: keep as-is from low)
+    out = normalize_text(low)
+    return out if len(out.split()) >= 3 else normalize_text(text_en)
+
+# ---------------- INDIA ENTITY LEXICON ----------------
+INDIA_ENTITIES_SEED = [
+    "Narendra Modi","PM Modi","Prime Minister Modi","Amit Shah","Rahul Gandhi",
+    "Virat Kohli","Rohit Sharma","Sachin Tendulkar","MS Dhoni",
+    "Mysuru Palace","Mysore Palace","Taj Mahal","India Gate","Red Fort",
+    "Charminar","Gateway of India","Golden Temple","Qutub Minar",
+    "Ayodhya","Ram Mandir",
+    "Mysuru","Mysore","Bengaluru","Bangalore","Mumbai","Delhi","New Delhi",
+    "Kolkata","Chennai","Hyderabad","Pune","Ahmedabad","Jaipur","Lucknow",
+    "Patna","Bhopal","Indore","Nagpur","Surat","Kanpur","Guwahati",
+    "Srinagar","Jammu","Kochi","Thiruvananthapuram",
+    "Karnataka","Maharashtra","Tamil Nadu","Telangana","Kerala","Gujarat",
+    "Rajasthan","Uttar Pradesh","Bihar","West Bengal","Punjab","Haryana",
+    "Madhya Pradesh","Odisha","Assam","Jammu and Kashmir"
+]
+
+def load_entities_file(path: str) -> List[str]:
+    try:
+        if not os.path.exists(path):
+            return []
+        with open(path, "r", encoding="utf-8") as f:
+            lines = [normalize_text(x) for x in f.read().splitlines()]
+        lines = [x for x in lines if x]
+        seen = set()
+        out = []
+        for x in lines:
+            k = x.lower()
+            if k not in seen:
+                out.append(x)
+                seen.add(k)
+        return out
+    except Exception:
+        return []
+
+# ---------------- CLAIM PARSING ----------------
+def extract_spacy_entities(text_en: str) -> List[str]:
+    doc = nlp(normalize_text(text_en))
+    ents = []
+    for ent in doc.ents:
+        if ent.label_ in {"PERSON", "ORG", "GPE", "LOC", "EVENT"}:
+            ents.append(ent.text.strip())
+    seen, out = set(), []
+    for e in ents:
+        k = e.lower().strip()
+        if k and k not in seen:
+            out.append(e)
+            seen.add(k)
+    return out
+
+def extract_lexicon_entities(text_en: str, lex: List[str]) -> List[str]:
+    t = " " + normalize_text(text_en).lower() + " "
+    found = []
+    for name in lex:
+        n = name.strip()
+        if not n:
+            continue
+        if re.search(r"\b" + re.escape(n.lower()) + r"\b", t):
+            found.append(n)
+    if re.search(r"\bmodi\b", t) and "narendra modi" not in [x.lower() for x in found]:
+        found.append("Narendra Modi")
+    return found
+
+def extract_claim_parts(text_en: str, lex: List[str]):
+    text_en = normalize_text(text_en)
+    doc = nlp(text_en)
+
+    sp_ents = extract_spacy_entities(text_en)
+    lx_ents = extract_lexicon_entities(text_en, lex)
+
+    entities = []
+    seen = set()
+    for e in sp_ents + lx_ents:
+        k = e.lower().strip()
+        if k and k not in seen:
+            entities.append(e.strip())
+            seen.add(k)
+
+    predicate = ""
+    for tok in doc:
+        if tok.dep_ == "ROOT" and tok.pos_ in {"VERB", "AUX"}:
+            predicate = tok.lemma_.lower()
+            break
+
+    noun_phrases = []
+    try:
+        for chunk in doc.noun_chunks:
+            t = chunk.text.strip()
+            if len(t.split()) >= 2:
+                noun_phrases.append(t)
+    except Exception:
+        pass
+
+    keywords = []
+    for tok in doc:
+        if tok.is_stop or tok.is_punct:
+            continue
+        if tok.pos_ in {"NOUN", "PROPN", "VERB"}:
+            lemma = tok.lemma_.lower()
+            if len(lemma) > 2:
+                keywords.append(lemma)
+
+    def dedup(seq):
+        seen2, out2 = set(), []
+        for x in seq:
+            k2 = x.lower().strip()
+            if k2 and k2 not in seen2:
+                out2.append(x.strip())
+                seen2.add(k2)
+        return out2
+
+    entities = dedup(entities)
+    noun_phrases = dedup(noun_phrases)
+    keywords = dedup(keywords)
+    phrases = dedup(entities + noun_phrases)[:10]
+    return phrases, keywords, entities, predicate
+
+# ---------------- QUERIES ----------------
+INDIA_ALIASES = [
+    (r"\bmysuru\b", "mysore"),
+    (r"\bmysore\b", "mysuru"),
+    (r"\bbengaluru\b", "bangalore"),
+    (r"\bbangalore\b", "bengaluru"),
+    (r"\bnew delhi\b", "delhi"),
+    (r"\bdelhi\b", "new delhi"),
+    (r"\bpm\b", "prime minister"),
+]
+
+def apply_aliases(text: str) -> List[str]:
+    outs = [text]
+    for pat, rep in INDIA_ALIASES:
+        new_outs = []
+        for t in outs:
+            new_outs.append(re.sub(pat, rep, t, flags=re.IGNORECASE))
+        outs = list(dict.fromkeys([normalize_text(x) for x in new_outs if normalize_text(x)]))
+    return outs
+
+def build_queries_en(claim_en: str, lex: List[str]) -> List[str]:
+    claim_en = normalize_text(claim_en)
+    phrases, keywords, entities, predicate = extract_claim_parts(claim_en, lex)
+
+    queries = []
+    top_phrase = phrases[0] if phrases else ""
+    top_kw = keywords[:12]
+
+    if entities:
+        if predicate:
+            queries.append(f"\"{entities[0]}\" {predicate}".strip())
+        queries.append(f"\"{entities[0]}\"".strip())
+
+    if top_kw:
+        queries.append(" ".join(top_kw[:7]))
+    if top_phrase and predicate:
+        queries.append(f"\"{top_phrase}\" {predicate}")
+    if top_phrase:
+        queries.append(f"\"{top_phrase}\"")
+
+    if len(entities) >= 2:
+        queries.append(" ".join(entities[:2] + ([predicate] if predicate else [])))
+
+    short_claim = " ".join(claim_en.split()[:12])
+    if len(short_claim) >= 8:
+        queries.append(short_claim)
+
+    out, seen = [], set()
+    for q in queries:
+        for v in apply_aliases(normalize_text(q)):
+            vn = v.lower().strip()
+            if len(vn) < 4:
+                continue
+            if vn not in seen:
+                out.append(v)
+                seen.add(vn)
+    return out[:10]
+
+def build_queries_native(original_text: str) -> List[str]:
+    t = normalize_text(original_text)
+    if not t:
+        return []
+    q = [t, " ".join(t.split()[:8])]
+    out, seen = [], set()
+    for x in q:
+        k = x.lower()
+        if len(k) >= 4 and k not in seen:
+            out.append(x)
+            seen.add(k)
+    return out[:2]
+
+# ---------------- SMART FILTER ----------------
+def smart_hard_filter(evidence: List[Dict], claim_en: str, lex: List[str]) -> List[Dict]:
+    phrases, keywords, entities, _ = extract_claim_parts(claim_en, lex)
+
+    claim_tokens = set(k.lower() for k in keywords)
+    for ph in phrases[:5]:
+        claim_tokens |= keyword_set(ph)
+
+    entity_tokens = set()
+    for e in entities:
+        entity_tokens |= keyword_set(e)
+
+    min_overlap = 1 if (len(claim_tokens) <= 6 or len(entity_tokens) >= 2) else 2
+
+    filtered = []
+    for art in evidence:
+        blob = normalize_text(art.get("blob", "")) or (normalize_text(art.get("title","")) + " " + normalize_text(art.get("description",""))).strip()
+        if not blob:
+            continue
+        tset = keyword_set(blob)
+        overlap = len(tset & claim_tokens)
+        has_entity = len(tset & entity_tokens) > 0
+        if overlap >= min_overlap or has_entity:
+            filtered.append(art)
+    return filtered
+
+# ---------------- LANDMARK GUARD (silent) ----------------
+QUALIFIER_TOKENS = {"replica","lookalike","reproduction","model","imitation","copy","miniature","mock","theme","park"}
+LANDMARK_TERMS = {
+    "statue of liberty","eiffel tower","taj mahal","colosseum",
+    "big ben","golden gate bridge","white house","buckingham palace"
+}
+
+def extract_locations(text: str) -> set:
+    doc = nlp(normalize_text(text))
+    locs = set()
+    for ent in doc.ents:
+        if ent.label_ in {"GPE", "LOC"}:
+            locs.add(ent.text.lower().strip())
+    return locs
+
+def contains_landmark(text: str) -> Optional[str]:
+    t = normalize_text(text).lower()
+    for lm in LANDMARK_TERMS:
+        if lm in t:
+            return lm
+    return None
+
+def landmark_support_multiplier(claim_en: str, blob: str) -> float:
+    claim_l = normalize_text(claim_en).lower()
+    if not contains_landmark(claim_l):
+        return 1.0
+
+    blob_l = normalize_text(blob).lower()
+    claim_tokens = keyword_set(claim_l)
+    blob_tokens = keyword_set(blob_l)
+
+    ev_qual = blob_tokens & QUALIFIER_TOKENS
+    if ev_qual and len(claim_tokens & ev_qual) == 0:
+        return 0.0
+
+    claim_locs = extract_locations(claim_l)
+    ev_locs = extract_locations(blob_l)
+
+    if ev_locs and not claim_locs:
+        return 0.0
+
+    if ev_locs and claim_locs and len(ev_locs & claim_locs) == 0:
+        return 0.2
+
+    return 1.0
+
+# ---------------- API KEYS ----------------
+def get_key(name: str) -> str:
+    if name in st.secrets:
+        return str(st.secrets[name])
+    return os.getenv(name, "")
+
+NEWSAPI_KEY = get_key("NEWSAPI_KEY")
+GNEWS_KEY = get_key("GNEWS_KEY")
+NEWSDATA_KEY = get_key("NEWSDATA_KEY")
+EVENTREGISTRY_KEY = get_key("EVENTREGISTRY_KEY")
+
+HEADERS = {"User-Agent": "FakeNewsMECIRv2/1.0"}
+
+def safe_get_json(url: str, timeout: int = 20) -> Tuple[dict, str]:
+    try:
+        r = requests.get(url, timeout=timeout, headers=HEADERS)
+        if r.status_code != 200:
+            return {}, f"HTTP {r.status_code}: {r.text[:200]}"
+        return r.json(), ""
+    except Exception as e:
+        return {}, str(e)
+
+def safe_post_json(url: str, payload: dict, timeout: int = 25) -> Tuple[dict, str]:
+    try:
+        r = requests.post(url, json=payload, timeout=timeout, headers=HEADERS)
+        if r.status_code != 200:
+            return {}, f"HTTP {r.status_code}: {r.text[:200]}"
+        return r.json(), ""
+    except Exception as e:
+        return {}, str(e)
+
+GNEWS_LANG = {"en": "en", "hi": "hi", "kn": "kn", "te": "te"}
+NEWSDATA_LANG = {"en": "en", "hi": "hi", "kn": "kn", "te": "te"}
+EVENT_LANG = {"en": "eng", "hi": "hin", "kn": "kan", "te": "tel"}
+
+def fetch_newsapi_org(query: str) -> Tuple[List[Dict], str]:
+    if not NEWSAPI_KEY:
+        return [], "Missing NEWSAPI_KEY"
+    url = (
+        "https://newsapi.org/v2/everything?"
+        f"q={requests.utils.quote(query)}&language=en&pageSize=25&sortBy=publishedAt&apiKey={NEWSAPI_KEY}"
+    )
+    res, err = safe_get_json(url)
+    arts = []
+    for a in (res.get("articles", []) or []):
+        t = a.get("title") or ""
+        u = a.get("url") or ""
+        d = clean_desc(a.get("description") or a.get("content") or "")
+        if t and u:
+            arts.append({"title": t, "description": d, "url": u, "api": "NewsAPI.org"})
+    return arts, err
+
+def fetch_gnews(query: str, lang: str) -> Tuple[List[Dict], str]:
+    if not GNEWS_KEY:
+        return [], "Missing GNEWS_KEY"
+    gl = GNEWS_LANG.get(lang, "en")
+    url = f"https://gnews.io/api/v4/search?q={requests.utils.quote(query)}&lang={gl}&max=25&token={GNEWS_KEY}"
+    res, err = safe_get_json(url)
+    arts = []
+    for a in (res.get("articles", []) or []):
+        t = a.get("title") or ""
+        u = a.get("url") or ""
+        d = clean_desc(a.get("description") or a.get("content") or "")
+        if t and u:
+            arts.append({"title": t, "description": d, "url": u, "api": f"GNews({gl})"})
+    return arts, err
+
+def fetch_newsdata(query: str, lang: str) -> Tuple[List[Dict], str]:
+    if not NEWSDATA_KEY:
+        return [], "Missing NEWSDATA_KEY"
+    nl = NEWSDATA_LANG.get(lang, "en")
+    url = f"https://newsdata.io/api/1/news?q={requests.utils.quote(query)}&language={nl}&apikey={NEWSDATA_KEY}"
+    res, err = safe_get_json(url)
+    arts = []
+    for a in (res.get("results", []) or []):
+        t = a.get("title") or ""
+        u = a.get("link") or ""
+        d = clean_desc(a.get("description") or a.get("content") or "")
+        if t and u:
+            arts.append({"title": t, "description": d, "url": u, "api": f"NewsData.io({nl})"})
+    return arts, err
+
+def fetch_eventregistry(query: str, lang: str) -> Tuple[List[Dict], str]:
+    if not EVENTREGISTRY_KEY:
+        return [], "Missing EVENTREGISTRY_KEY"
+    el = EVENT_LANG.get(lang, "eng")
+    url = "https://eventregistry.org/api/v1/article/getArticles"
+    payload = {
+        "action": "getArticles",
+        "keyword": query,
+        "lang": el,
+        "articlesPage": 1,
+        "articlesCount": 25,
+        "articlesSortBy": "date",
+        "articlesSortByAsc": False,
+        "resultType": "articles",
+        "apiKey": EVENTREGISTRY_KEY,
+    }
+    res, err = safe_post_json(url, payload)
+    results = (((res.get("articles") or {}).get("results")) or [])
+    arts = []
+    for a in results:
+        t = a.get("title") or ""
+        u = a.get("url") or ""
+        d = clean_desc(a.get("summary") or a.get("body") or a.get("snippet") or "")
+        if t and u:
+            arts.append({"title": t, "description": d, "url": u, "api": f"EventRegistry({el})"})
+    return arts, err
+
+def dedup_articles(articles: List[Dict]) -> List[Dict]:
+    seen, out = set(), []
+    for a in articles:
+        t = normalize_text(a.get("title", "")).lower()
+        u = (a.get("url") or "").strip().lower()
+        if not t:
+            continue
+        key = (t, u)
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append(a)
+    return out
+
+def fetch_all_sources_multilang(queries_en: List[str], queries_native: List[str], lang: str, max_total: int = 220) -> Tuple[List[Dict], Dict[str, str]]:
+    all_arts: List[Dict] = []
+    errors: Dict[str, str] = {}
+
+    for q in queries_en:
+        a, e = fetch_newsapi_org(q);          all_arts.extend(a); errors.setdefault("NewsAPI.org", e)
+        a, e = fetch_gnews(q, "en");          all_arts.extend(a); errors.setdefault("GNews(en)", e)
+        a, e = fetch_newsdata(q, "en");       all_arts.extend(a); errors.setdefault("NewsData(en)", e)
+        a, e = fetch_eventregistry(q, "en");  all_arts.extend(a); errors.setdefault("EventRegistry(eng)", e)
+
+    if lang != "en":
+        for q in queries_native:
+            a, e = fetch_gnews(q, lang);          all_arts.extend(a); errors.setdefault(f"GNews({lang})", e)
+            a, e = fetch_newsdata(q, lang);       all_arts.extend(a); errors.setdefault(f"NewsData({lang})", e)
+            a, e = fetch_eventregistry(q, lang);  all_arts.extend(a); errors.setdefault(f"EventRegistry({lang})", e)
+
+    all_arts = dedup_articles(all_arts)
+    return all_arts[:max_total], errors
+
+# ---------------- MODELS ----------------
+LANG_MAP = {"hi": "hin_Deva", "kn": "kan_Knda", "te": "tel_Telu"}
+
+@st.cache_resource
+def load_models():
+    device = "cuda" if torch.cuda.is_available() else "cpu"
+
+    clip_name = "openai/clip-vit-base-patch32"
+    clip_model = CLIPModel.from_pretrained(clip_name).to(device)
+    clip_processor = CLIPProcessor.from_pretrained(clip_name)
+
+    labse_model = SentenceTransformer("sentence-transformers/LaBSE")
+
+    translator_name = "facebook/nllb-200-distilled-600M"
+    nllb_tokenizer = AutoTokenizer.from_pretrained(translator_name)
+    nllb_model = AutoModelForSeq2SeqLM.from_pretrained(translator_name).to(device)
+
+    nli_name = "facebook/bart-large-mnli"
+    nli_tokenizer = AutoTokenizer.from_pretrained(nli_name)
+    nli_model = AutoModelForSequenceClassification.from_pretrained(nli_name).to(device)
+
+    return device, clip_model, clip_processor, labse_model, nllb_tokenizer, nllb_model, nli_tokenizer, nli_model
+
+device, clip_model, clip_processor, labse_model, nllb_tokenizer, nllb_model, nli_tokenizer, nli_model = load_models()
+
+def translate_to_english(text: str, lang: str) -> str:
+    text = normalize_text(text)
+    if not text:
+        return ""
+    if lang == "en":
+        return text
+    if lang not in LANG_MAP:
+        return text
+    nllb_tokenizer.src_lang = LANG_MAP[lang]
+    inputs = nllb_tokenizer(text, return_tensors="pt", truncation=True, max_length=256).to(device)
+    eng_token_id = nllb_tokenizer.convert_tokens_to_ids("eng_Latn")
+    with torch.no_grad():
+        translated = nllb_model.generate(
+            **inputs,
+            forced_bos_token_id=eng_token_id,
+            max_length=128,
+            num_beams=3,
+        )
+    return nllb_tokenizer.decode(translated[0], skip_special_tokens=True)
+
+def clip_gate_score(image: Image.Image, text_en: str, a: float, b: float) -> Tuple[float, float]:
+    if b <= a:
+        b = a + 1e-6
+    inputs = clip_processor(text=[text_en], images=image, return_tensors="pt", padding=True).to(device)
+    with torch.no_grad():
+        outputs = clip_model(**inputs)
+        img = outputs.image_embeds
+        txt = outputs.text_embeds
+        img = img / img.norm(dim=-1, keepdim=True)
+        txt = txt / txt.norm(dim=-1, keepdim=True)
+        s = (img * txt).sum(dim=-1).item()
+    g = (s - a) / (b - a)
+    return s, clamp01(g)
+
+def nli_probs(premise: str, hypothesis: str) -> Tuple[float, float, float]:
+    inputs = nli_tokenizer(premise, hypothesis, return_tensors="pt", truncation=True, max_length=256).to(device)
+    with torch.no_grad():
+        logits = nli_model(**inputs).logits
+        probs = torch.softmax(logits, dim=-1).squeeze(0).tolist()
+    p_con, p_neu, p_ent = probs[0], probs[1], probs[2]
+    return p_ent, p_con, p_neu
+
+def rank_by_relevance(evidence: List[Dict], claim_en: str) -> List[Dict]:
+    blobs = []
+    for a in evidence:
+        t = normalize_text(a.get("title", ""))
+        d = normalize_text(a.get("description", ""))
+        blob = (t + ". " + d).strip() if d else t
+        a["blob"] = blob
+        blobs.append(blob)
+
+    claim_emb = labse_model.encode([claim_en], convert_to_tensor=True, normalize_embeddings=True)
+    ev_emb = labse_model.encode(blobs, convert_to_tensor=True, normalize_embeddings=True)
+    rels = util.cos_sim(claim_emb, ev_emb).squeeze(0).tolist()
+
+    ranked = []
+    for art, rel in zip(evidence, rels):
+        ranked.append({**art, "relevance": float(rel)})
+    ranked.sort(key=lambda x: x["relevance"], reverse=True)
+    return ranked
+
+def aggregate_nli_topk(
+    evidence_ranked: List[Dict],
+    claim_full_en: str,
+    top_k: int,
+    min_rel_for_con: float,
+    rcon_block: float,
+    r0: float,
+    r1: float,
+):
+    top = evidence_ranked[:top_k]
+
+    claim_core_en = core_claim(claim_full_en)
+    # We'll evaluate NLI against BOTH hypotheses and keep the best entailment for "support"
+    hypotheses = [normalize_text(claim_full_en), normalize_text(claim_core_en)]
+    hypotheses = [h for h in hypotheses if h]
+    hypotheses = list(dict.fromkeys(hypotheses))
+
+    S_ent, S_con = 0.0, 0.0
+    scored = []
+
+    for art in top:
+        blob = normalize_text(art.get("blob", "")) or (normalize_text(art.get("title","")) + " " + normalize_text(art.get("description",""))).strip()
+        title = normalize_text(art.get("title",""))
+
+        # Forward NLI: blob -> hypothesis (pick max entailment across hypotheses)
+        best = {"ent": 0.0, "con": 0.0, "neu": 1.0, "hyp": hypotheses[0]}
+        for h in hypotheses:
+            fe, fc, fn = nli_probs(blob, h)
+            if fe > best["ent"]:
+                best = {"ent": fe, "con": fc, "neu": fn, "hyp": h}
+
+        f_ent, f_con, f_neu, best_h = best["ent"], best["con"], best["neu"], best["hyp"]
+
+        # Reverse check uses full claim -> title (stability)
+        _, r_con, _ = nli_probs(claim_full_en, title)
+
+        support_raw = f_ent if r_con < rcon_block else 0.0
+        support = support_raw * landmark_support_multiplier(claim_full_en, blob)
+
+        weighted_con = f_con * (1.0 - f_ent)
+        if art["relevance"] >= min_rel_for_con:
+            g_rel = rel_gate(art["relevance"], r0, r1)
+            weighted_con_gated = weighted_con * g_rel
+        else:
+            g_rel = 0.0
+            weighted_con_gated = 0.0
+
+        S_ent = max(S_ent, support)
+        S_con = max(S_con, weighted_con_gated)
+
+        if f_ent >= f_con and f_ent >= f_neu:
+            f_label = "ENTAILS"
+        elif f_con >= f_neu:
+            f_label = "CONTRADICTS"
+        else:
+            f_label = "NEUTRAL"
+
+        scored.append({
+            **art,
+            "claim_full_en": claim_full_en,
+            "claim_core_en": claim_core_en,
+            "best_hypothesis": best_h,
+            "f_ent": f_ent, "f_con": f_con, "f_neu": f_neu,
+            "support": support,
+            "g_rel": g_rel,
+            "weighted_con_gated": weighted_con_gated,
+            "nli_label": f_label,
+        })
+
+    scored.sort(key=lambda x: (x["support"], x["relevance"]), reverse=True)
+    return S_ent, S_con, scored
+
+# ---------------- SIDEBAR ----------------
+st.sidebar.header("Input")
+uploaded_image = st.sidebar.file_uploader("Upload image (optional)", type=["jpg", "jpeg", "png"])
+news_text = st.sidebar.text_area("Enter headline / claim (any language)")
+
+st.sidebar.header("India entities (lexicon)")
+use_entity_file = st.sidebar.checkbox("Use lexicon_out/india_entities.txt", value=True)
+
+st.sidebar.header("Evidence selection")
+TOP_K_EVIDENCE = st.sidebar.slider("Top-K evidence (NLI runs on these)", 3, 10, 5)
+MIN_REL_FOR_CON = st.sidebar.slider("Min relevance to count contradiction", 0.0, 1.0, 0.35, 0.01)
+
+st.sidebar.subheader("Relevance-gated contradiction")
+r0 = st.sidebar.slider("Contradiction gate starts (r0)", 0.0, 1.0, 0.50, 0.01)
+r1 = st.sidebar.slider("Contradiction gate full (r1)",   0.0, 1.0, 0.70, 0.01)
+
+st.sidebar.header("Decision thresholds")
+support_th = st.sidebar.slider("SUPPORTED if support ≥", 0.3, 0.95, 0.50, 0.01)
+contradict_th = st.sidebar.slider("CONTRADICTED if contradiction ≥", 0.3, 0.95, 0.75, 0.01)
+margin = st.sidebar.slider("Margin", 0.0, 0.20, 0.05, 0.01)
+
+st.sidebar.header("NLI support rule")
+rcon_block = st.sidebar.slider("Block support if reverse-contradiction ≥", 0.0, 1.0, 0.70, 0.01)
+
+st.sidebar.header("UI")
+show_debug = st.sidebar.checkbox("Show debug", value=False)
+items_to_show = st.sidebar.slider("Evidence items to show", 3, 10, 5)
+
+st.sidebar.header("CLIP (optional image)")
+a = st.sidebar.slider("CLIP low (a)", 0.00, 0.60, 0.20, 0.01)
+b = st.sidebar.slider("CLIP high (b)", 0.00, 0.60, 0.35, 0.01)
+
+# ---------------- Lexicon build ----------------
+lex = INDIA_ENTITIES_SEED[:]
+if use_entity_file:
+    lex += load_entities_file(os.path.join("lexicon_out", "india_entities.txt"))
+
+seen_lex = set()
+lex2 = []
+for x in lex:
+    k = x.lower()
+    if k not in seen_lex:
+        lex2.append(x)
+        seen_lex.add(k)
+lex = lex2
+st.sidebar.caption(f"Entities available: {len(lex)}")
+
+# ---------------- DISPLAY IMAGE ----------------
+image: Optional[Image.Image] = None
+if uploaded_image:
+    try:
+        image = Image.open(uploaded_image).convert("RGB")
+        st.image(image, caption="Uploaded image", use_container_width=True)
+    except Exception:
+        st.warning("Could not read the uploaded image.")
+        image = None
+
+# ---------------- MAIN ----------------
+if news_text and len(news_text.strip()) > 0:
+    st.subheader("Processing")
+
+    T_raw = normalize_text(news_text)
+    lang = detect_language(T_raw)
+    T_en = translate_to_english(T_raw, lang)
+
+    st.write(f"spaCy: {spacy_name}")
+    st.write(f"Detected language: {lang}")
+    st.write(f"Claim (English): {T_en}")
+
+    # Image gate + explanation
+    if image is not None:
+        _, g_clip = clip_gate_score(image, T_en, a=a, b=b)
+        st.write(f"Image-text alignment (CLIP): {g_clip:.3f}")
+        st.subheader("Image explanation")
+        if g_clip >= 0.65:
+            st.write("- The image appears consistent with the claim topic.")
+        elif g_clip <= 0.35:
+            st.write("- The image appears inconsistent or weakly related to the claim topic (possible misuse or out-of-context image).")
+        else:
+            st.write("- The image is somewhat related to the claim topic, but not strongly aligned.")
+    else:
+        g_clip = 0.0
+        st.write("No image uploaded: image-text alignment skipped.")
+
+    queries_en = build_queries_en(T_en, lex)
+    queries_native = build_queries_native(T_raw)
+
+    with st.spinner("Fetching evidence (English + native language queries)..."):
+        evidence, source_errors = fetch_all_sources_multilang(queries_en, queries_native, lang, max_total=240)
+
+    with st.expander("Source status"):
+        st.write({
+            "NewsAPI.org": "OK" if NEWSAPI_KEY else "Missing key",
+            "GNews": "OK" if GNEWS_KEY else "Missing key",
+            "NewsData.io": "OK" if NEWSDATA_KEY else "Missing key",
+            "EventRegistry": "OK" if EVENTREGISTRY_KEY else "Missing key",
+        })
+        st.write({k: v for k, v in source_errors.items() if v})
+
+    if not evidence:
+        st.warning("No evidence returned (keys/quota/language coverage).")
+        st.stop()
+
+    st.write(f"Fetched {len(evidence)} unique items (before ranking).")
+
+    with st.spinner("Ranking by relevance..."):
+        ranked = rank_by_relevance(evidence, T_en)
+
+    # filter after ranking (blob present)
+    ranked_f = smart_hard_filter(ranked, T_en, lex)
+    st.write(f"After filtering: {len(ranked_f)} items kept.")
+    if not ranked_f:
+        st.warning("Filtering removed all evidence. Try rephrasing.")
+        st.stop()
+
+    with st.spinner("Running NLI on top evidence..."):
+        S_ent, S_con, scored_top = aggregate_nli_topk(
+            ranked_f, T_en,
+            top_k=TOP_K_EVIDENCE,
+            min_rel_for_con=MIN_REL_FOR_CON,
+            rcon_block=rcon_block,
+            r0=r0, r1=r1
+        )
+
+    if S_con >= contradict_th and S_con > (S_ent + margin):
+        decision = "CONTRADICTED"
+    elif S_ent >= support_th and S_ent > (S_con + margin):
+        decision = "SUPPORTED"
+    else:
+        decision = "UNVERIFIED"
+
+    st.subheader("Result")
+    c1, c2, c3, c4 = st.columns(4)
+    with c1:
+        st.metric("Support", f"{S_ent:.3f}")
+    with c2:
+        st.metric("Contradiction", f"{S_con:.3f}")
+    with c3:
+        st.metric("Image-text alignment", f"{g_clip:.3f}")
+    with c4:
+        st.metric("Decision", decision)
+
+    st.subheader("Explanation")
+    if decision == "SUPPORTED":
+        st.write("- One or more highly relevant items support the claim.")
+    elif decision == "CONTRADICTED":
+        st.write("- One or more highly relevant items contradict the claim.")
+    else:
+        st.write("- No item strongly supports the claim, so it is treated as unverified.")
+
+    # Generic coverage hint (regional stories)
+    top_rel = scored_top[0]["relevance"] if scored_top else 0.0
+    if decision == "UNVERIFIED" and (len(scored_top) <= 2 or top_rel < 0.55):
+        st.write("- Some local/regional stories may have limited coverage in indexed news sources, especially outside English.")
+
+    st.subheader("Evidence")
+    for art in scored_top[:items_to_show]:
+        title = normalize_text(art.get("title",""))
+        desc = normalize_text(art.get("description",""))
+        desc_line = short(desc, 260) if desc else "(No description provided by this API.)"
+
+        # Show which hypothesis matched best (full vs core)
+        best_h = normalize_text(art.get("best_hypothesis",""))
+        claim_full = normalize_text(art.get("claim_full_en",""))
+        claim_core = normalize_text(art.get("claim_core_en",""))
+
+        which = "full claim" if best_h == claim_full else "core claim"
+
+        st.markdown(
+            f"""
+**{title}**  
+{desc_line}  
+Source: {art.get("api","")} | Relevance: {art.get("relevance",0.0):.3f}  
+NLI: {art.get("nli_label","")} (ent={art.get("f_ent",0.0):.3f}, con={art.get("f_con",0.0):.3f}, neu={art.get("f_neu",0.0):.3f})  
+Matched hypothesis: {which}  
+[Read article]({art.get("url","")})
+---
+"""
+        )
+
+    if show_debug:
+        st.subheader("Debug")
+        st.write("English queries:", queries_en)
+        st.write("Native queries:", queries_native)
+        st.write("Claim core:", core_claim(T_en))
+        st.write("Top relevance:", top_rel)
+
+st.divider()
+st.caption("Decision-support system only. Evidence is headline+description; verify full articles when needed.")
+

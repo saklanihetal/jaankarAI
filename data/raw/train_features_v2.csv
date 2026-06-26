@@ -1,0 +1,1501 @@
+headline,label,language,num_evidence,max_rel,mean_rel,p90_rel,max_ent,mean_ent,max_con_used,mean_con,context_mismatch_rate,update_style_rate
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+yes,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+yes,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+yes,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+yes,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+yes,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+yes,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+yes,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+yes,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+yes,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,English,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+The man on the phone: What's it like making history's highest auction bid?,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"PM to states: start planning for vaccine rollout, maintain fatality rate below 1%",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"DU survey shows Akhilesh-Maya more popular than Modi, Priyanka is a failed gambit",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+UP registers first case under anti-conversion law in Bareilly district,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fact Check: Old Video Of Statues Of Ganesha Being Immersed Into River Falsely Linked With,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Special court rejects CBIÛas closure report in IAS officerÛas death, orders further probe",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+President Donald Trump has used this word over 250 times this year,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+From A Photoshopped Headline To A Fake Intel Report On Karnataka...,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11-year-old killed in explosion while tinkering with bomb found in Pokhran firing range in Jaisalmer,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mobile technology to be used for COVID-19 vaccination drive: PM Modi,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mike Trout Signed Rookie Card Sells for $3.93M to Break All-Time Record,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"In reply to Congress, FB says it is non-partisan, denounces hate",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fact Checked: Dont believe this viral tweet falsely attributed to Nita...,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Why Shivaji Park, where Uddhav will take oath, is so important to Shiv Sena & Thackerays",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"No, PM Narendra Modi did not abuse at a rally",0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+This man is not suffering from a heart ailment; hereÕs the...,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Amid BJP Criticism, Mughal Monuments Are IndiaÕs Most Visited. No 1: Taj Mahal",0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Elon Musk's brother wants to transform farming,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"COVID-19: Many mentally ill homeless institutionalised, traceable, why need ID proof to test: HC",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"On Covid, SC caught between judicial activism & restraint",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Not first factual tripping at your end: Bengal Governor to Mamata as letter war escalates amid COVID-19 crisis,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fact Check: What Is Saint Thiruvalluvar's Actual Religion?,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+FarmersÕ agitation: Protest sites named after historic personalities,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Fact Check: Amit Shah Has Not Tested Negative For COVID-19, Second...",0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Sonia, Priyanka make unscheduled visit to families of accident victims in Amethi",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Karnataka's 85-year-old pond digger recovers from COVID-19,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"SSC JE 2019: Online application process for Junior Engineer starts, apply till September 12 at ssc.nic.in",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Days after quitting Cong, former Unnao MP Annu Tandon joins SP",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"No, this image does not show dead doctors and nurses in Italy !.Fact Check: PM Modi's image photoshopped along with starving woman from Africa",0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Civil society groups pitch for better implementation of MGNREGS,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5-year-old tiger dies within minutes of being tranquilised in UP,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Railways to run 80 more special trains from September 12,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"How RBI moved quickly to save Lakshmi Vilas Bank, and why it chose Singapores DBS for merger",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"GST revenue collection at Rs 1.04 lakh crore in November, says finance ministry",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Unrelated photos passed off as images of Babri Masjid from British Libraryâs archive,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"1 lakh in 6 days, count hits half million",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"IndiaÕs single-day spike below 50,000 for first time in 3 months, recoveries cross 67 lakh",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Heavy rain lashes Delhi-NCR; waterlogging, traffic jams at several areas",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Prof Pradeep Kumar Joshi appointed UPSC Chairman,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"No, NCP Leader Sanjay Shinde Was Not An Accused In Palghar Lynching...",0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fake Image Of Women Holding Placards Against Modi Goes Viral,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bihar cliffhanger,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Parody post claiming Owaisi said he will convert to Hinduism believed to be true,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Modi thanks ?silent voters? for Bihar victory, gives warning to those ?killing BJP workers?",0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kartarpur corridor: Registration of pilgrims on hold as Pak asks $20 fee,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Not just farm laws ï¿1⁄2 sugarcane price & delayed payments also causing anger in western UP,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fact Check: AIIMS did not issue this misleading statement on corona symptoms,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nita Ambani did not question RaGa over Maulana Saad; donÕt believe...,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Songs, slogans & hashtags  the quick, cheap way Haryana & Punjab are pepping up polls",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2 Indians kidnapped by Taliban return home,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mother Impala sacrificed herself to cheetahs to save her kids? Heres...,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sonia Gandhi meets DK Shivakumar at Tihar Jail ahead of bail plea hearing today,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Woman sits on solo protest outside parliament in Delhi against Hyderabad veterinarian rape case, detained",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+A call for lynching in Bengaluru after JinnahÕs picture spotted on a bus. And the truth is ..,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+India in touch with Russia over Sputnik 5 Covid vaccine,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rahul Gandhi says India in trouble as Modiï¿1⁄2s ï¿1⁄2imaginary worldï¿1⁄2 falling apart,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Malnutrition, Air Pollution & Dietary Risks Drive Death And Disability In India",0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fact Check: Is this the picture of UP CM Yogi Adityanaths...,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Editors Guild condemns govtï¿1⁄2s threats over ï¿1⁄2stolenï¿1⁄2 Rafale files, says media wonï¿1⁄2t be intimidated",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fake: Govt is not giving Rs 1.2 lakh to employees who have worked between 1990-2021,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"COVID-19 may push millions more children into child labour: ILO, UNICEF",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fake news about Amritsar train driverÕs suicide circulates on social media,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"President, Vice President greet people on eve of Janmashtami",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"NCW seeks immediate action against man for hurling abuses, giving rape threats to stand-up comedian",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fact Check: Are MPs feasting on your money?,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Karnataka pubs, clubs, bars can serve liquor from September 1",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+A-G declines consent for criminal contempt against Bhushan: Expressed regret for error,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fact Check: DonÕt fall for this picture of a man holding...,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Any peace deal with Taliban will not be detrimental to national security of India: Abdullah Abdullah,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+No request from Pakistan for Indian vaccines,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fact Check: Claims that 40 victims of Kerala plane crash tested +ve for COVID-19 is FALSE,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Coronavirus outbreak: Air India may operate special flight to bring back Indians from China,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nun rape case: Supreme Court dismisses Bishop Franco Mulakkal's plea for quashing of charges,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Punjab to conduct a second sero-survey this month,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"In Patnaï¿1⁄2s Maner, itï¿1⁄2s RJD Yadav vs BJP Yadav vs Independent Yadav",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Facebook Removes Fake News Page Postcard For Copyright Violations,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+This video showing celebration on the return of Abhinandan is fake.This video of 2017 Muharram procession is being showcased as the current situation of Kashmir,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Starving Man Asks Politicians To Beat Him To Attract Sympathy,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"RSS affiliate picks holes in laws, warns against monopoly by MNCs",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Covid vaccine hesitancy in India down by 7% since Dec, 3% to wait till 2022 to decide ï¿1⁄2 survey",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rave party at Vagator: Sunburn Klassique co-promoter arrested,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mumbai cops to probe SushantÛas clinical depression angle,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+St Stephens students reignited historic tradition by expressing solidarity with JNU: Shashi Tharoor,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Foreign forces trying to mislead people over citizenship law: Defence Minister Rajnath Singh,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Welcome home Golden Arrows: 5 Rafale fighter jets touch down at Ambala air base, receive water salute",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"In 50 years, seven-fold increase in drought, six-fold in frequency of extreme flood events in Maharashtra: Study",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Covid-19 forces dress code change for SC judges,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+How Hemant Soren turned JMMï¿1⁄2s fortunes after 2 poll routs in Jharkhand,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Fact Check: Nagma goofs up again, calls anti-govt activist Vajpayees niece.Did pro-Modi chanting disrupt Rahul Gandhis Ujjain rally recently? Fact check",0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Congress-NCP- Sena plea in Supreme Court, say Governor acted as a pawn in BJPs hands",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"MNF marks decisive win over Congress, BJP in Mizoram regional polls, bags 20 of 25 seats",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"JNUSU President Aishe Ghosh alleges ABVP behind attack, demands VCÕs dismissal",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Being Ramdas Athawale ï¿1⁄2 Dalit poet, political lightweight but a Modi govt constant",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fact Check: Broiler chicken not affected with Corona virus,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+NGO demands Ôlive telecastÕ of hanging of Nirbhaya rape convicts,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fact Check: Viral tweet of Rajinikanth apologising for travelling without e-pass is fake. Fact Check: Viral tweet of Rajinikanth apologising for travelling without e-pass is fake,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Three years after separation of conjoined twins, one dies",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+DMK legislators fume over privilege notices against them on gutka issue,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BJP gets a reason to cheer CAA in Bengal  thanks to Bangladesh,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Lockdown extends in two districts of Himachal Pradesh till June 30, other districts yet to decide",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fact Checked: Wrong picture of Nirbhay Cruise Missile is being circulated.Fact Check: China never shot down an Indian satellite as being claimed,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"PoK illegally occupied by Pakistan, but controlled by terrorists: Army Chief",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Old images of Amit Shah-Adityanath rally with empty chairs shared as recent,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Israel in Top 10 on GII 2019, to work with India on full potential of implementing innovation",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Rajasthan reports four COVID deaths, 92 new positive cases",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Govt Vs RBI: Handle With Dignity,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Covid19: India follows Test, Track, Treat strategy, tests nearly 3.7 crore",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"India-France friendship ÔunbreakableÕ, stood test of time: PM Modi addresses Indians at UNESCO HQ",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Is Kiran Bedi appointed as J&K Governor? Fact Check!.Fact Check: Viral message claiming Kiran Bedi as new Governor of J&K is false,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Haryanaï¿1⁄2s please-all budget in election year includes sops for farmers & govt employees,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Leopard kills 7-year-old girl in GujaratÛas Dahod district,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Fact Check: No, Aamir Khan Did Not Meet The President Of Turkey Recently",0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Proximity to DBO road link makes Galwan vital,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+S.P. Vaid removed as Jammu & Kashmir DGP as state prepares for October civic polls,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Photoshopped: Taimur Ali Khan wearing ÔNaMo AgainÕ T-shirt,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"China doubles air bases, air defence positions, heliports near LAC after 2017 Doklam standoff: Stratfor",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ÔIf Sharad Pawar becomes UPA chairperson, IÕll like itÕ: Sushilkumar Shinde",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC terms as ÔunfairÕ MaharashtraÕs claim that it was not heard fully in Maratha quota case,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fact Check: Don?t fall for this morphed picture of AAP MP....Fact Check: Dont slip over this Rasbhari gossip with a Pak twist,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Omar was tracking missing MH370 over Papa 2,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+National Covid recoveries cross 50-lakh mark,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Did Kim Jong Un bow down to Dr BR Ambedkar? HereÕs...,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"India, other G-4 nations press for urgent expansion of UNSC",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+WonÛat force exams on students: CISCE,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+NCB arrests Rhea Chakraborty to 'unravel drugs nexus'; sent to judicial custody till Sept 22,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fact Check: Know the truth behind Owaisiâs claim about freedom fightersâ names on India Gate,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Congress leaders take swipe at PM over Trump's 'filthy air' remark,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Air India slashes employee allowances up to 50% despite protests,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"After 169-day halt, Delhi Metro resumes services with mandatory Aarogya Setu app, strict screening",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Read the full text of the three bare Acts related to farming and agriculture marketing,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Fact Check: These Mysterious Tunnels Are Not Located In Dwarka, India;...",0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+UK clothing unit with Indian workers faces slavery probe,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Pfizer Covid vaccine: Rollout logistics, potency likely speed bumps",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Madhya Pradesh cabinet authorises Kamal Nath to take call on proposed floor test tomorrow,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fact Check: Fake 'National Geographic' magazine cover featuring farmers' protest goes viral.Fact Check: The 'news' of attack on Amit Shah with rotten eggs is misleading,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hathras rape victimÛas kin appear before HC; next hearing on November 2,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+NDA candidate Harivansh re-elected as Rajya Sabha deputy chairman,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Rajasthan: BJP claims victory over Congress in Panchayati Raj polls winning 1,812 of 4,371 seats",0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Movie still shared as photograph of Mahatma GandhiÕs assassination,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Former civil servants write to PM Modi opposing Central Vista project as it will destroy heritage,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fact Check: This picture was not taken during ISROÕs Chandrayaan 2...,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rebel Shatrughan Sinha loses to Ravi Shankar Prasad as Patna Sahib sticks with BJP,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fact Check: This video of Muslims licking cutlery is NOT related...,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"10 new ministers, all defectors from Congress, JD (S) take oath in Karnataka cabinet expansion",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"No, this video does not show a Pakistan national flag waved at an Indian National Congress party rally.No, this photo does not show a rally for Indias ruling party",0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Did Hyderabad Police ban kite flying? No, truth is different!.India?s Masala King is not dead!",0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Shiv Senas rural reach, mandate for Uddhav  what Maharashtra gram panchayat results show",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lucknow police commissioner replaced,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Finance Minister Sitharaman comes to aid of woman banker assaulted by Surat cop,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Election Commission: 1,157 candidates have criminal history",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+New CAG report admits Û÷technology transferÛa was shelved in Rafale offsets: Congress,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ABVP asks DUSU president Ankiv Baisoya to resign, suspends him over fake degree row",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Modi, Shah living symbols of sectarianism, bigotry: Congress",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+This footage shows Indian soldiers celebrating Ganesh Chaturthi in the Shingo River Valley in September 2019.This video of 2017 Muharram procession is being showcased as the current situation of Kashmir,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+AAPs Raghav Chadha reaches Goa for public debate on power that govt says it never asked for,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Many including India TV, Kanchan Gupta relay claim from a parody Twitter account",0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"COVID-19: India surpasses China tally with 85,000 confirmed cases",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+A Rahul-Modi face-off and caste equations at play ï¿1⁄2 hereï¿1⁄2s what polls in 5 states entail,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Rahul Gandhi writes to IAS officer Shah Faesal, says troubling that govt is singling you out",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Viral audio clip by PhonePe and KYC expiration message by Paytm is fake!,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+PM Modi launches pan India rollout of COVID-19 vaccination drive,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"INX Media case: SC grants Chidambaram bail after 105 days in jail, orders him not to tamper with proof",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Allies SAD, JD(U) dont name BJP, but blame Delhi riots on central govt",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Black footballers too 'scared' to look at social media due to racist abuse, says Zaha",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Fact Checked: No, Asaduddin Owaisi did not dance after Kamlesh Tiwaris...",0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"HoaXposed: Flight for ITBP troops was a âone-time-affairâ, not Modi govt achievement",0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Indiaï¿1⁄2s Covid-related deaths per million higher than other South Asian nations, says govt",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kejriwal Vs Modi: Fact vs Non-Fact,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"""I will be home once lockdown ends,"" a promise he didn't keep",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fact Check: Image of Muslim youths studying Hindu holy books takes a communal turn,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+MP crisis: SC notice to Kamal Nath govt over BJP floor test plea; no trust vote likely today,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Old video from Bangladesh shared as âIslam Zindabadâ slogans raised in West Bengal,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bihar gears up for counting day,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"MumbaiÛas CSMT station to get Rs 1,642 crore makeover",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fact Check: Video Of Avalanche From Nepal Shared As Recent Uttarakhand...,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Modi to celebrate Karva Chauth with journalists from next year,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+489 people go home after completing 14-day quarantine in Kashmir,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bihar Opp asks EC to save poll exercise turning into super spreader event,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Chinese envoy wears a turban, evokes memories of Sikh parody during Doklam",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Fact Check: No, Army dogs did not maul a stone pelter in Kashmir",0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Cops didn?t attack this woman; here?s the truth.Fact Check: No, this woman was not raped inside a corona isolation ward",0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fact Check: Has ICMR issued these COVID-19 guidelines? Don?t believe this.... Fact Check: Don?t fall for this FAKE news of 400 COVID-19...,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Did IPS D. Roopa Mudgil refuse to accept award by Modi Govt. because of Sadhvi Pragyaâs statement? Fact Check!,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Kartarpur corridor high point of diplomacy for Imran Khan govt, says Pakistan",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Telangana may pass resolution against CAA, says Chief Minister K Chandrasekhar Rao",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Two-day Haryana assembly session could be cut short after CM Khattar, Speaker test positive",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Fact Check: Andhras deputy CM did not hoist Tricolour upside down. Fact Check: No, Bengaluru Bus Conductor Did Not Clear UPSC Mains Exam, He Misled Media",0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fadnavis gets poll makeover as caring brother  BJP wants 21 lakh women to send him rakhis,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Amid shortage, India ÔexportsÕ medical protective equipment to Serbia, triggers debate",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Study shows why masks with exhalation valves do not slow Covid-19 spread,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"India-UK flights to remain suspended till 7 January, says Hardeep Puri",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Maharashtra: Man killed in Chandrapur tiger attack, 16th of the year",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bollywood Actors Bust Fake Quotes Attributed To Them,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Congress forms consultative group with Manmohan Singh as chairman to deliberate on Ôcurrent concernsÕ,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Madhya Pradesh political drama: With floor test on Monday, 8-10 Congress MLAs donÕt want to resign",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fact Check: Truth behind 'lockdown violators' cleaning lake in Karnataka,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+World Suicide Prevention Day: 40-year-old man hangs himself in COVID-19 centre,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ÔPollution an important factorÕ: Kejriwal to PM Modi on rise in Covid cases,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2015 Patidar agitation case: SC grants relief to Hardik Patel till March 6,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Voting on in 94 Bihar Assembly constituencies; Modi urges people to participate in large numbers,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gujarat Confidential: Tweet Trouble,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Old video from Thailand shared as airport employee stealing from baggage of Haj pilgrims,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fake Warren Buffett Account Tweeting Internet Quotes About Life Is A...,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Rahul Gandhi calls out Kamal Naths item remark, says its unfortunate",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+India's child mortality rate declined between 1990 and 2019: UN,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fact Check: Did Bipin Rawat seek Army chiefs dismissal over Ladakh crisis?.Fact Check: Did Bipin Rawat seek Army chief?s dismissal over Ladakh crisis?,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fact Check: Here's truth behind viral story of incestuous marriage between son and his mother,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Karti wants Priyanka Gandhi to contest Kanyakumari Lok Sabha bypoll,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ABVP claims JNU student Kamlesh Mandriya was attacked by Left, Mandriya refutes and blames ABVP",0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"BJP sympathiser Sameet Thakkar latest, Sena?s filed 10 FIRs in 6 mths for ?insulting CM, govt?",0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+India to bring back its nationals from 47 countries under phase II of Vande Bharat Mission,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Pompeo dials Jaishankar, others to counter China",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Rahul Gandhi attacks govt over disengagement plan, says PM ceded Indian territory to China",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Why Eknath Khadseï¿1⁄2s exit ï¿1⁄2shatters BJP imageï¿1⁄2 and deals ï¿1⁄2Brand Fadnavisï¿1⁄2 a blow,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"HC sets aside Trinamools Bhatpara civic body win, says no-trust motion illegally convened",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fact Check: Viral claim of MP police busting a child kidnapping ring is not true.Fact Check: This woman abused by policemen is not the Hathras victim?s mother?,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Movies of local producers to be promoted in Ladakh,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fact Check: No law stops police from entering university campuses,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Karnataka sees fall in dengue, chikungunya cases; lockdown, underreporting likely reasons",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+?A party can?t run like this? ? rumblings within Mamata?s Trinamool get louder ahead of polls,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"On Hema Maliniï¿1⁄2s campaign trail ï¿1⁄2 rose petals, cow dung & a childï¿1⁄2s naming ceremony",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"As Rajnath cancels trip after Vairamuthu row, BJP keeps Tamil Nadu Brahmin base on its side",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Madhya Pradesh government extends lockdown till June 15,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fact Check: Manoj Tiwari's claim about Centre's allocation to Delhi not based on facts.Fact Check: Rahul Gandhi's claim on Ordnance factory of Amethi is misleading,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+National Covid recovery rate reaches 93.68 per cent,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Colonel was decorated twice for gallantry,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fact Check: Is 'Livfavir' Cheaper Than Glenmark's 'Fabiflu'?,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fact Check: Old Incident Of Attack On Policeman From Ghaziabad Shared...,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fact Checked: The truth behind ÔPeopleÕs roadÕ,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kerala Floods: Fake BJP donation claim confuses people.Kerala Floods: BJP ministers did not donate Rs 25 crores cheque,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Did Social Media Rumours Fuel Smriti Irani's Comment On Sabarimala?,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"No, this video does not show a crowd chanting the name of Prime Minister Narendra Modi at a political rally of the Indian National Congress Party.No, this video does not show Indias opposition Congress party workers burning an effigy of Prime Minister Narendra Modi",0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fact Check: Heres the truth behind this picture of Asaduddin Owaisi...,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"PM-CARES fund Û÷receivedÛa donations from Chinese firms, Cong hits back at Govt, targets PM Modi",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Media outlets fall for IPS officerÕs false claim about Pak baby smuggled in a bag to Dubai,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2 Indian vaccines enter phase 2 trials: ICMR,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"CentreÕs booklet points to Kartarpur, CAA, PMÕs gestures",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+How Gupkar alliance cracks have surfaced in small Baramulla hamlet in J&K DDC polls,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Rahul rally wonÛat be stopped, but large crowds wonÛat be tolerated: Manohar Lal Khattar",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Photo Of Charred Body Viral With False Communal Spin,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SHOCKING: Arvind Kejriwal To Reward Himself Rs 1 Crore For Martydom,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Lahore graduate, 45-yr-old mother of 3  2 PoK candidates waiting for counting in DDC poll seats",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Times of India Story On UP Becoming âZero Shortageâ Power State Cherry-Picks Data, Makes Incorrect Claims",0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fact Check: This Ô2019Õ picture of deforestation in ÔAmazoniaÕ is actually...,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Army to outsource tank repairs to private parties,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fact Check: Old picture shared as Indian soldiers marching towards China...,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cops didnÕt attack this woman; hereÕs the truth,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gujarat: Cong MLA among 990 fresh Covid-19 cases,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Respite for RBI  interest rates seen staying low as vegetable prices begin to cool,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fact Check: Disturbing Video From 3 Year Ago Shared With False.... Fact Check: Graphic image from one year ago being circulated with...,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Video Showing Flooded Mexico Airport Back As Mumbai,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Preparations made for capping blowout: OIL,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+China strengthens troops in Aksai-Chin region of Indo-China border,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+PM Modi lays foundation stone of rural drinking water supply projects in Vindhyachal,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Privilege vs privilege  Shashi Tharoor, BJP MP take Facebook hate speech row to Speaker",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Û÷Rahul ModiÛa cracks civil services exam, gets 420th rank",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ED summons DK ShivakumarÕs mother, wife for questioning",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+100 MPs will demand JNU Vice ChancellorÕs sacking: Sitaram Yechury,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Allies step up pressure on BJP to end deadlock with farmers, party says ï¿1⁄2treading cautiouslyï¿1⁄2",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+HRD Minister launches ÔYUKTI 2.0Õ platform for educational institutes,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"No, FM Nirmala Sitharaman did not claim that Modi govt distributed 35,000 crore LED bulbs",0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fact Check: Old Video Of Cow Vigilantism Resurfaces As Recent,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"No, this is not a photo of the Kumbh Mela, a Hindu festival in north India.No, this video does not show a Kuwaiti singer demanding the construction of a Hindu temple in India",0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"All passenger train services cancelled till May 3, refunds to be done automatically by Railways",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bengal BJP MPs say Mamata govt held no meetings of DISHA, Nadda tells them to ï¿1⁄2gheraoï¿1⁄2 DMs",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"50,356 more Covid cases reported; 577 more people die",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Niti Ayog member justifies internet ban in J-K,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+AssamÕs Baghjan oil wells resume operation after massive blowout,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"India generated over 18,000 tonnes COVID-19 waste since June",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Matter of shame for country, govts: Kejriwal on Hathras incident",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SII sues vaccine volunteer for wrong claim,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"In Kargil council, BJP sharing power with NC, which it calls ÔGupkar gangÕ",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chinese PM didnt visit mosque following Coronavirus outbreak; heres the fact...,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+CBI books Delhi-based private company for hosting child porn website of Russian domain,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"From 47,000 per year to 2 lakh a day, IndiaÛas PPE kit production skyrockets",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fact Check: Avalanche video from Nepal shared as Uttarakhand glacier burst,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fact Check: Are people wearing masks not getting enough oxygen?,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"More investors for Lucknow Municipal bonds from Mumbai, Delhi: Keshav Varma",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bihar polls acid test for both candidates & voters; first phase polling today,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Fake News Claims Raghuram Rajan Appointed Governor Of Bank Of England.No, the Reserve Bank of India Governor has not publicly blamed Prime Minister Narendra Modi for his recent resignation",0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"1 dead, 5 injured as car flies off Hyderabad flyover",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+'Ghost Hand' In MP Congress' Advertisement Makes Party A Target Of...,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fact Check: Stones pelted on Home Minister Amit Shah?s convoy in.... Fact Check: Home Minister Amit Shah misquoted on the statement saying...,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fact Check: Dubious websites offer free masks on behalf of PM Modi to fight coronavirus,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Man killed in clashes over setting up of quarantine centre at BengalÕs Birbhum district,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Did Gunjan Saxena's Biopic Claim She Was A Shaurya Chakra Awardee?.Did Amit Shah Meet Arvind Kejriwal With Shoe In Hand?,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"No, RBI is not scrapping Rs 2000 notes; News18 fact-check viral with false claim",0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Wooly coat in winters has changed appearance of LadakhÕs double humped camel,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+No! Akshay Kumar did not say he came to India just...,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Chirag, Nitish, caste, Naxals and land reform ï¿1⁄2 Modiï¿1⁄2s 5 messages to Bihar voters",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"With 24,879 fresh cases IndiaÕs COVID-19 tally crosses 7.6 lakh, death toll climbs to 21,129",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Harivansh Rajya Sabha Deputy Chief again,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"No! Taimur is not wearing ?Namo Again? T-shirt; here?s the fact....Fact Check: No, Jio is not offering you free T-shirt",0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Veteran communist leader Shyamal Chakraborty dies of Covid,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chidambaram questions PM CARE Fund,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anti-CAA Protesters Bribed With Biryani And Other News You Almost...,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centre upgrades VijayvargiyaÕs security with bullet-resistant car after WB attack,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Aircel-Maxis case: Court displeased over delay in probe against Chidambaram, Karti",1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Three more cops suspended over Kanpur shootout,1,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fact Check: Did The Supreme Court Approve A Logo For Teachers?,0,English-Hindi-Mixed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+yes,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+yes,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+yes,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+yes,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+yes,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+yes,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+yes,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+yes,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+yes,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+yes,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+yes,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+yes,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+yes,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+yes,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+yes,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+yes,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+yes,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+yes,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+yes,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+yes,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+yes,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Hindi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಮುತ್ತೈದೆಯರೇ ದೇವಿಯಂತೆ ಕಾಣ್ತಿದ್ರು ಕಲಬುರಗಿ ವರಮಹಾಲಕ್ಷ್ಮಿ ವೈಭವ ನೋಡಿ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ರಾಜ್ಯಾದ್ಯಂತ ಹರ್ ಘರ್ ತಿರಂಗಾ ಅಭಿಯಾನ ಮನೆ ಮನೆಯಲ್ಲೂ ಹಾರುತಿಹುದು ನೋಡು ನಮ್ಮ ಬಾವುಟ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ವಿಯೆನ್ನಾದ ವಿಶ್ವವಿದ್ಯಾಲಯದ ಆಸ್ಪತ್ರೆಯೊಂದು ಐಬುಪ್ರೊಫೇನ್ ಕರೋನವೈರಸ್ ಹರಡುವಿಕೆಯನ್ನು ವೇಗಗೊಳಿಸುತ್ತದೆ ಎಂದು ಕಂಡುಹಿಡಿದಿದೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ತಿರುಮಲ ದೇವಸ್ಥಾನದಲ್ಲಿ ನಡೆದ ಘಟನೆಯಿಂದ ಭಕ್ತನಿಗೆ ಪೊಲೀಸರು ಥಳಿಸಿದ ವಿಡಿಯೋ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ನಿಪಾ ವೈರಸ್ ಕೋಳಿಗಳಿಗೂ ಹರಡಿದೆ ಎಂದು ಮಣಿಪಾಲ ವೈರಾಣು ಸಂಸ್ಥೆ ಗುರುತಿಸಿದೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಬೈರಾಗಿಯಲ್ಲಿ ಶಿವಣ್ಣನ ಎನರ್ಜಿಯೇ ಹೈಲೈಟ್ ಅಭಿಮಾನಿಗಳಿಗೆ ಭರ್ಜರಿ ಟ್ರೀಟ್‌,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಇಂದೋರ್‌ನಲ್ಲಿ ಗ್ಯಾಸ್ ಸಿಲಿಂಡರ್ ಡೆಲಿವರಿ ಮಾಡುವ ವ್ಯಕ್ತಿಯ ಜೇಬಿನಿಂದ ನೋಟುಗಳು ಬೀಳುವ ವಿಡಿಯೋ ಕರೋನಾಗೆ ಲಿಂಕ್ ಆಗಿದೆ ಫೇಸ್‌ಬುಕ್‌ನಲ್ಲಿ ನಕಲಿ ಪ್ರಚಾರ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Smartphones Under 10000 ಈ ಫೋನ್ ಗಳನ್ನು 10000 ಬಜೆಟ್‌ ನೊಳಗೆ ಖರೀದಿಸಿ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಜಾಗತಿಕ ಕರೋನವೈರಸ್ ಲಾಕ್‌ಡೌನ್‌ನಿಂದ ತೈಲ ಬೆಲೆಗಳು ಋಣಾತ್ಮಕವಾಗಿದ್ದರಿಂದ ಏಂಜೆಲ್ ಬ್ರೋಕಿಂಗ್ ದಿವಾಳಿಯಾಯಿತು,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಕರೋನವೈರಸ್ ಸಮಸ್ಯೆಯನ್ನು ನಿಗ್ರಹಿಸಲು ಭಾರತವು ಅತ್ಯಂತ ಮುಂಚಿನ ಕ್ರಮಗಳನ್ನು ತೆಗೆದುಕೊಂಡಿದೆ ಇದೀಗ ಭಾರತದಲ್ಲಿ ಕೋವಿಡ್ 19 ನ ಒಂದೇ ಒಂದು ಪ್ರಕರಣವೂ ಇಲ್ಲ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಲವ್ ಜಿಹಾದ್ ಯಾವಾಗಲೂ ಹಿಂದೂ ಹುಡುಗಿಯ ಸಾವಿನಲ್ಲಿ ಕೊನೆಗೊಳ್ಳುತ್ತದೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಕಳೆದ 72 ವರ್ಷಗಳಲ್ಲಿ ಭಾರತದ ಜಿಡಿಪಿ ಬೆಳವಣಿಗೆ ದರವು ಪಾಕಿಸ್ತಾನದ ಜಿಡಿಪಿ ಬೆಳವಣಿಗೆ ದರಕ್ಕಿಂತ ಹಲವು ಪಟ್ಟು ಕಡಿಮೆಯಾಗಿದೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಮಹಾರಾಷ್ಟ್ರ ಸಿಪಿಎಂನ ರಾಜ್ಯ ಕಾರ್ಯದರ್ಶಿಯಾಗಿದ್ದ ಕಾಮ್ರೇಡ್ ಸರ್ಸಯ್ಯ ಆದಂ ಬಿಜೆಪಿ ಸೇರಿದ್ದಾರೆ ಎಂಬ ಸುದ್ದಿಯೇ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಅಕ್ಷಯ್ ಕುಮಾರ್ ಅಯೋಧ್ಯೆ ಮಂದಿರಕ್ಕೆ 10 ಕೋಟಿ ದೇಣಿಗೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ನಮಾಜ್ ಮತ್ತು ಕುರಾನ್ ಪಠಣವು ಕೋವಿಡ್ 19 ಗೆ ಏಕೈಕ ಪರಿಹಾರವಾಗಿದೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ಒಮ್ಮೆ ಭಯೋತ್ಪಾದಕರು ತ್ರಿವರ್ಣ ಧ್ವಜವನ್ನು ಹಾರಿಸಿದ ಶ್ರೀನಗರದ ಲಾಲ್ ಚೌಕ್‌ನಲ್ಲಿ ತ್ರಿವರ್ಣ ಧ್ವಜವು ಹೆಮ್ಮೆಯಿಂದ ಹಾರುತ್ತದೆ, ಜೈ ಹಿಂದ್",0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಬೆಂಗಳೂರಿನಲ್ಲಿ ತಾಳಿ ಕಟ್ಟುವ ಮುನ್ನ ನೂತನ ದಂಪತಿಯಿಂದ ಧ್ವಜಾರೋಹಣ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಪೋರ್ಚುಗೀಸ್ ನ್ಯಾವಿಗೇಟರ್ ವಾಸ್ಕೋ ಡ ಗಾಮಾ ಮೊದಲು ಗ್ರೀಸ್ ರಾಜ ಅಲೆಕ್ಸಾಂಡರ್ ಭಾರತಕ್ಕೆ ದಾರಿ ಕಂಡುಕೊಂಡರು,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಕಂಗನಾ ಕಚೇರಿಯನ್ನು ಬಿಎಂಸಿ ನೆಲಸಮಗೊಳಿಸಿದೆ ಎಂದು ಎಲ್ಲಾ ಸುದ್ದಿ ವಾಹಿನಿಗಳಲ್ಲಿ ಚರ್ಚೆ ನಡೆಯುತ್ತಿದೆ.,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಐಪಿಎಲ್ 2018 ಚೆನ್ನೈ ಸೂಪರ್ ಕಿಂಗ್ಸ್​vs ಡೆಲ್ಲಿ ಡೇರ್ ಡೆವಿಲ್ಸ್ಪಂತ್ ಶಂಕರ್ ಹೋರಾಟ ವ್ಯರ್ಥ ಚೆನ್ನೈ​​ಗೆ 13 ರನ್​ಗಳ ರೋಚಕ ಜಯ​,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಮನೆಯಲ್ಲಿ ತಯಾರಿಸಿದ ಆಮ್ಲಜನಕ ಸಾಧನವು ಮನೆಯಲ್ಲಿಯೇ ಕೋವಿಡ್ 19 ರೋಗಿಗಳಿಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ಈ ವೀಡಿಯೊವನ್ನು ಭಾರತದಲ್ಲಿನ ಕೋವಿಡ್ 19 ಆಸ್ಪತ್ರೆಯಲ್ಲಿ ಚಿತ್ರೀಕರಿಸಲಾಗಿದೆ ಈ ವೀಡಿಯೊದಲ್ಲಿ ಕೋತಿಗಳು ಆಸ್ಪತ್ರೆಯ ವಾರ್ಡ್‌ನಿಂದ ಆಹಾರವನ್ನು ಕದಿಯುವುದನ್ನು ತೋರಿಸುತ್ತದೆ, ಅಲ್ಲಿ ರೋಗಿಗಳು ತಮ್ಮನ್ನು ತಾವು ರಕ್ಷಿಸಿಕೊಳ್ಳುತ್ತಿದ್ದಾರೆ",0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಕೆಟಮೈನ್ ಕೋವಿಡ್ 19 ಅನ್ನು ಗುಣಪಡಿಸಬಹುದು,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+19 ವರ್ಷದ ಹಳೆಯ ಫೋನ್ 70% ಚಾರ್ಜ್ ಆಗಿದ್ದು ಸ್ವಿಚ್ ಆಫ್ ಆಗಿಲ್ಲ ಎಂಬ ಸುದ್ದಿಯಲ್ಲಿ ಸತ್ಯವಿದೆ.,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಭರ್ಜರಿ ಚೇತನ್ಅವರ ಮುಂದಿನ ಸಿನಿಮಾಗೂ ಬ ಅಕ್ಷರದ ಟೈಟಲ್ಫಿಕ್ಸ್​,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಸೋರೆಕಾಯಿ ರಸವು ಕರೋನಾ ವೈರಸ್ ಅನ್ನು ಗುಣಪಡಿಸುತ್ತದೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ಅದಕ್ಕಾಗಿಯೇ ದೆಹಲಿ ಪೊಲೀಸರು ಅದರ ಕೆಲಸವನ್ನು ಮಾಡುತ್ತಿದ್ದಾರೆ, ಮಾಧ್ಯಮಗಳು ನಿಮ್ಮ ಕೆಲಸವನ್ನು ಮಾಡುತ್ತವೆ",0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಕೆಪಿಎಸ್‌ಸಿ ಇಂದ ವಿವಿಧ ಸಾಲಿನ ಹುದ್ದೆಗಳ ಪರೀಕ್ಷೆ ಅಂಕಪಟ್ಟಿ ಬಿಡುಗಡೆ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಸಿಗರೇಟ್ ಸೇದುವುದರಿಂದ ಕರೋನಾ ವೈರಸ್ ನಿಂದ ರಕ್ಷಿಸಬಹುದು,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಬಾಸ್ಪರ್ವ ಸುಲ್ತಾನನ ಹುಟ್ಟುಹಬ್ಬಕ್ಕೆ ಅಭಿಮಾನಿಗಳ ಕೈಯಲ್ಲಿ ಡಿ ಬಾಸ್ಬೆಳ್ಳಿ ಕಡಗದ ಮೆರುಗು,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಫುಲ್ ಆಯ್ತು ಘಟಪ್ರಭಾ ಡ್ಯಾಂ ರಾಜ್ಯದ ಜಲಾಶಯಗಳ ನೀರಿನ ಮಟ್ಟ ಹೀಗಿದೆ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ದೇಶಾದ್ಯಂತ ಸಿಎಎ ವಿರೋಧಿ ಪ್ರತಿಭಟನೆಗಳ ಹಿನ್ನೆಲೆಯಲ್ಲಿ ಮುಸ್ಲಿಮರು ಕಾನೂನು ಮತ್ತು ಸುವ್ಯವಸ್ಥೆಯನ್ನು ತಮ್ಮ ಕೈಗೆ ತೆಗೆದುಕೊಂಡಿದ್ದಾರೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಜನ್ನತ್ ಕಿ ಹೈ ಏ ತಸ್ವೀರ್ ಹಾಡನ್ನು ಅಂದಿನ ಕಾಂಗ್ರೆಸ್ ಸರ್ಕಾರ ನಿಷೇಧಿಸಿತ್ತು,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಬುರ್ಜ್ ಖಲೀಫಾದಲ್ಲಿ ಬತುಕಮ್ಮ ಚಿತ್ರಗಳ ಜೊತೆಗೆ ನಿಜಾಮಾಬಾದ್ ಎಂಎಲ್‌ಸಿ ಕವಿತಾ ಅವರ ಫೋಟೋವನ್ನು ಪ್ರದರ್ಶಿಸಲಾಯಿತು.,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಲಸಿಕೆಗಳು ಮಾನವ ಜೀನೋಮ್ ಅನ್ನು ಬದಲಿಸಿ ಜನರನ್ನು ಹುಮನಾಯ್ಡ್‌ಗಳನ್ನಾಗಿ ಮಾಡುತ್ತದೆ ಮತ್ತು ಅವರ ಮಾನವ ಹಕ್ಕುಗಳನ್ನು ಕಸಿದುಕೊಳ್ಳುತ್ತದೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಯೋಗಿ ಜಿ ಅವರಿಗೆ ಪತ್ನಿ ಮತ್ತು ಪುತ್ರಿ ಕೂಡ ಇದ್ದಾರೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಕಾಂಗ್ರೆಸ್ ಮುಖಂಡ ಅಮ್ಜತ್ ಅಲಿ ಮಸೀದಿಯಿಂದ ಶಸ್ತ್ರಾಸ್ತ್ರಗಳೊಂದಿಗೆ ಅಸ್ಸಾಂ ಪೊಲೀಸರಿಗೆ ಸಿಕ್ಕಿಬಿದ್ದಿದ್ದಾರೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಬಿಸಿ ನೀರು ಕುಡಿದರೂ ಬಿಸಿಲಲ್ಲಿ ನಿಂತರೂ ಕೊರೊನಾ ವೈರಸ್ ಸಾಯುತ್ತದೆ ಎಂಬ ಸ್ಟ್ಯಾನ್‌ಫೋರ್ಡ್ ವಿಶ್ವವಿದ್ಯಾಲಯದ ಹೆಸರಿನಲ್ಲಿ ನಡೆಯುತ್ತಿರುವ ಪ್ರಚಾರ ಸುಳ್ಳು.,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಬ್ಯಾಂಕ್ KYC ಗೆ NPR ದಾಖಲೆ ಕಡ್ಡಾಯವಾಗಿದೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಬಹಿರಂಗವಾಗಲಿದೆ ಯಶ್ಅಭಿನಯದ ಕೆಜಿಎಫ್ಸಿನಿಮಾದ ರಿಲೀಸ್ದಿನಾಂಕ​.,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಆಂಧ್ರಪ್ರದೇಶದ ನೂತನ ರಾಜ್ಯ ಚುನಾವಣಾ ಆಯುಕ್ತ ನ್ಯಾಯಮೂರ್ತಿ ಕನಕರಾಜ್ ಅವರು ಫೋಟೋದಲ್ಲಿ ಪಾದ್ರಿಯಾಗಿ ಕಾಣಿಸಿಕೊಂಡಿದ್ದಾರೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+73 ದಿನಗಳಲ್ಲಿ ಕೋವಿಶೀಲ್ಡ್ ಕರೋನಾ ಲಸಿಕೆ ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಉಚಿತವಾಗಿ ಲಭ್ಯವಾಗಲಿದೆ ಎಂದು ಸೀರಮ್ ಇನ್‌ಸ್ಟಿಟ್ಯೂಟ್ ಆಫ್ ಇಂಡಿಯಾ ಕಂಪನಿಯ ಪ್ರತಿನಿಧಿಗಳು ತಿಳಿಸಿದ್ದಾರೆ.,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಕೇರಳ ಸರ್ಕಾರ ದಾದಿಯರಿಗೆ ಕನಿಷ್ಠ ವೇತನ ವ್ಯವಸ್ಥೆಯನ್ನು ಜಾರಿಗೆ ತಂದಿಲ್ಲವೇ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಭಾರತೀಯ ಸೇನೆ ಎಂಬ ಹೆಸರಿನ ಟ್ವಿಟರ್ ಹ್ಯಾಂಡಲ್ ಕಳೆದ ಕೆಲವು ದಿನಗಳಿಂದ ಚೀನಾ ಸೇನೆಯ ವಿರುದ್ಧ ಎಚ್ಚರಿಕೆಯನ್ನು ಟ್ವೀಟ್ ಮಾಡುತ್ತಿದೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಭೂಗತ ಪಾತಕಿ ಛೋಟಾ ರಾಜನ್ ಸಹೋದರ ಬಿಜೆಪಿಯಿಂದ ಟಿಕೆಟ್ ಪಡೆದಿದ್ದಾರೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಕೊರೊನಾ ಸೋಂಕಿತ 20000 ಜನರನ್ನು ಕೊಲ್ಲಲು ಚೀನಾ ಸರ್ಕಾರ ನ್ಯಾಯಾಲಯದ ಅನುಮತಿ ಕೇಳಿದೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಇರ್ಫಾನ್ ಖಾನ್ ಸಾವಿನ ಬದಲು ಇರ್ಫಾನ್ ಖಾನ್ ಕುಟುಂಬಕ್ಕೆ ರಾಹುಲ್ ಗಾಂಧಿ ಶ್ರದ್ಧಾಂಜಲಿ ಸಲ್ಲಿಸಿದ್ದಾರೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಹುದ್ದೆಯ ಘನತೆಗೆ ನ್ಯಾಯ ಕೊಡಲು ಸಾಧ್ಯವಿಲ್ಲದ ಜಿಹಾದಿ ಮನಸ್ಥಿತಿಯವರಿಗೆ ಸಾಂವಿಧಾನಿಕ ಹುದ್ದೆ ನೀಡಬಾರದು.,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ನೇಪಾಳದ ಗಡಿಯನ್ನು ಮುಚ್ಚಬೇಕು ನೇಪಾಳದ ಜನರು ಪಾಸ್‌ಪೋರ್ಟ್ ಇಲ್ಲದೆ ಬರಲು ಅವಕಾಶ ನೀಡಬಾರದು ನೇಪಾಳದೊಂದಿಗಿನ ಆರ್ಥಿಕ ಸಂಬಂಧಗಳನ್ನು ಹಲ್ದಿಯಾವನ್ನು ಕೊನೆಗೊಳಿಸಬೇಕು ಮತ್ತು ವಿಶಾಖಪಟ್ಟಣಂ ಬಂದರುಗಳನ್ನು ಮುಚ್ಚಬೇಕು,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಮರಣಾನಂತರದ ಸಮಾರಂಭವಾಗಿ ಶಾವ್ ಕೂತ್ ನಡೆಸುವುದು ತಮಿಳುನಾಡಿನಲ್ಲಿ ಒಂದು ಪದ್ಧತಿಯಾಗಿದೆ.,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ತ್ರಿಪುರಾದಲ್ಲಿ ಮುಸ್ಲಿಮರ ನಿವಾಸಗಳಿಗೆ ಹಿಂದೂಗಳು ಬೆಂಕಿ ಹಚ್ಚಿದ್ದಾರೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಕೋವಿಡ್ 19 ಲಸಿಕೆಗಳಲ್ಲಿನ mRNA ತಂತ್ರಜ್ಞಾನವನ್ನು ಮಾನವರಲ್ಲಿ ಎಂದಿಗೂ ಪರೀಕ್ಷಿಸಲಾಗಿಲ್ಲ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಉದ್ಯಮಿ ಮುಕೇಶ್ ಅಂಬಾನಿ ಕುಟುಂಬಕ್ಕೆ ಬೆದರಿಕೆ ಎಂಟು ಬಾರಿ ಕರೆ ಒಬ್ಬನ ಬಂಧನ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ದೇಶದಲ್ಲಿ ಲಾಕ್‌ಡೌನ್‌ನಿಂದಾಗಿ, ಮಾಲಿನ್ಯವು ಕಡಿಮೆಯಾಗಿದೆ ಆದ್ದರಿಂದ ಬಾಂಬೆ ಹೈ ಬಳಿಯ ಸಮುದ್ರದಲ್ಲಿ ತಿಮಿಂಗಿಲಗಳು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ.",0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಮುಸ್ಲಿಂ ಮಹಿಳೆಯರು ಪ್ಲಾಸ್ಟಿಕ್ ಚೀಲಗಳಲ್ಲಿ ಉಗುಳಿ ಮನೆಗಳ ಒಳಗೆ ಎಸೆಯುತ್ತಾರೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಟೆಕ್ಸಾಸ್‌ನ ಹೂಸ್ಟನ್‌ನಲ್ಲಿ ನಡೆದ ಕಾರ್ಯಕ್ರಮದಲ್ಲಿ ``ಹೌಡಿ ಮೋದಿ'' ಎಂಬ ಘೋಷಣೆಗಳು ಮೊಳಗಿದವು.,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಇದು ಮಧ್ಯಪ್ರದೇಶದಲ್ಲಿ ಸಾಮೂಹಿಕ ಶಿಕ್ಷೆಗೆ ಗುರಿಯಾದ ದಂಪತಿಗಳ ಚಿತ್ರವೇ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಶ್ರೀದೇವಿ ಅಭಿನಯಿಸಬೇಕಿದ್ದ ಪಾತ್ರಕ್ಕೆ ಮಾಧುರಿ ಮತ್ತೆ ತೆರೆ ಮೇಲೆ ಒಂದಾಗಲಿರೋ ಸಂಜಯ್ಮಾಧುರಿ ಜೋಡಿ​,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಸೋರೆಕಾಯಿ ಜ್ಯೂಸ್ ಕುಡಿಯುವುದರಿಂದ 2 ಗಂಟೆಗಳಲ್ಲಿ ಕೊರೊನಾ ವೈರಸ್ ಅನ್ನು ಗುಣಪಡಿಸಬಹುದು,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಉದ್ಯೋಗಿಯೊಬ್ಬರಿಗೆ ಕೊರೊನಾ ವೈರಸ್ ಸೋಂಕು ತಗುಲಿರುವುದು ಕಂಡುಬಂದರೆ ಅವರ ಕಂಪನಿ ಮಾಲೀಕರನ್ನು ಬಂಧಿಸಲಾಗುತ್ತದೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ವಿವೇಕಾನಂದ ರೆಡ್ಡಿ ಹತ್ಯೆ ಪ್ರಕರಣದಲ್ಲಿ ಟಿಡಿಪಿ ಪಕ್ಷದ ಪಿತೂರಿ ಇರುವುದನ್ನು ಎನ್‌ಐಎ ತಂಡ ಬಹಿರಂಗಪಡಿಸಿದೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಪ್ಲಾಸ್ಟಿಕ್‌ನಿಂದ ಅಕ್ಕಿ ಮಾಡುವ ವಿಡಿಯೋ ನಿಜವೇ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ನಟ ದುನಿಯಾ ವಿಜಯ್ ರಿಂದ ಹಲ್ಲೆಗೊಳಗಾದ ಮಾರುತಿ ಗೌಡ ಹೇಳಿಕೆ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ರಾಜಸ್ಥಾನದ ಕುಂಭಲ್‌ಗಢ್ ಕೋಟೆಯಲ್ಲಿ ಮುಸ್ಲಿಂ ಸಮುದಾಯಕ್ಕೆ ಇಜ್ತಿಮಾ ಧಾರ್ಮಿಕ ಕಾರ್ಯಕ್ರಮ ನಡೆಸಲು ರಾಜ್ಯ ಕಾಂಗ್ರೆಸ್ ಸರ್ಕಾರ ಅನುಮತಿ ನೀಡಿದೆ.,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Amazons Todays Deal ಈ Oppo Smartphones ಗಳು ಈಗ ರಿಯಾಯಿತಿ ದರದಲ್ಲಿ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಕಾಂಗ್ರೆಸ್ ಅಧಿಕಾರಕ್ಕೆ ಬಂದರೆ ಎನ್‌ಕೌಂಟರ್‌ನಲ್ಲಿ ಮೃತಪಟ್ಟ ಉಗ್ರರಿಗೆ ಒಂದು ಕೋಟಿ ರೂಪಾಯಿ ನೀಡುತ್ತೇವೆ ಮತ್ತು ಜೈಲಿನಲ್ಲಿರುವ ಉಗ್ರರನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತೇವೆ.,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಸಹಾಯದ ನಿರೀಕ್ಷೆಯಲ್ಲಿ ಅಂತರಾಷ್ಟ್ರೀಯ ಕುಸ್ತಿಪಟು ರೀಟಾ ಪ್ರಿಯಾಂಕ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ನಾಸಿರುದ್ದೀನ್ ಶಾ ಅವರ ಅನಾರೋಗ್ಯದ ಸುದ್ದಿ, ಅವರು ಏರಿದಾಗ 1000 ಕೆಜಿ ಬ್ರೌನಿಗಳನ್ನು ವಿತರಿಸುತ್ತಾರೆ",0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಶಾಹೀನ್ ಬಾಗ್ ನಲ್ಲಿ ಮುಸ್ಲಿಂ ಮಹಿಳೆಯರ ಮೇಲೆ ರಜಪೂತ ಮಹಿಳೆಯರು ಕತ್ತಿಗಳಿಂದ ಹಲ್ಲೆ ನಡೆಸಿದ್ದಾರೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಎಲ್​ಪಿಜಿ ಸಿಲಿಂಡರ್ ಬೆಲೆ ಇಳಿಕೆ ಆದರೆ ನಿಮಗೂ ಈ ಲಾಭವಾಗಲಿದೆಯೇ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6ನೇ ಬಾರಿ ವಿಶ್ವ ಚಾಂಪಿಯನ್ಪಟ್ಟಕ್ಕೇರಿ ಇತಿಹಾಸ ಸೃಷ್ಟಿಸಿದ ಬಾಕ್ಸರ್​​ಮೇರಿ ಕೋಮ್,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಚೀನಾದ ಎಚ್ಚರಿಕೆಗಳನ್ನು ಲೆಕ್ಕಿಸದೆ ತೈವಾನ್ ತಲುಪಿದ US ಹೌಸ್ ಸ್ಪೀಕರ್ ನ್ಯಾನ್ಸಿ ಪೆಲೋಸಿ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಮಹಾರಾಷ್ಟ್ರ ಚುನಾವಣೆಯಲ್ಲಿ ಅತಿ ಹೆಚ್ಚು ಬಹುಮತ ಗಳಿಸಿದ ಯುವ ಕಾಂಗ್ರೆಸ್ ನಾಯಕರೇ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಬದುಕಿರುವಾಗ ಅಯೋಧ್ಯೆಯಲ್ಲಿ ರಾಮಮಂದಿರ ನಿರ್ಮಾಣಕ್ಕೆ ಅವಕಾಶ ನೀಡುವುದಿಲ್ಲ ಎಂದು ಕಪಿಲ್ ಸಿಬಲ್ ಹೇಳಿದ್ದಾರೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ಯುಪಿಯಲ್ಲಿ ಲವ್ ಜಿಹಾದ್ ಕಾಯ್ದೆಯಡಿ ಮೊದಲ ತೀರ್ಪು ನೀಡಲಾಯಿತು.ಉತ್ತರ ಪ್ರದೇಶ ರಾಜ್ಯದಲ್ಲಿ ಮೊದಲ ಬಾರಿಗೆ ಕಾನ್ಪುರ ಯುವಕನಿಗೆ 10 ವರ್ಷಗಳ ಜೈಲು ಶಿಕ್ಷೆ ಮತ್ತು 30,000 ರೂಪಾಯಿ ದಂಡವನ್ನು ಕಾನ್ಪುರ ನ್ಯಾಯಾಲಯ ನೀಡಿದೆ.",0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಐತಿಹಾಸಿಕ ಟೆಸ್ಟ್ ಭಾರತದ ವಿರುದ್ಧ ಪಂದ್ಯಕ್ಕೆ ತಾಲಿಬಾನ್ ಕ್ರಿಕೆಟಿಗ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಕರೋನವೈರಸ್ ಅನ್ನು ಲ್ಯಾಬ್‌ನಲ್ಲಿ ಮಾಡಲಾಗಿದೆ ಎಂದು ಮಾಜಿ ಮತ್ತು ವಿವಾದಾತ್ಮಕ ಸಿಐಎ ಅಧಿಕಾರಿಯೊಬ್ಬರು ಹೇಳಿದ್ದಾರೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ರಿಸರ್ವ್ ಬ್ಯಾಂಕ್ ಎಲ್ಲಾ ರೂ 2000 ನೋಟುಗಳನ್ನು ಹಿಂಪಡೆಯುತ್ತಿದೆ 31 ಡಿಸೆಂಬರ್ 2019 ರ ನಂತರ ನಿಮ್ಮ ರೂ 2000 ನೋಟುಗಳನ್ನು ಬದಲಾಯಿಸಲು ನಿಮಗೆ ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಜಿಹಾದಿಗಳು ಬ್ರೆಡ್ ಪ್ಯಾಕೆಟ್‌ಗಳನ್ನು ತೆರೆದು ಅವುಗಳ ಮೇಲೆ ಉಗುಳಿದರು,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Photos ವಿ ರವಿಚಂದ್ರನ್ ಪುತ್ರ ಮನೋರಂಜನ್ ವೈವಾಹಿಕ ಬದುಕಿನಲ್ಲೀಗ ಸಂಗೀತಮಯ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಕಾರ್ ಇಂಜಿನ್ ಸ್ಟಾರ್ಟ್ ಆದ ತಕ್ಷಣ ಏರ್ ಕಂಡಿಷನರ್ ಎಸಿ ಆನ್ ಮಾಡುವುದರಿಂದ ಕ್ಯಾನ್ಸರ್ ಗೆ ಕಾರಣವಾಗುವ ಬೆಂಜೀನ್ ಗ್ಯಾಸ್ ವಾಹನದಿಂದ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ.,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ಕರೋನಾದಿಂದಾಗಿ ಆಸ್ಪತ್ರೆಯ ಹೆಸರಿನಲ್ಲಿ ಜನರಲ್ಲಿ ಭಯವಿದೆ, ಆಸ್ಪತ್ರೆಗಳಲ್ಲಿ ಅಂಗಾಂಗ ಕಳ್ಳಸಾಗಣೆ ನಡೆಯುತ್ತಿದೆ, ಈ ಯೋಜನೆಯು ನೋಟು ಅಮಾನ್ಯೀಕರಣದಂತೆಯೇ ಹರಡಿದೆ.",0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ದುಬೈ ರಾಜಕುಮಾರ ಮೋದಿಗೆ ಮತ ಹಾಕಲು ಕರೆ ನೀಡಿದ್ದಾರಾ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಹಾಲ್ಗೆನ್ನೆ ಹೊಳಪಿಗೆ ಇಲ್ಲಿದೆ ಮ್ಯಾಜಿಕ್ಡ್ರಿಂಕ್ಇನ್​ಸ್ಟಾಗ್ರಾಂನಲ್ಲಿ ಬಹಿರಂಗವಾಯ್ತು ತಮನ್ನಾರ ಬ್ಯೂಟಿ ಸೀಕ್ರೆಟ್,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ನೀವು ಚಿತ್ರದಲ್ಲಿ ಕಾಣುತ್ತಿರುವುದು ಸಿಪಿಎಂ ತೊರೆದು ಬಿಜೆಪಿ ಸೇರಿದ ಬಂಗಾಳದ ಸಿಪಿಎಂ ಸಂಸದರು,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಚೀನಾ ತನ್ನ ಕರೆನ್ಸಿಯನ್ನು ಯುನೈಟೆಡ್ ಸ್ಟೇಟ್ಸ್ ಡಾಲರ್‌ಗೆ ಜೋಡಿಸುವ ಷೇರು ವಿನಿಮಯ ವ್ಯವಸ್ಥೆಯನ್ನು ತ್ಯಜಿಸಲು ಸಿದ್ಧವಾಗಿದೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಮದುವೆಗೂ ಮುನ್ನ ಸೆಕ್ಸ್‌ ಮಾಡೋದ್ರಿಂದ ಲಾಭಗಳೇನು ಹಾಗೂ ನಷ್ಟಗಳೇನು ಗೊತ್ತಾ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಶೂಗಳಿಂದಾಗಿ ಇಟಲಿಯಲ್ಲಿ ಕೊರೊನಾ ಪ್ರಕರಣಗಳು ಹೆಚ್ಚಾಗುತ್ತಿವೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಕೆನಡಾದ ಪ್ರಧಾನಿ ಜಸ್ಟಿನ್ ಟ್ರುಡೊ ಕ್ರಿಶ್ಚಿಯನ್ ಧರ್ಮವನ್ನು ತೊರೆದು ಇಸ್ಲಾಂಗೆ ಮತಾಂತರಗೊಂಡಿದ್ದಾರೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಲೋಕಸಭೆ ಚುನಾವಣೆಗೆ ನಟ ಪ್ರಕಾಶ್ರೈ ಸ್ಪರ್ಧೆ ಆಪ್ತರಿಗೆ ಸಿಹಿಸುದ್ದಿ ಕೊಟ್ಟ ಜಸ್ಟ್​​ಆಸ್ಕಿಂಗ್​ರೂವಾರಿ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಕೇವಲ 10 ರೂಪಾಯಿ ಶುಲ್ಕ ವಿಧಿಸುವ ವೈದ್ಯ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಫ್ರಾನ್ಸ್ ಮುಸ್ಲಿಮರ ವಿರುದ್ಧ ಯುದ್ಧ ನಡೆಸಿತು,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಉತ್ತರ ಪ್ರದೇಶದ ಮುಸ್ಲಿಂ ಯುವಕರು ದಲಿತರು ತಯಾರಿಸಿದ ಆಹಾರವನ್ನು ತಿನ್ನಲು ನಿರಾಕರಿಸುತ್ತಾರೆ ನಿಜ ಅಥವಾ ನಕಲಿ ನವದೆಹಲಿ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಹಿಂಗ್ ಎಂಜಾಯ್ ಮಾಡ್ಬೇಕ್ರಿ ಕೆಸರಲಿ ಜೊತೆಯಲಿ ವೀಡಿಯೋ ವೀಕ್ಷಿಸಿ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ವಿಮಾನ ಪರೇಡ್ ಭಾರತೀಯ ಸೇನೆಯದ್ದಲ್ಲ.,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಈ ವೀಡಿಯೋದಲ್ಲಿ ಹಲ್ಲೆ ನಡೆಸಿರುವ ಗುಂಪು ಬಿಜೆಪಿ ಸದಸ್ಯರು,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಫಹಾದ್ ಫಾಸಿಲ್ ಅಲಪ್ಪುಳ ಸೇವಾ ಭಾರತಿ ಪರಿಹಾರ ಶಿಬಿರದಲ್ಲಿ ಪಾಲ್ಗೊಂಡಿದ್ದಾರಾ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಮಕ್ಕಳ ಅಪಹರಣ ಘಟನೆಯ ಸತ್ಯ.,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರು 1893 ರ ಸೆಪ್ಟೆಂಬರ್ 13 ರಂದು ಅಂತರಾಷ್ಟ್ರೀಯ ಸರ್ವಧರ್ಮೀಯ ಶೃಂಗಸಭೆಯಲ್ಲಿ ಅದ್ಭುತ ಭಾಷಣ ಮಾಡಿದ ಅಪರೂಪದ ವೀಡಿಯೊ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಭಾರತ ಸರ್ಕಾರವು COVID19 ನಿಂದ ಪೀಡಿತ ಕಲಾವಿದರಿಗೆ ಪರಿಹಾರ ಯೋಜನೆಯನ್ನು ಘೋಷಿಸಿದೆ ಮತ್ತು ನೀಡಿರುವ ID ಯಲ್ಲಿ ಅವರ ವಿವರಗಳನ್ನು ಇಮೇಲ್ ಮಾಡಲು ಕೇಳಿದೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ವೈರಲ್ ಪೋಸ್ಟ್ ಒಂದು ಚಿತ್ರವು ಆರ್‌ಎಸ್‌ಎಸ್ ಉಡುಪಿನಲ್ಲಿರುವ ವ್ಯಕ್ತಿಯನ್ನು ತೋರಿಸುತ್ತದೆ ಇತರ ಪೋಸ್ಟ್‌ಗಳು ಬಿಜೆಪಿ ಸಂಸದ ತೇಜಸ್ವಿ ಸೂರ್ಯ ಜೊತೆಗಿನ ವ್ಯಕ್ತಿಯನ್ನು ಸಹ ತೋರಿಸುತ್ತವೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಟರ್ಕಿಯಲ್ಲಿ ಹವಾನಿಯಂತ್ರಣದ ಬಳಕೆಯನ್ನು ನಿಷೇಧಿಸಲಾಗಿದೆ ಏಕೆಂದರೆ ಇದು ಹೊಸ ಕರೋನವೈರಸ್ ಹರಡುವಿಕೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಮಹಿಳೆಯೊಬ್ಬರು ಒಂದೇ ಹೆರಿಗೆಯಲ್ಲಿ 17 ಮಕ್ಕಳಿಗೆ ಜನ್ಮ ನೀಡಿದ್ದಾರೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಈ ಕರ್ಟನ್‌ ಗಳು ಈಗ ರಿಯಾಯಿತಿ ಬೆಲೆಗೆ ಲಭ್ಯ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಭಾರತೀಯ ಯುವ ಕಾಂಗ್ರೆಸ್ ಬೆಂಬಲಿಗರು ಯುವ ಕಾಂಗ್ರೆಸ್ ಅಧ್ಯಕ್ಷ ರಾಹುಲ್ ಗಾಂಧಿ ಅವರ 37 ನೇ ಹುಟ್ಟುಹಬ್ಬವನ್ನು ಆಚರಿಸುತ್ತಿರುವಾಗ ಕಾಂಗ್ರೆಸ್ ಕಾರ್ಯಕರ್ತರು ಮಾಜಿ ಪೋರ್ನ್ ತಾರೆ ಮಿಯಾ ಖಲೀಫಾ ಅವರ ಬ್ಯಾನರ್‌ನಲ್ಲಿ ಕೇಕ್ ತಿನ್ನುತ್ತಿರುವ ವೀಡಿಯೊ ವೈರಲ್ ಆಗಿದೆ.,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಕರೋನವೈರಸ್ ಕಾರಣದಿಂದಾಗಿ ಪಶ್ಚಿಮ ಬಂಗಾಳದಲ್ಲಿ ಆಗಸ್ಟ್ 2021 ರಲ್ಲಿ ಮಮತಾ ಬ್ಯಾನರ್ಜಿ ಸಂಪೂರ್ಣ ಲಾಕ್‌ಡೌನ್,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಸೈಪ್ರಸ್ ವಿಶ್ವವಿದ್ಯಾನಿಲಯದ ವೈರಾಲಜಿ ತಜ್ಞ ಡಾ. ಲಿಯೊಂಡಿಯೋಸ್ ಕೋಸ್ಟಿಕ್ರಿಸ್ ಡೆಲ್ಟಾಕ್ರಾನ್ ಎಂಬ ಹೊಸ ಕರೋನಾ ರೂಪಾಂತರವನ್ನು ಗುರುತಿಸಿದ್ದಾರೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಪೈಲಟ್ ಎಂದು 30 ಯುವತಿಯರ ವಂಚಿಸಿದ ಇನ್​ಸ್ಟಾಗ್ರಾಮ್​ನಲ್ಲಿ ಫುಲ್ ಡ್ರಾಮಾ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಡಿ. 16ಕ್ಕೆ ಮದುವೆ ಕೊನೆಗೂ ಗುಟ್ಟು ರಟ್ಟು ಮಾಡಿದ ಸೈನಾ ನೆಹ್ವಾಲ್,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಭಾರತ vs ನ್ಯೂಜಿಲೆಂಡ್ ಅಂತಿಮ ಏಕದಿನಕ್ಕೆ ಧೋನಿ ಫಿಟ್,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ನರೇಂದ್ರ ಮೋದಿಯವರು ಚಹಾ ಮಾರುವುದಾಗಿ ಹೇಳಿಕೊಳ್ಳುವ ವಡ್ನಗರ ರೈಲು ನಿಲ್ದಾಣವನ್ನು 1973 ರಲ್ಲಿ ನಿರ್ಮಿಸಲಾಯಿತು, ಈ ಮೊದಲು ನಿಲ್ದಾಣವು ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ.",0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಬಾಳೆಹಣ್ಣು ತಿಂದರೆ ಕೊರೊನಾ ಸೋಂಕನ್ನು ತಡೆಯಬಹುದು,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ವಿರುಷ್ಕಾ ಗ್ರ್ಯಾಂಡ್ ರಿಸೆಪ್ಷನ್`ಗೆ ಸಾಕ್ಷಿಯಾದ ಕ್ರಿಕೆಟಿಗರು ಬಾಲಿವುಡ್ ತಾರೆಯರು,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ಅಮಿತಾಭ್ ಬಚ್ಚನ್‌ಗೆ ಕೊರೊನಾ ಪಾಸಿಟಿವ್ ಬಂದಿದ್ದರಿಂದ ನಾನಾವತಿ ಆಸ್ಪತ್ರೆಗೆ ದಾಖಲಾಗಿ, ಅಲ್ಲಿಂದ ಪಾಸಿಟಿವ್ ಆಗಿರಿ ಎಂಬ ಸಂದೇಶವನ್ನು ಜನರಿಗೆ ನೀಡಿದರು.ಆರೋಗ್ಯ ಕಾರ್ಯಕರ್ತರು ಮತ್ತು ವೈದ್ಯರು ದೇವರ ಪ್ರತಿ ರೂಪ ಎಂದು ಹೇಳಿದರು.",0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಅಯೋಧ್ಯೆಯಲ್ಲಿ ಬಾಬರಿ ಮಸೀದಿ ಇದೆ ಎಂದು ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ಅಭಿಪ್ರಾಯಪಟ್ಟಿದೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಸಾಧಕರ ಈ ಹವ್ಯಾಸಗಳನ್ನು ಫಾಲೋ ಮಾಡಿ ನೀವು ಯಶಸ್ಸಿನ ಹಾದಿ ಹಿಡಿಯಿರಿ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ತಮನ್ನಾ ನಟನೆಯ ದಟ್ಇಸ್ಮಹಾಲಕ್ಷ್ಮೀ ಚಿತ್ರಕ್ಕೆ ನಿರ್ದೇಶಕರ ಹೆಸರನ್ನೇ ಹಾಕಲ್ವಂತೆ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ಅವಳು ಆಜಂ ಖಾನ್‌ನ ಮಗಳು ದಯವಿಟ್ಟು ಅವಳ ಬಣ್ಣವನ್ನೂ ತಿಳಿಸಿ, ಚಿತ್ರದಲ್ಲಿರುವ ಮಹಿಳೆ ಆಜಂ ಖಾನ್‌ನ ಮಗಳು",0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ಬಿಜೆಪಿ ಮತ್ತೆ ಕೇಂದ್ರಕ್ಕೆ ಬಂದರೆ, ಈಶಾನ್ಯದಲ್ಲಿ ಗೋಮಾಂಸ ಅಗ್ಗ, ಮತ್ತೆ ಬಿಜೆಪಿ ಕೇಂದ್ರಕ್ಕೆ ಬಂದರೆ ಜೈ ಎಂದು ಹೇಳಿದರೆ, ಈಶಾನ್ಯದಲ್ಲಿ ಗೋಮಾಂಸ ಸಿಗುತ್ತದೆ.",0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಅತಿಲೋಕ ಸುಂದರಿ ಶ್ರೀದೇವಿ ಪಾತ್ರದಲ್ಲಿ ಪ್ರಿಯಾ ವಾರಿಯರ್ಇಲ್ಲಿದೆ ಶ್ರೀದೇವಿ ಬಂಗ್ಲೊ ಟ್ರೈಲರ್​,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಯುನೈಟೆಡ್ ಸ್ಟೇಟ್ಸ್ನ ವಿಜ್ಞಾನಿಗಳು 100 ಪ್ರತಿಶತ ಪರಿಣಾಮಕಾರಿಯಾದ ಕೊರೊನಾವೈರಸ್ ಲಸಿಕೆಯನ್ನು ಕಂಡುಹಿಡಿದಿದ್ದಾರೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ತಿರುಮಲ ತಿರುಪತಿ ದೇವಸ್ಥಾನದ 16 ಅರ್ಚಕರ ಪೈಕಿ ಒಬ್ಬರ ಮನೆಯಲ್ಲಿ ಆದಾಯ ತೆರಿಗೆ ಇಲಾಖೆ ತಪಾಸಣೆ ನಡೆಸಿದ್ದು, 128 ಕೆಜಿ ಚಿನ್ನಾಭರಣ, 150 ಕೋಟಿ ನಗದು ಹಾಗೂ 77 ಕೋಟಿ ಮೌಲ್ಯದ ಚಿನ್ನಾಭರಣಗಳನ್ನು ವಶಪಡಿಸಿಕೊಂಡಿದ್ದಾರೆ.",0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಬಹಿಷ್ಕಾರ ಚೀನಾ ಬರೆದ ಉತ್ಪನ್ನಗಳನ್ನು ಚೀನಾದಲ್ಲಿ ತಯಾರಿಸಲಾಗುತ್ತದೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಕ್ಯಾನ್ಸರ್ ಬರದಂತೆ ಮುನ್ನೆಚ್ಚರಿಕೆ ನೀಡಿದ ಆರ್‌ಸಿಸಿಯ ಈ ವೈದ್ಯ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ದೇಶದ 3000 ಕೋಟಿ ರೂಪಾಯಿ ನೀರಿನಲ್ಲಿ ಕೊಚ್ಚಿ ಹೋಗಿದೆ, ದಿನಕ್ಕೆ ಸುಮಾರು ಒಂದು ಕೋಟಿ ಜನರು ಹಸಿವಿನಿಂದ ನರಳುತ್ತಿರುವ ದೇಶದಲ್ಲಿ, ವೈದ್ಯಕೀಯ ಸೇವೆಯ ಕೊರತೆಯಿಂದ ಪ್ರತಿದಿನ ಲಕ್ಷಾಂತರ ಜನರು ಸಾಯುತ್ತಾರೆ, ಇಂತಹ ಅಮೂಲ್ಯ ಪ್ರತಿಮೆ ದೇಶದಲ್ಲಿ ಸಾಕಾಗುವುದಿಲ್ಲ.",0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಈ ವಾರ ಜಾಮಿಯಾ ಮಿಲಿಯಾ ವಿಶ್ವವಿದ್ಯಾಲಯದ ಎದುರು ಕಾಶ್ಮೀರಿ ಮುಸ್ಲಿಂ ಪ್ರತಿಭಟನಾಕಾರರ ಮೇಲೆ ಗುಂಡಿನ ದಾಳಿ ನಡೆಸಿದ ಹಿಂದುತ್ವವಾದಿ ರಾಮಭಕ್ತ ಗೋಪಾಲ್ ಶರ್ಮಾ ಅಪ್ರಾಪ್ತ ವಯಸ್ಕನಂತೆ ಕಾಣುತ್ತಿಲ್ಲ.,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಅಮುಲ್ ಕ್ವಾಲಿಟಿ ವಾಲ್ಸ್ ಮತ್ತು ಇತರ ಐಸ್ ಕ್ರೀಮ್ ಉತ್ಪಾದಕರ ವಿರುದ್ಧ ಮೊಕದ್ದಮೆಯನ್ನು ಗೆದ್ದಿದೆ ಮತ್ತು ಇನ್ನು ಮುಂದೆ ತಮ್ಮ ಉತ್ಪನ್ನಗಳನ್ನು ಐಸ್ ಕ್ರೀಮ್ ಎಂದು ಮಾರಾಟ ಮಾಡಬಾರದು ಮತ್ತು ಈಗ ಅವುಗಳನ್ನು ಹೆಪ್ಪುಗಟ್ಟಿದ ಸಿಹಿತಿಂಡಿಗಳ ಲೇಬಲ್ ಅನ್ನು ನೋಡಿದರೆ ಅದು ಹೈಡ್ರೋಜನೀಕರಿಸಿದ ತರಕಾರಿ ತೈಲ ಡಾಲ್ಡಾ ಎಂದು ಹೇಳುತ್ತದೆ. ಇದು ಹೆಪ್ಪುಗಟ್ಟಿದ ಸಿಹಿತಿಂಡಿ ಇದು ಖಂಡಿತವಾಗಿಯೂ ಡಾಲ್ಡಾ ಆಗಿದೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಬೆನ್ನು ನೋವಿನ ನಿವಾರಣೆಗೆ ಈ ಎಲ್ಲಾ ಯೋಗಾಸನಗಳು ಸಹಕಾರಿ ಗೊತ್ತಾ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಅನೌಪಚಾರಿಕ ವಲಯದ ನಷ್ಟವನ್ನೂ ಡೇಟಾದಲ್ಲಿ ಸೇರಿಸಿದರೆ GDP 239% ಕ್ಕಿಂತ ಹೆಚ್ಚು ಕುಸಿದಿದೆ ಎಂಬುದು ರಘುರಾಮ್ ರಾಜನ್ ಅವರ ಅಭಿಪ್ರಾಯವಾಗಿದೆ.,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಶೋಲಾಪುರ ನಗರದಿಂದ 35 ಕಿ.ಮೀ ದೂರದಲ್ಲಿರುವ ಅಕ್ಕಲಕೋಟ ಸಮೀಪದ ಹೊಲವೊಂದರಲ್ಲಿ ವಿಚಿತ್ರ ಪ್ರಾಣಿಯೊಂದು ಕಾಣಿಸಿಕೊಂಡಿದೆ.,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ಮಾರ್ಚ್ 22 ರಂದು ಮಧ್ಯಾಹ್ನ 330 ರ ನಡುವೆ ಕಾಸ್ಮಿಕ್ ಕಿರಣಗಳು ಭೂಮಿಯ ಮೂಲಕ ಹಾದು ಹೋಗುತ್ತವೆ, ಇದು ಮೊಬೈಲ್ ಹತ್ತಿರ ಮಲಗುವವರನ್ನು ಕೊಲ್ಲುತ್ತದೆ.",0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ದೆಹಲಿಯಲ್ಲಿ ಜಾಟ್‌ಗಳು ಪ್ರಧಾನಿ ನರೇಂದ್ರ ಮೋದಿ ಅವರನ್ನು ಹೊಗಳಿ ಮೋದಿ ಚಾಲೀಸಾ ಹಾಡಿರುವ ವಿಡಿಯೋವೊಂದು ಸಾಮಾಜಿಕ ಜಾಲತಾಣಗಳಲ್ಲಿ ವೈರಲ್ ಆಗಿದೆ.,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಹೈದರಾಬಾದ್ ರಸ್ತೆಯಲ್ಲಿ ಬೈಕ್ ಮ್ಯಾನ್ ಹೋಲ್ ಗೆ ಮುಳುಗಿದೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಈ ಚಿತ್ರ ನಿಜವಾಗಿಯೂ ಪರಶಿನಿಕಡವ್ ಮುತ್ತಪ್ಪ ಅವರದ್ದೇ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಯುರೋಪಿಯನ್ ಹೆಲ್ತ್ ಆರ್ಗನೈಸೇಶನ್ EHO ಗೋಮಾಂಸವನ್ನು ತಿನ್ನುವುದರಿಂದ ಕರೋನವೈರಸ್ ಅನ್ನು ಗುಣಪಡಿಸಬಹುದು ಎಂದು ಘೋಷಿಸಿದೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2013-14ರಲ್ಲಿ ಕೇವಲ 80 ಲಕ್ಷ ಜನರು ಸುಮಾರು 5 ಕೋಟಿ ಜನರು ಆದಾಯ ತೆರಿಗೆ ಪಾವತಿಸಿದ್ದಾರೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ರಿಯಾ ಚಕ್ರವರ್ತಿ ಅವರ ತಂದೆ ಇಂದ್ರಜಿತ್ ಚಕ್ರವರ್ತಿ DRDO ಗೆಸ್ಟ್ ಹೌಸ್‌ಗೆ ತಮ್ಮ ಮನೆಯನ್ನು ತೊರೆದರು CBI ಭಾರತ ಗಣರಾಜ್ಯದ ತನಿಖೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"1 ಅಕ್ಟೋಬರ್ 2019 ರಂದು, BOOM ಝಕಿಯಾ ಬಿಂಟಿ ಜಿಯಾ ಎಂಬ ಬಳಕೆದಾರರ ಟ್ವೀಟ್ ಅನ್ನು ನೋಡಿದೆ, ನಂತರ ಝಕಿಯಾ ಎಂದು ಬದಲಾಯಿತು, ಅದರಲ್ಲಿ ಅವರು ಕಾಶ್ಮೀರಿ ಎಂದು ಹೇಳಿಕೊಂಡರು ಮತ್ತು ಉಳಿದ ಕಾಶ್ಮೀರಿ ಜನರಿಗೆ ರಾಯಭಾರಿಯಾಗಲು ಪ್ರಧಾನಿ ನರೇಂದ್ರ ಮೋದಿಯವರಿಗೆ ಕರೆ ನೀಡಿದರು.",0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ನೌಶಾದ್ ಭಾಯ್ ತನ್ನ ಹೊಸ ವ್ಯವಹಾರವನ್ನು ಮುಚ್ಚಲಿದ್ದಾರಾ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಬಂಡವಾಳ ಬೇಕಾದರೆ ಬದಲಾವಣೆ ಆಗಬೇಕು ಎಂದು ಎಸ್ ಎಸ್ ರಾಜಮೌಳಿ ಟ್ವೀಟ್ ಮಾಡಿದ್ದಾರೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ರಾಜಸ್ಥಾನದ ಶಾಲೆಗಳಲ್ಲಿ ಹಿಂದಿ, ಉರ್ದು ಮತ್ತು ಪಂಜಾಬಿ ಭಾಷೆಗಳ ಬೋಧನೆಯನ್ನು ನಿಲ್ಲಿಸಲಾಗುವುದು ಹೊಸ ಶಿಕ್ಷಣ ವ್ಯವಸ್ಥೆಯಲ್ಲಿ ಮೂರು ಭಾಷೆಯ ಸೂತ್ರವು ಚರ್ಚೆಯಲ್ಲಿದೆ ಮತ್ತು ರಾಜಸ್ಥಾನದ ಸರ್ಕಾರಿ ಶಾಲೆಗಳಲ್ಲಿ ಮೂರು ಪ್ರಮುಖ ಭಾಷೆಗಳ ಬೋಧನೆಯನ್ನು ನಿಲ್ಲಿಸಲಾಗಿದೆ.",0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಭಾರತ ಸರ್ಕಾರವು ರಾಷ್ಟ್ರೀಯ ತುರ್ತು ಪರಿಸ್ಥಿತಿಯನ್ನು ಘೋಷಿಸಲು ಹೊರಟಿದೆ ಎಂದು ಡಾ.ನರೇಶ್ ಟ್ರೆಹಾನ್ ಹೇಳಿದರು,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಗೋವಾದ ತಂದೆಯ ಸಾವಿನ ನಂತರ ಬಿಜೆಪಿಯ ರೇಖೆಯೇ ಬದಲಾಗಿದೆ ಎಂದು ಮನೋಹರ್ ಪರಿಕ್ಕರ್ ಪುತ್ರ ಹೇಳಿದ್ದಾರೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಬಂಗಾಳದಲ್ಲಿ ರವೀಶ್‌ಕುಮಾರ್‌ನಲ್ಲಿ ಹಿಂದೂಗಳು ಸತ್ತ ಕಾರಣ ನಾನು ಹೆದರುವುದಿಲ್ಲ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಆಹಾ ಚುಮು ಚುಮು ಚಳಿಗೆ ಬಿಸಿ ಬಿಸಿ ಚಿಕನ್ ಪಕೋಡಾ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಸಂಜಯ್ ರಾವುತ್ ಅವರ ಆಯುರ್ವೇದ ಮೊಟ್ಟೆಗಳ ತಿಳುವಳಿಕೆಯು ಪಕ್ಷವನ್ನು ಇಂದು ಅತ್ಯಂತ ಕೆಳಮಟ್ಟಕ್ಕೆ ತಂದಿರುವ ಶಿವಸೇನಾ ನಾಯಕರ ಮನಸ್ಥಿತಿಯಾಗಿದೆ.,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಸಿಖ್ಖರ ವೇಷದಲ್ಲಿದ್ದ ಮುಸ್ಲಿಮರನ್ನು ಪೊಲೀಸರು ಬಂಧಿಸಿದರು,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಮಿತೇನ್ಲಾಪ್ಸಿಯಾರ ಕುಂಚದಲ್ಲಿ ಅರಳಿದ ಅಮಿತಾಭ್ಸಿನಿ ಪಯಣ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಡೆಟಾಲ್ ಹೊಸ ಕರೋನಾ ವೈರಸ್ ಅನ್ನು ಕೊಲ್ಲುತ್ತದೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2016 ರಲ್ಲಿ ಚೀನಾ ಅಧ್ಯಕ್ಷ ಕ್ಸಿ ಜಿನ್‌ಪಿಂಗ್ ಮಸೀದಿಗೆ ಭೇಟಿ ನೀಡಿದ ವೀಡಿಯೊ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ರಾಹುಲ್ ಗಾಂಧಿ ರೌಲ್ ವಿನ್ಸಿ ಅವರನ್ನು ಮದುವೆಯಾಗಿದ್ದಾರೆ ಮತ್ತು ಅವರಿಗೆ ಲಂಡನ್‌ನಲ್ಲಿ ಇಬ್ಬರು ಮಕ್ಕಳಿದ್ದಾರೆ, ಮೊದಲ ಮಗು 14 ವರ್ಷದ ಹುಡುಗ ನಿಯಾಕ್ ಮತ್ತು ಎರಡನೇ ಮಗು 10 ವರ್ಷದ ಹುಡುಗಿ ಮಿನಾಕ್ ಎಂದು ವಿಕಿಲೀಕ್ಸ್ ಬಹಿರಂಗಪಡಿಸಿದೆ.",0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಬೇಸರದಲ್ಲಿರುವ ಮಕ್ಕಳ ಮೂಡ್‌ ಸರಿ ಮಾಡಲು ಹೀಗೆ ಮಾಡಿ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ನಿಮ್ಮ ಬೆಡ್‌ ಆಕರ್ಷಕವಾಗಿ ಕಾಣಲು ಈ ಬೆಡ್‌ ಶೀಟ್ ಗಳು ಆಕರ್ಷಕ ಬೆಲೆಯಲ್ಲಿ ಲಭ್ಯ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಲಖಿಂಪುರ ಖೇರಿಯಲ್ಲಿ ಇತ್ತೀಚೆಗೆ ನಡೆದ ಹಿಂಸಾಚಾರದಲ್ಲಿ ಭಾಗಿಯಾಗಿರುವ 58 ಖಲಿಸ್ತಾನ್ ಭಯೋತ್ಪಾದಕರನ್ನು ಯೋಗಿ ಆದಿತ್ಯನಾಥ್ ಸರ್ಕಾರ ಗುರುತಿಸಿದೆ ಮತ್ತು ಅವರ ಆಸ್ತಿಯನ್ನು ಮುಟ್ಟುಗೋಲು ಹಾಕಿಕೊಂಡಿದೆ.,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ಹೋಳಿಯು ಭಾರತದಲ್ಲಿ ಕೆಲವೇ ದಿನಗಳಲ್ಲಿ ಒಂದು ದೊಡ್ಡ ಹಬ್ಬವಾಗಿದ್ದು, ನಮ್ಮ ದೇಶದಲ್ಲಿ ಎಲ್ಲಾ ಬಣ್ಣಗಳು ಗುಲಾಲ್ ಆಗಿರುತ್ತವೆ ಮತ್ತು ಚೀನಾದಿಂದ ನೀವು ಖರೀದಿಸುವ ಅನೇಕ ವಸ್ತುಗಳು ಚೀನಾದಿಂದ ಬರುತ್ತವೆ ಏಕೆಂದರೆ ಅದು ಅಗ್ಗವಾಗಿದೆ ಎಂದು ನೀವು ಭಾವಿಸುತ್ತೀರಿ ಅದು ಕರೋನಾ ವೈರಸ್ ಅನ್ನು ಹೊಂದಿದೆ.",0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಸರ್ಫ್ ಎಕ್ಸೆಲ್ ಜಾಹೀರಾತಿನಿಂದ HUL ಕಂಪನಿಗೆ 10 ಕೋಟಿ ನಷ್ಟವಾಗಿದೆ ಎಂದು ಟೈಮ್ಸ್ ಆಫ್ ಇಂಡಿಯಾ ಟ್ವೀಟ್ ಮಾಡಿದೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಕತಾರ್ ರಾಜಕುಮಾರಿ ಶೇಖಾ ಸಲ್ವಾ ಲಂಡನ್‌ನ ಹೋಟೆಲ್‌ನಲ್ಲಿ ಏಳು ಪುರುಷರೊಂದಿಗೆ ಲೈಂಗಿಕ ಕ್ರಿಯೆ ನಡೆಸುತ್ತಿದ್ದಾಗ ಸಿಕ್ಕಿಬಿದ್ದಿದ್ದಾಳೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಐಎಎಫ್ ವೈಮಾನಿಕ ದಾಳಿಯಲ್ಲಿ ಪೈಲಟ್ ಭಾಗಿಯಾಗಿರುವ ಬಗ್ಗೆ ಯಾವುದೇ ಅಧಿಕೃತ ಮಾಹಿತಿ ಇಲ್ಲ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಹಾವಿನಿಂದಲೇ ಹೊಟ್ಟೆ ತುಂಬಿಸಿಕೊಳ್ಳೋ ಹಳ್ಳಿ ಇವರಿಗೆ ಹಾವಿನ ಭಯವೇ ಇಲ್ಲ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ಅಪಾಯಕಾರಿ ಜೈವಿಕ ಶಸ್ತ್ರಾಸ್ತ್ರವನ್ನು ಯುನೈಟೆಡ್ ಸ್ಟೇಟ್ಸ್‌ಗೆ ಮಾರಾಟ ಮಾಡುವ ಚೀನೀ ಸಂಶೋಧಕರ ವಿಸ್ತೃತ ಯೋಜನೆ ಹೇಗೆ ತಪ್ಪಾಗಿ ಹೋಯಿತು ಎಂಬುದನ್ನು ಕಥೆಯು ವಿವರಿಸುತ್ತದೆ. ವುಹಾನ್ ಕಾಡು ಪ್ರಾಣಿಗಳ ಮಾರುಕಟ್ಟೆಯ ಬಳಿ ಜೈವಿಕ ಏಜೆಂಟ್ ಆಕಸ್ಮಿಕವಾಗಿ ಸೋರಿಕೆಯಾದ ನಂತರ ಹಾಂಗ್ ಕಾಂಗ್‌ನಲ್ಲಿ ಪ್ರತಿಭಟನೆಗಳನ್ನು ಹಿಮ್ಮೆಟ್ಟಿಸಲು ಜೈವಿಕ ಶಸ್ತ್ರಾಸ್ತ್ರವನ್ನು ಮೂಲತಃ ರಚಿಸಲಾಗಿದೆ ಎಂದು ಕಥೆ ಹೇಳುತ್ತದೆ, ಮತ್ತು ಚೀನಾದ ಅಧಿಕಾರಿಗಳು ಒಪ್ಪಂದವನ್ನು ತಡೆಯಲು ಪ್ರಯತ್ನಿಸಿದರು.",0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ನಿಮ್ಮ ಮೂಗನ್ನು ಶುದ್ಧ ಆಲಿವ್ ಎಣ್ಣೆಯಿಂದ ತೊಳೆಯುವುದರಿಂದ ಕೋವಿಡ್ 19 ನಿಂದ ಉಂಟಾಗುವ ಸೈನುಟಿಸ್ ಅನ್ನು ಗುಣಪಡಿಸಬಹುದು,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಸಾಸಿವೆ ಎಣ್ಣೆಯನ್ನು ಬಾಯಿಗೆ ಹಾಕಿಕೊಂಡರೆ ಕೊರೊನಾ ವೈರಸ್ ನಾಶವಾಗುತ್ತದೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಫೇರೋನ ಸೈನ್ಯದ ಅವಶೇಷಗಳು ಕೆಂಪು ಸಮುದ್ರದ ಕೆಳಭಾಗದಲ್ಲಿ ಕಂಡುಬಂದಿವೆಯೇ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಮ್ಯೂಚುವಲ್ ಫಂಡ್ಸ್ಲಾಭಕ್ಕಿಂತ ನಷ್ಟವೇ ಹೆಚ್ಚು ಪಾತಾಳ ಸೇರಬಹುದು ನಿಮ್ಮ ಹೂಡಿಕೆ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಹೈದರಾಬಾದ್‌ನ ಸಂಸದ ಓವೈಸಿ ಅವರು ಕೊರೊನಾ ವೈರಸ್ ಎಂಬುದೇ ಇಲ್ಲ ಮತ್ತು ಸರ್ಕಾರ ಜನರನ್ನು ವಂಚಿಸುತ್ತಿದೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಟೀಂ ಇಂಡಿಯಾಗೆ ವಾಪಾಸಾಗುವ ಯುವಿ ರೈನಾ ಕನಸಿನ ಹಾದಿಯಲ್ಲಿ ಮತ್ತೊಂದು ಸಂಕಷ್ಟ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಕೇಂದ್ರ ಸರ್ಕಾರವು ಎಲ್ಲಾ ಸರ್ಕಾರಿ ನೇಮಕಾತಿಗಳನ್ನು ನಿಷೇಧಿಸಿದೆ ಮತ್ತು ಈಗ ಯಾವುದೇ ಸರ್ಕಾರಿ ಇಲಾಖೆ ಅಥವಾ ಸಚಿವಾಲಯವು ನೌಕರರನ್ನು ನೇಮಿಸುವುದಿಲ್ಲ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಮತ್ತೊಂದು ಮಗುವಿನ ಅಮ್ಮನಾಗಲಿದ್ದಾರಾ ಕರೀನಾ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ದೊಡ್ಡಬಳ್ಳಾಪುರ ಜಿಲ್ಲಾಕೇಂದ್ರಕ್ಕಾಗಿ ಬೃಹತ್‌ ಹೋರಾಟ ಬಿಜೆಪಿ ಜನೋತ್ಸವ ನಡೆಸಲು ಬಿಡೆವು-ಹೋರಾಟಗಾರರ ಎಚ್ಚರಿಕೆ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಲೀಗ್ ಎಂ.ಪಿ. ಪಿ.ವಿ. ಅಬ್ದುಲ್ ವಹಾಬ್ ಕೇರಳ ಸರ್ಕಾರವನ್ನು ಹೊಗಳಿರುವ ನಕಲಿ ಹೇಳಿಕೆ ಸಾಮಾಜಿಕ ಜಾಲತಾಣಗಳಲ್ಲಿ ಹರಿದಾಡುತ್ತಿದೆ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಲೋಕಾಯುಕ್ತಗೆ ಎಫ್‌ಐಆರ್‌ ಪವರ್‌ ಅಧಿಕಾರ ಸಿಕ್ಕ ಬೆನ್ನಲ್ಲೇ ಖಾಲಿ ಹುದ್ದೆಗಳ ಸಮಸ್ಯೆ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಮಳೆಯಿಂದ ಮೈದುಂಬಿಕೊಂಡ ಮುತ್ಯಾಲಮಡುವು ಜಲಪಾತ ನೋಡಲು ಪ್ರವಾಸಿಗರ ದಂಡು,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1 ಲೀಟರ್ ಹೈಡ್ರೋಜನ್​ನಲ್ಲಿ 450 ಕಿಮೀ ವಾಹನ ಓಡಿಸುವ ತಂತ್ರ ಹೇಳಿಕೊಟ್ಟ ಕೇಂದ್ರ ಸಾರಿಗೆ ಸಚಿವ ಗಡ್ಕರಿ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ಲಾಕ್‌ಡೌನ್‌ನಿಂದಾಗಿ ಕೆಲಸ ಸ್ಥಗಿತಗೊಂಡಿದ್ದು, ಮಕ್ಕಳಿಗೆ ಊಟವಿಲ್ಲದ್ದರಿಂದ ದಿನಗೂಲಿ ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದೇನೆ ಎಂದು ತಾಯಿಯೊಬ್ಬರು ತನ್ನ ಐದು ಮಕ್ಕಳನ್ನು ನದಿಗೆ ಎಸೆದಿದ್ದಾರೆ.",0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ರಾಮನಗರದಲ್ಲಿ ಫಲ ನೀಡುತ್ತಿಲ್ಲ ಫಸಲ್‌ ಬಿಮಾ ಬೆಳೆ ವಿಮೆ ನೋಂದಣಿಗೆ ರೈತರ ಹಿಂದೇಟು,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಗಡಿ ಜಿಲ್ಲೆ ಬೀದರ್‌ನಲ್ಲಿ ಅಮೃತ ಮಹೋತ್ಸವದ ಸಂಭ್ರಮ ಗಮನ ಸೆಳೆದ ಲೋಹದ ಹಕ್ಕಿಗಳ ಹಾರಾಟ ತಿರಂಗಾ ಯಾತ್ರೆ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ರಿಪಬ್ಲಿಕ್‌ಪೋಲ್ ಎಂಬ ನಕಲಿ ಟ್ವಿಟರ್ ಖಾತೆಯು ಅದರ ವಿವಾದಾತ್ಮಕ ಸಮೀಕ್ಷೆಯ ಮೇಲೆ ನೆಟಿಜನ್‌ಗಳ ಕೋಪವನ್ನು ಸೆಳೆಯುತ್ತಿದೆ, ಪತ್ರಕರ್ತರು ಸೇರಿದಂತೆ ಅನೇಕ ಟ್ವಿಟರ್ ಬಳಕೆದಾರರು ಈ ಖಾತೆಯನ್ನು ಚಾನಲ್‌ನ ಅಧಿಕೃತ ಖಾತೆ ಎಂದು ತಪ್ಪಾಗಿ ಗ್ರಹಿಸಿದ್ದಾರೆ.",0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಸ್ವಾತಂತ್ರ್ಯ ಅಮೃತ ಮಹೋತ್ಸವ ಹಿನ್ನೆಲೆ ಏಕಾಂಗಿಯಾಗಿ ಬೈಕ್ ನಲ್ಲಿ ದೇಶ ಪರ್ಯಟನೆ ಮಾಡಿದ ಅಮೃತಾ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಮಳೆ ಬರದಿದ್ದರೂ ದಿಢೀರ್ ತಲೆ ಎತ್ತಿದ ಬೃಹತ್ ಅಣಬೆಗಳು ಜನರಿಂದ ವಿಶೇಷ ಪೂಜೆ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಎನ್‌ಡಬ್ಲ್ಯುಕೆಆರ್‌ಟಿಸಿ ಅಧ್ಯಕ್ಷ ಸ್ಥಾನದಿಂದ ವಿಎಸ್ಪಾಟೀಲ ನೇಮಕಾತಿ ರದ್ದು ಹೆಬ್ಬಾರ್ ವಿರುದ್ಧ ತೊಡೆತಟ್ಟಲು ತಯಾರಿ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಮಂಗಳೂರು ವಿವಿಯಲ್ಲಿ ಪಿಹೆಚ್ ಡಿ ಮಾಡಿ ವಿವರ ಇಲ್ಲಿದೆ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಕೋವಿಡ್ ತಡೆಗಟ್ಟುವ ಚಟುವಟಿಕೆಗಳಿಗಾಗಿ ಅಸೀಂ ಪ್ರೇಮ್‌ಜಿ 52500 ಕೋಟಿ ದೇಣಿಗೆ ನೀಡಿದ್ದಾರೆ ಎಂಬ ಸುಳ್ಳು ಪ್ರಚಾರ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಸಮುದ್ರ ತೀರದಲ್ಲಿ ಕಂಡು ಬಂದ ವಿಚಿತ್ರ ಮೀನಿನಂಥ ಪ್ರಾಣಿ ಹೊಸದಿಲ್ಲಿಯಲ್ಲಿ ಮತ್ಸ್ಯಕನ್ಯೆಯಂತೆ ಕಿರುಚತೊಡಗಿತು,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಭಾರತದಲ್ಲಿ ಲಾಕ್‌ಡೌನ್ ಸಮಯದಲ್ಲಿ ಮುಸ್ಲಿಂ ಪುರುಷರನ್ನು ಥಳಿಸಲಾಯಿತು,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಚೈನೀಸ್ ಮೇಡ್ ಗೂಡ್ಸ್ ಮೇಲೆ ನಿಷೇಧ ಹೇರಬೇಕು ಅಥವಾ ಬಾಲಿವುಡ್ ನಲ್ಲಿ ಖಾನ್ ಗ್ಯಾಂಗ್ ಮೇಲೆ ನಿಷೇಧ ಹೇರಬೇಕು ಎಂಬ ಬೇಡಿಕೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2017ರಲ್ಲಿ ಮಾಂಸ ತಿಂದು ಮೈಸೂರು ದಸರಾ ಅಂಬಾರಿಗೆ ಪೂಜೆ ಮಾಡಿದ್ರಾ ಸಿದ್ದರಾಮಯ್ಯ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಪುದೀನಾ ಎಣ್ಣೆ ಮತ್ತು ಲವಂಗ ಎಣ್ಣೆಯ ಮಿಶ್ರಣವನ್ನು ಉಸಿರಾಡುವುದರಿಂದ ಕೋವಿಡ್ 19 ಅನ್ನು ಗುಣಪಡಿಸಬಹುದು,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ರಾಜ್ಯಗಳು ಮಾಡಿರುವ ಸಾಲವನ್ನು ನಿಯಂತ್ರಿಸಲು ಕೇಂದ್ರ ಸರ್ಕಾರ ತರಲಿರುವ ಹೊಸ ಕಾನೂನಿನ ವಿವರಗಳು,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+60% ಆಲ್ಕೋಹಾಲ್ ಹೊಂದಿರುವ ಹ್ಯಾಂಡ್ ಸ್ಯಾನಿಟೈಜರ್‌ಗಳನ್ನು ವೈರಸ್‌ಗೆ ಸಂಕುಚಿತಗೊಳಿಸುವುದನ್ನು ಮತ್ತು ಹರಡುವುದನ್ನು ತಡೆಯಲು ಬಳಸಬಹುದು ಎಂದು CDC ಹೇಳುತ್ತದೆ.,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಬಾಬರಿ ಮಸೀದಿಯ ಅಪರಾಧಿಗಳನ್ನು ಶಿಕ್ಷಿಸಿ ಮತ್ತು ಬಾಬರಿ ಮಸೀದಿಯನ್ನು ಪುನರ್ ನಿರ್ಮಿಸಿ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಉತ್ತರ ಪ್ರದೇಶದ ಹಳ್ಳಿಯೊಂದರಲ್ಲಿ ಜಿಹಾದಿಗಳ ದಾಳಿಯಲ್ಲಿ ಮಧ್ಯಪ್ರದೇಶದ ಮಹಿಳಾ ವೈದ್ಯೆ ವಂದನಾ ತಿವಾರಿ ಸಾವನ್ನಪ್ಪಿದ್ದಾರೆ.,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ನೀವು ಮತದಾನ ಮಾಡದಿದ್ದರೆ ನಿಮ್ಮ ಖಾತೆಯಿಂದ 350 ರೂಪಾಯಿಗಳನ್ನು ಕಡಿತಗೊಳಿಸಲಾಗುವುದು ಎಂದು ಆರ್‌ಬಿಐ ಹೇಳಿದೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಹತ್ತು ವರ್ಷಗಳ ಕಾಂಗ್ರೆಸ್ ಆಡಳಿತದಲ್ಲಿ ಸೋನಿಯಾ ಗಾಂಧಿ ಅವರನ್ನು ಪ್ರಧಾನಿಯನ್ನಾಗಿ ಮಾಡಲು ವಿದೇಶಿ ಪ್ರತಿನಿಧಿಗಳೊಂದಿಗೆ ಮಾತುಕತೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"70,000 ಜನರಿಗೆ ಕೊರೊನಾ ಸೋಂಕು ತಗುಲಿದರೆ ಭಾರತ ನಾಶವಾಗುತ್ತದೆ ಎಂದು ತಬ್ಲಿಘಿ ಜಮಾತ್ ಮುಖ್ಯಸ್ಥ ಮೌಲಾನಾ ಸಾದ್ ಹೇಳಿದ್ದಾರೆ.",0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ವಿವಿಧ ಬಗೆಯ ಗಣೇಶನ ಮೂರ್ತಿ ಈ ಬಾರಿ ಅದ್ಧೂರಿ ಗಣೇಶೋತ್ಸವಕ್ಕೆ ಜನ ಸಜ್ಜು,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಕೇರಳ ಬರಡಾಗಲು ಕೇವಲ 28 ದಿನಗಳು ಬಾಕಿ ಉಳಿದಿವೆ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಲಸಿಕೆ ಹಾಕದ ಅಮೆರಿಕನ್ನರನ್ನು 2022 ರ ಮೊದಲು ಶಿಬಿರಗಳಲ್ಲಿ ಇರಿಸಲಾಗುವುದು ಎಂದು ಅಧ್ಯಕ್ಷ ಜೋ ಬಿಡೆನ್ ಘೋಷಿಸಿದ್ದಾರೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಆನಂದವನ್ನು ಮಾತ್ರ ಪ್ರತಿನಿಧಿಸುವ ಸಹಸ್ರಾರ ಚಕ್ರ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಆರ್ಸೆನಿಕ್ ಆಲ್ಬಮ್ 30 ನಿಂದ ಕರೋನಾ ವೈರಸ್ ಅನ್ನು ತಡೆಯಬಹುದು ಎಂಬುದಕ್ಕೆ ವೈಜ್ಞಾನಿಕ ಪುರಾವೆಗಳಿವೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ವಯಸ್ಸಾದಷ್ಟು ಮಾಗುತ್ತಿದೆ ಸುಮಲತಾ ಅಂಬಿಯ ಪ್ರೀತಿ ಇಲ್ಲಿದೆ ಒಲವು ತುಂಬಿದ ಟ್ವೀಟ್​.,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಮೋದಿ ಮತ್ತೆ ಅಧಿಕಾರಕ್ಕೆ ಬರುತ್ತಾರೆ ಎಂದು ವ್ಯಕ್ತಿಯೊಬ್ಬ ತನ್ನ ನೆರೆಯವರನ್ನು ಕೊಂದಿದ್ದಾನೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಕೇರಳದ ಪಾಲಕ್ಕಾಡ್ ಜಿಲ್ಲೆಯಲ್ಲಿ ಸ್ಫೋಟಕ ಬೆರೆಸಿದ ತೆಂಗಿನಕಾಯಿಯನ್ನು ಆಕಸ್ಮಿಕವಾಗಿ ತಿಂದ ಗರ್ಭಿಣಿ ಆನೆ ಗಂಭೀರವಾಗಿ ಗಾಯಗೊಂಡಿದೆ ಕೇರಳದ ಪಾಲಕ್ಕಾಡ್ ಜಿಲ್ಲೆಯಲ್ಲಿ ಗರ್ಭಿಣಿ ಆನೆಯ ದುರಂತ ಸಾವಿನ ಅಂತ್ಯ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ಬಾಲಿವುಡ್ ನಟ ಶಾರುಖ್ ಖಾನ್ ಅವರ ಮುಂಬರುವ ಚಿತ್ರ ಪಠಾಣ್ ಬಿಡುಗಡೆಗೆ ಮುನ್ನವೇ ಪ್ರಚಾರದಲ್ಲಿದೆ, ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮದಲ್ಲಿ ಪಠಾಣ್ ಟ್ರೈಲರ್ ಅನ್ನು ಬಹಿಷ್ಕರಿಸುವಂತೆ ಹಲವರು ಒತ್ತಾಯಿಸಿದ್ದಾರೆ, ಆದರೆ ಪಠಾಣ್ ಟ್ರೈಲರ್ ಯೂಟ್ಯೂಬ್‌ನಲ್ಲಿ ಇಷ್ಟವಾಗಲಿಲ್ಲ.",0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಮಗುವಿಗೆ ಜನ್ಮ ನೀಡಿದ ನಂತರ ಈ ತಾಯಿ ಸತ್ತಿದ್ದಾಳೆ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಡ್ರೋನ್ ತಯಾರಿಸಿದ 21 ವರ್ಷದ ಎನ್‌ಎಂ ಪ್ರತಾಪ್‌ಗೆ ಅಭಿನಂದನೆಗಳು ಮೋದಿ ತಮ್ಮ ವಿಶೇಷ ಅಧಿಕಾರದಿಂದ ಪ್ರತಾಪ್‌ಗೆ ಡಿಆರ್‌ಡಿಒದಲ್ಲಿ ವಿಜ್ಞಾನಿ ಹುದ್ದೆಯನ್ನು ನೀಡಿದರು ಫ್ರೆಂಚ್ ರಕ್ಷಣಾ ಕಂಪನಿಯು ಪ್ರತಾಪ್‌ಗೆ 16 ಲಕ್ಷ ಪ್ಯಾಕೇಜ್ 5 ಬಿಎಚ್‌ಕೆ ಮನೆಯನ್ನು ನೀಡಿತು ದೇಶದಲ್ಲಿ ಮೊದಲ ಬಾರಿಗೆ ದೇಶದ ಪ್ರತಿಭೆಯನ್ನು ಮೆಚ್ಚಿದ ಪ್ರಧಾನಿ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ದೆವ್ವವಾಗಿ ಆನ್​ಲೈನ್​ನಲ್ಲಿ ದಾಖಲೆ ಮುರಿದ ನಟಿ ತಾಪ್ಸಿ ಪನ್ನು,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಚಿತ್ರದಲ್ಲಿ ಮಗುವಿನೊಂದಿಗೆ ಇರುವ ಮಹಿಳೆಗೆ ಕೊರೊನಾ ಸೋಂಕು ತಗುಲಿಲ್ಲ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಆರೋಗ್ಯ ಇಲಾಖೆಗೆ ಮಾಹಿತಿ ನೀಡದೆ ಮಾತಾ ಅಮೃತಾನಂದಮಯಿ ಮಠದಲ್ಲಿ ವಿದೇಶಿಗರನ್ನು ಬಚ್ಚಿಟ್ಟಿದ್ದಾರೆ ಎಂಬ ಸುಳ್ಳು ಪ್ರಚಾರ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಕೆಸರು ಗದ್ದೆಯಂತಾದ ಕಾರವಾರದ ಮಾಲಾದೇವಿ ಮೈದಾನ ಬಿದ್ದು ಗಾಯಗೊಳ್ಳುತ್ತಿರುವ ವಿದ್ಯಾರ್ಥಿಗಳು,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಅತ್ಯಾಚಾರ ಭಾರತೀಯ ಸಂಸ್ಕೃತಿಯ ಭಾಗವಾಗಿದೆ ಮತ್ತು ಅದನ್ನು ತಡೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ ಎಂದು ಕಿರಣ್ ಖೇರ್ ಹೇಳಿದ್ದಾರೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಕೊರೊನಾ ರೋಗಿಗಳು 10 ನಿಮಿಷ ಬಿಸಿಲಿನಲ್ಲಿ ನಿಂತರೆ ತಕ್ಷಣ ಗುಣಮುಖರಾಗುತ್ತಾರೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಭಾರತದಲ್ಲಿ ಮುಸ್ಲಿಮರು ಸಾಮಾಜಿಕ ಅಂತರವನ್ನು ಪಾಲಿಸುತ್ತಿಲ್ಲ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+KGF Movie ವಿಶ್ವಾದ್ಯಂತ 2000 ಚಿತ್ರಮಂದಿರಗಳಲ್ಲಿ ಕೆಜಿಎಫ್ರಿಲೀಸ್ಮುಂಜಾನೆ 4 ಗಂಟೆಯಿಂದಲೇ ಆರಂಭವಾಯ್ತು ಶೋ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಲಡಿಡಾ ಫರ್ಜಾನಾ ಅವರನ್ನು ಸ್ವಾಗತಿಸಲು ಆಯೇಶಾ ರೇನಾ ಹೈದರಾಬಾದ್‌ನಲ್ಲಿ ಅಸಾದುದ್ದೀನ್ ಓವೈಸಿಯನ್ನು ಭೇಟಿಯಾದರು,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಸಹೋದರನ ವಿರುದ್ಧ 22 ಸಾವಿರ ಮತಗಳ ಅಂತರದಿಂದ ಸೋತ ಪಂಕಜಾ ಮುಂಡೆ ಕಣ್ಣೀರಿಟ್ಟರು.,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ರೈತರ ನೆಮ್ಮದಿಗೆ ವರುಣ ಭಂಗ ಮಳೆ ಆರ್ಭಟ ಪ್ರವಾಹ ಭೀತಿ ಯಾದಗಿರಿಯ ಅನ್ನದಾತರು ಕಂಗಾಲು,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಇದು ಬ್ರಿಟನ್ಸ್ ಗಾಟ್ ಟ್ಯಾಲೆಂಟ್ ಕುರಿತು ಯುವಕನೊಬ್ಬ ಕುರಾನ್ ಪಠಿಸುವ ವಿಡಿಯೋ ಅಲ್ಲ.,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಮೀರಾ ಚೋಪ್ರಾ ವೈಟ್‌ ಸೀರೆಯ ಕಾಂಬಿನೇಷನ್‌ಅನ್ನು ನೀವೂ ಟ್ರೈ ಮಾಡಬಹುದು,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಜಡೇಜಾ ದಾಖಲೆ ಮುರಿದ ಪೆಟ್ರೋಲ್ ಟ್ವಿಟರ್​ನಲ್ಲಿ ಕೇಂದ್ರ ಸರ್ಕಾರದ ಕಾಲೆಳೆದ ನಟಿ ರಮ್ಯಾ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಗುಜರಾತ್‌ನ ಮಸೀದಿಯೊಂದರಲ್ಲಿ ಭಾರೀ ಪ್ರಮಾಣದ ಶಸ್ತ್ರಾಸ್ತ್ರ ಪತ್ತೆ ಶಾಂತಿ ಮತ್ತು ಭದ್ರತೆಗೆ ಭಂಗ ತರುವ ಸಂಚು ನಡೆಯುತ್ತಿದೆ ಭಾರತೀಯ ಭದ್ರತಾ ಏಜೆನ್ಸಿಗಳು ಎಚ್ಚೆತ್ತುಕೊಳ್ಳುವ ಅಗತ್ಯವಿದೆ ಪ್ರತಿ ಮಸೀದಿಯ ಮೇಲೆ ಸಂಪೂರ್ಣ ತನಿಖೆ ಅಗತ್ಯವಿದೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ದೇಶದಾದ್ಯಂತ ಆರ್ಮಿ ಶಾಲೆಗಳಲ್ಲಿ ಶಿಕ್ಷಕರ ನೇಮಕ ಅರ್ಜಿ ಆಹ್ವಾನ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಚಾಮರಾಜ ನಗರದ ಕೈಗಾರಿಕಾ ಪ್ರದೇಶಕ್ಕೆ ದೊಡ್ಡ ದೊಡ್ಡ ಕೈಗಾರಿಕೆಗಳ ದಾಂಗುಡಿ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಕೋವಿಡ್ 19 ಲಸಿಕೆ ವೀರ್ಯ ಉತ್ಪಾದನೆಯ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರಬಹುದು ಎಂದು ಮಿಯಾಮಿ ವಿಶ್ವವಿದ್ಯಾಲಯದ ಸಂಶೋಧಕರು ಕಂಡುಕೊಂಡಿದ್ದಾರೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1965 ರಲ್ಲಿ ಭಾರತಕ್ಕೆ 5000 ಕೆಜಿ ಚಿನ್ನವನ್ನು ನಿಜಾಮ್ ಮೀರ್ ಉಸ್ಮಾನ್ ಅಲಿ ಖಾನ್ ದಾನ ಮಾಡಿದ್ದಾರಾ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ತಂದೆ ಹೇಳಿಕೆ ಬೆನ್ನಲ್ಲೇ ಶಿಕಾರಿಪುರದಲ್ಲಿ ವಿಜಯೇಂದ್ರ ಫುಲ್ ಆ್ಯಕ್ಟಿವ್,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಇಂದೋರ್‌ನಲ್ಲಿ ನಡೆದ ಸ್ಟ್ಯಾಂಡ್‌ಅಪ್ ಕಾಮಿಡಿ ಶೋನಲ್ಲಿ ಹಿಂದೂ ದೇವತೆಗಳ ಬಗ್ಗೆ ಅಮಿತ್ ಶಾ ವಿರುದ್ಧ ಅಶ್ಲೀಲ ಹೇಳಿಕೆಗಳನ್ನು ನೀಡಿದ ಆರೋಪದ ಮೇಲೆ ಹಾಸ್ಯನಟ ಮುನವ್ವರ್ ಫಾರೂಕಿ ಮತ್ತು ಇತರ ನಾಲ್ವರು ಪ್ರಕರಣಗಳನ್ನು ದಾಖಲಿಸಿ ಬಂಧಿಸಿದ್ದಾರೆ.,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಅಸ್ಸಾಂ ಪೊಲೀಸರಿಗೆ ನಾಚಿಕೆಗೇಡು ಈ ಅಸ್ಸಾಂ ಸರ್ಕಾರ ನಮ್ಮನ್ನು ಅವಮಾನಿಸುತ್ತಿದೆ ಈ ಅಸ್ಸಾಂ ಸರ್ಕಾರವು ಆ ರಾಕ್ಷಸರನ್ನು ರಕ್ಷಿಸುವಾಗ ಪೊಲೀಸರು ಲಾಠಿ ಚಾರ್ಜ್ ರಬ್ಬರ್ ಗುಂಡುಗಳನ್ನು ಕೆಳಗೆ ನೋಡಬಹುದು ಅಸ್ಸಾಂನಲ್ಲಿ ಅಸ್ಸಾಂಗೆ ನಿಜವಾಗಿಯೂ ಕರಾಳ ದಿನ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ರತನ್ ಟಾಟಾ 2020 ಜೀವಂತವಾಗಿರುವ ವರ್ಷ ಮತ್ತು ಲಾಭ ಮತ್ತು ನಷ್ಟದ ಬಗ್ಗೆ ಚಿಂತಿಸಬೇಡಿ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಶಾಹೀನ್‌ಬಾಗ್‌ನಲ್ಲಿ ಹಣ ಪಾವತಿಗಾಗಿ ಪ್ರತಿಭಟನೆ ನಡೆಸಿದ್ದಕ್ಕೆ ಮುಸ್ಲಿಂ ಮಹಿಳೆಯರಿಗೆ ನಾಚಿಕೆಯಾಗುತ್ತಿದೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಕಾಲ್ಪನಿಕ ಬಿಜೆಪಿ ಶಾಸಕ ಅನಿಲ್ ಉಪಾಧ್ಯಾಯ ಅವರ ವಿಡಿಯೋ ವೈರಲ್ ಆಗಿದೆ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಈ ವಿಡಿಯೋ ದೃಶ್ಯಾವಳಿ ಇರಾನ್‌ನದ್ದಲ್ಲ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಮೈಸೂರಿನಲ್ಲಿ ಟಿಪ್ಪು ಸುಲ್ತಾನ್ ಕಟ್ಟಿದ ಬಾವಿ ನಿಜವೇ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ರಾಜಧಾನಿಯಲ್ಲಿ ಸರ್ಕಾರಿ ಶಾಲೆ ಮಾರಾಟಕ್ಕಿದೆಯಾ 77 ವರ್ಷ ಹಳೆಯ ಸ್ಕೂಲ್‌ಗೆ ಇದೆಂಥಾ ಸ್ಥಿತಿ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಯುಎಸ್ ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ಸಾರ್ವತ್ರಿಕ ವ್ಯಾಕ್ಸಿನೇಷನ್ ಅನ್ನು ರದ್ದುಗೊಳಿಸಿತು,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ವ್ಲಾಡಿಮಿರ್ ಪುಟಿನ್ ಅವರು ನರೇಂದ್ರ ಮೋದಿಯವರೊಂದಿಗೆ ತಮಿಳುನಾಡಿನ ಜಲ್ಲಿಕಟ್ಟುಗೆ ಬರುತ್ತಾರೆ ಎಂಬ ಸುದ್ದಿ ನಿಜವೇ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಭಾರತದ ಮೊದಲ ಕರೋನಾ ಲಸಿಕೆ ಕೌಶೀಲ್ಡ್ ಮುಂದಿನ 73 ದಿನಗಳಲ್ಲಿ ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಲಭ್ಯವಿರುತ್ತದೆ ಭಾರತ ಸರ್ಕಾರವು ಪುಣೆಯ ಬಯೋಟೆಕ್ ಇನ್ಸ್ಟಿಟ್ಯೂಟ್ನಿಂದ ಕೌಶೀಲ್ಡ್ ಅನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸಲಾಗಿದೆ ಈ ಲಸಿಕೆಯನ್ನು ಎಲ್ಲಾ ಭಾರತೀಯರಿಗೆ ರಾಷ್ಟ್ರೀಯ ರೋಗನಿರೋಧಕ ಕಾರ್ಯಕ್ರಮದ ಅಡಿಯಲ್ಲಿ ಉಚಿತವಾಗಿ ಒದಗಿಸುತ್ತದೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ರೈತ ಶಕ್ತಿ ಯೋಜನೆ ಡೀಸೆಲ್‌ ಸಬ್ಸಿಡಿಗೆ ಕೊಕ್ಕೆ ಕಡಿಮೆ ಹಿಡುವಳಿ ನೋಂದಣಿ ಮಾಡಿದ್ದ ರೈತರಲ್ಲಿ ಆತಂಕ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಇದು ಶಹಲಾ ಅಲ್ಲ ಶಹಾನಾ. ಶಾಲೆಯ ಅಂಗಳದಲ್ಲಿ ಶಹಾನಾ ಹಾಡಿದ್ದು ವೈರಲ್ ಆಗಿದೆ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಯಾರ ಉಲ್ಲೇಖವನ್ನು ಕೊಲ್ಲಬಹುದು ಆದರೆ ಸೋಲಿಸಲಾಗುವುದಿಲ್ಲ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಸಾಮಾಜಿಕ ಜಾಲತಾಣಗಳಲ್ಲಿ ಪಿಣರಾಯಿ ವಿಜಯನ್ ಅವರನ್ನು ಹೊಗಳಿದ ಒ. ರಾಜಗೋಪಾಲ್ ಶಾಸಕರ ಹೇಳಿಕೆ ಸುಳ್ಳು,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಅರರೆ ಹುಲಿರಾಯ ವೈರಲ್ ಆಗ್ತಿದೆ ನಾಗರಹೊಳೆಯ ವಿಡಿಯೋ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಪೌರತ್ವ ತಿದ್ದುಪಡಿ ಕಾಯ್ದೆ ಸಿಎಎಗೆ ಬೆಂಬಲವಾಗಿ ಬಿಜೆಪಿ 18002127755 ಸಂಖ್ಯೆಯನ್ನು ಬಿಡುಗಡೆ ಮಾಡಿದೆ ಈ ಸಂಖ್ಯೆಗೆ ಮಿಸ್ಡ್ ಕಾಲ್ 1 ಜಿಬಿ ಜಿಯೋ ಡೇಟಾ ಉಚಿತ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಒಂದು ತಿಂಗಳಲ್ಲಿ ಜಗತ್ತು ಕೊರೊನಾ ವೈರಸ್‌ನಿಂದ ಮುಕ್ತಿ ಹೊಂದಲಿದೆ ಎಂದು ಭಾರತದ ಪ್ರಧಾನಿ ಹೇಳಿದ್ದಾರೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಇದು ವಯನಾಡಿನಲ್ಲಿ ಪಾಸ್‌ನ ಕುಸಿತದ ಚಿತ್ರಗಳೇ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಚಿರತೆ ಸೆರೆಗಾಗಿ ಬರುತ್ತಿವೆ ಆನೆಗಳು 120 ಅರಣ್ಯ ಇಲಾಖೆ 80 ಪೊಲೀಸ್ ಸಿಬ್ಬಂದಿ ನಿಯೋಜನೆ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಮೋದಿ ಸಭೆ ಪ್ರವೇಶಿಸಿದಾಗ ಇಮ್ರಾನ್ ಖಾನ್ ತಲೆಬಾಗಿ ಕುಳಿತಿದ್ದರು,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ತಿರುವನಂತಪುರಂ ಯೂನಿವರ್ಸಿಟಿ ಕಾಲೇಜಿನಲ್ಲಿ ಎಬಿವಿಪಿಯ ಘಟಕವನ್ನು ಆರಂಭಿಸಲು ಆರ್‌ಎಸ್‌ಎಸ್ ನಾಯಕತ್ವ ನಿರ್ಧರಿಸಿದೆಯೇ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಬಾಲಿವುಡ್ ನಟ ಅಮೀರ್ ಖಾನ್ ಕೊರೊನಾ ವೈರಸ್ ವಿರುದ್ಧ ಹೋರಾಡಲು ಭಾರತ ಸರ್ಕಾರಕ್ಕೆ 250 ಕೋಟಿ ರೂಪಾಯಿ ದೇಣಿಗೆ ನೀಡಿದ್ದಾರೆ.,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಕರೋನವೈರಸ್ ಹರಡುವಿಕೆಯ ದೃಷ್ಟಿಯಿಂದ ಮಾಂಸದ ಅಂಗಡಿಗಳನ್ನು ಮುಚ್ಚುವಂತೆ ತೆಂಡೂಲ್ಕರ್ ಕರೆ ನೀಡಿದರು,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಜಗನ್ ಸೋದರ ಸಂಬಂಧಿ ಕ್ರಿಸ್ಟೋಫರ್ ಟಿಟಿಡಿ ಡಿಇಒ ಆಗಿದ್ದಾರೆ ಎಂಬ ಸುದ್ದಿಯಲ್ಲಿ ಸತ್ಯಾಂಶವಿದೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಮೊದಲ ಬಾರಿಗೆ ವೆಬ್ಸರಣಿಗೆ ಎಂಟ್ರಿಯಾದ ರಿಯಲ್ಸ್ಟಾರ್ಉಪ್ಪಿ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ವೈದ್ಯರ ಪ್ರಕಾರ ಕೋವಿಡ್ 19 ಮೂಗು ಬಾಯಿಯ ಉಗಿಯಿಂದ ಕೊಲ್ಲಲ್ಪಟ್ಟರೆ, ಎಲ್ಲಾ ಜನರು ಒಂದು ವಾರ ಉಗಿಯುವ ಅಭಿಯಾನವನ್ನು ಪ್ರಾರಂಭಿಸಿದರೆ ಕರೋನಾವನ್ನು ತೆಗೆದುಹಾಕಬಹುದು ನಂತರ ಕರೋನಾ ಕೊನೆಗೊಳ್ಳಬಹುದು",0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಮುಂಬೈನ ದಾದರ್‌ನಲ್ಲಿ ಕರೋನವೈರಸ್ ಸಂದೇಶಗಳನ್ನು ಹಂಚಿಕೊಂಡಿದ್ದಕ್ಕಾಗಿ ವಾಟ್ಸಾಪ್ ಗ್ರೂಪ್ ಅಡ್ಮಿನ್‌ಗಳನ್ನು ಬಂಧಿಸಲಾಗಿದೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಸ್ವಲ್ಪ ಮನಸ್ಸು ಮಾಡಿದರೆ ಈ ಬಾರಿ ಗಣೇಶ ಮೂರ್ತಿಯನ್ನು ನೀವೇ ತಯಾರಿಸಬಹುದು,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ವಾಟ್ಸಾಪ್‌ನಲ್ಲಿ ಮೂರು ಕೆಂಪು ಟಿಕ್ ಮಾರ್ಕ್‌ಗಳು ಎಂದರೆ ಸರ್ಕಾರ ನಿಮ್ಮ ವಿರುದ್ಧ ಕ್ರಮ ತೆಗೆದುಕೊಳ್ಳುತ್ತಿದೆ ಎಂದರ್ಥ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ಮೋದಿ ಸರ್ಕಾರ ಸಿಗರೇಟ್, ಮದ್ಯ ಮತ್ತು ತಂಬಾಕು ನಿಷೇಧಿಸಿದೆ",0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಹೊಸ ನೇಮಕಾತಿ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಸರ್ಕಾರ ಸ್ಥಗಿತಗೊಳಿಸಿದೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಮಲೇರ್‌ಕೋಟ್ಲಾದಿಂದ ಮಹಿಳೆಯರ ಗುಂಪೊಂದು ಗಾಜಿಪುರ ಗಡಿಗೆ ಬಂದು ರೈತರಿಗೆ ಬೆಂಬಲ ನೀಡಿತು,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಚಾಕು ಇರಿತ ಕೇಸ್​ಗೆ ಟ್ವಿಸ್ಟ್ ಪ್ರೇಮ್ ​ಸಿಂಗ್​ಗೂ ಮೊದಲೇ ಸದ್ದಾಂ ಎಂಬಾತನ ಮೇಲೆ ಹಲ್ಲೆ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಬಿಹಾರದ ಮಧುಬನಿಯಲ್ಲಿ ರಾಷ್ಟ್ರೀಯ ಹೆದ್ದಾರಿ 57ರ ಇಕ್ಕೆಲಗಳಲ್ಲಿ ಸರ್ಕಾರಿ ಭೂಮಿ ಒತ್ತುವರಿ ಮಾಡಿ ಬಡವರನ್ನು ಬೀದಿಪಾಲಾಗುತ್ತಿರುವ ಚಿತ್ರಣವಿದು,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಚಿತ್ರದಲ್ಲಿರುವವರು ಕಲಿಯಿಕವಿಲದಲ್ಲಿ ಪೊಲೀಸ್ ಅಧಿಕಾರಿಯನ್ನು ಕೊಂದ ಪ್ರಕರಣದ ಆರೋಪಿಗಳು,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಪೊಲೀಸ್ ದಾಳಿಯಲ್ಲಿ ವಶಪಡಿಸಿಕೊಂಡ ಶಸ್ತ್ರಾಸ್ತ್ರಗಳ ಈ ಹಳೆಯ ಚಿತ್ರಕ್ಕೂ ಜಮಾತ್‌ಗೂ ಯಾವುದೇ ಸಂಬಂಧವಿಲ್ಲ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಪೊಲೀಸರು ಬಲವಂತವಾಗಿ ಜೆಎಂಐ ಆವರಣಕ್ಕೆ ನುಗ್ಗಿ ವಿದ್ಯಾರ್ಥಿಗಳ ಮೇಲೆ ಗುಂಡು ಹಾರಿಸಿದ ರೀತಿ ಜಲಿಯನ್ ವಾಲಾಬಾಗ್ ಹತ್ಯಾಕಾಂಡವನ್ನು ಹೋಲುತ್ತದೆ.,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಇಸ್ರೇಲ್‌ನಲ್ಲಿ ತೀವ್ರವಾದ ಡೆಲ್ಟಾ ವೇರಿಯಂಟ್ ಪ್ರಕರಣಗಳನ್ನು ತಡೆಯಲು ಲಸಿಕೆ ವಿಫಲವಾಗಿದೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+China ಜೊತೆಗಿನ ಉದ್ವಿಗ್ನತೆ ಮಧ್ಯೆ ತೈವಾನ್‌ನ ಉನ್ನತ ಕ್ಷಿಪಣಿ ವಿಜ್ಞಾನಿ ಹೋಟೆಲ್​ನಲ್ಲಿ ಶವವಾಗಿ ಪತ್ತೆ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ನೇಪಾಳದ ಅರ್ಚಕರೊಬ್ಬರ ಮನೆಯಲ್ಲಿ ಬಾಲ ಹನುಮಂತ ಮಗು ಜನಿಸಿತ್ತು,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1990 ರಿಂದ 2020 ರವರೆಗೆ ಕೆಲಸ ಮಾಡಿದ ಕಾರ್ಮಿಕರಿಗೆ ಕಾರ್ಮಿಕ ಮತ್ತು ಉದ್ಯೋಗ ಸಚಿವಾಲಯದಿಂದ 120000 ರೂ.,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಅಂಬೆಗಾಲಿಡುವ ಮಗುವಿನ ಜೀವ ಉಳಿಸಲು ಮಧ್ಯಪ್ರವೇಶಿಸಿದ ಶಶಿಕಲಾ ಟೀಚರ್ ಅಥವಾ ಶೈಲಜಾ ಟೀಚರ್,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ಏಳು ರೈಲ್ವೆ ಕಾರ್ಖಾನೆಗಳ ಮಾರಾಟಕ್ಕೆ ಸಿದ್ಧತೆ ಪೂರ್ಣಗೊಂಡಿದ್ದು, ಈ ಕಾರ್ಖಾನೆಗಳಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿರುವ 35 ಸರ್ಕಾರಿ ನೌಕರರನ್ನು ವಜಾಗೊಳಿಸಲಾಗುವುದು ಮತ್ತು ಈ ನೌಕರರನ್ನು ಗುತ್ತಿಗೆ ಕಾರ್ಮಿಕರನ್ನು ನೇಮಿಸಲಾಗುವುದು.",0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಇಂದು ಮುಂಜಾನೆ ಜಾಮಿಯಾ ಪ್ರದೇಶದಲ್ಲಿ ಗುಂಡಿನ ದಾಳಿ ನಡೆಸಿದ ಅಪ್ರಾಪ್ತ ಬಂದೂಕುಧಾರಿಯ CBSE ಅಂಕಪಟ್ಟಿ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಬೆಂಗಳೂರಿಗೆ ಬರಲಿದೆ ವಿಶ್ವದ ಅತಿದೊಡ್ಡ ವಿಮಾನ ಇದು ಹಾರುವ ಸ್ವರ್ಗ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಹಿರಿಯ ನಾಗರಿಕರು ಮನೆಯಲ್ಲಿ ಒಬ್ಬರೇ ಇದ್ದರೆ ಮುಂಬೈ ಪೊಲೀಸ್ ಸಂಖ್ಯೆ 18002002122 ಗೆ ಕರೆ ಮಾಡಿ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಡಾ.ಕಫೀಲ್ ವಿರುದ್ಧ ಎನ್‌ಎಸ್‌ಎ ಬಳಸದಂತೆ ತಕ್ಷಣವೇ ಅವರನ್ನು ಬಿಡುಗಡೆ ಮಾಡುವಂತೆ ಹೈಕೋರ್ಟ್‌ನ ಆದೇಶ ಉತ್ತರ ಪ್ರದೇಶ ಸರ್ಕಾರದ ಸರ್ವಾಧಿಕಾರಕ್ಕೆ ದೊಡ್ಡ ಹೊಡೆತವಾಗಿದೆ.,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಶಾಸಕ ಕೆಜಿ ಬೋಪಯ್ಯ ಸಮ್ಮುಖದಲ್ಲಿ 20ಕ್ಕೂ ಹೆಚ್ಚು ಕಾರ್ಯಕರ್ತರು ಕಾಂಗ್ರೆಸ್‌ ತೊರೆದು ಬಿಜೆಪಿಗೆ ಸೇರ್ಪಡೆ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಸಡಿಲಗೊಳ್ಳದ ಹಿಜಾಬ್ ಹಠ ಶಿಕ್ಷಣ ಸಂಸ್ಥೆಗಳಿಗೆ ಗುಡ್ ​ಬೈ 145 ಮಕ್ಕಳು ಹೊರಟ್ಟಿದ್ದೆಲ್ಲಿಗೆ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kurta Set For Women ಇಲ್ಲಿದೆ ಕುರ್ತಾ ಸೆಟ್‌ ಖರೀದಿಸಲು ಬೆಸ್ಟ್‌ ಆಫರ್‌,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ದಾವೂದ್ ಇಬ್ರಾಹಿಂ ಮತ್ತು ಆತನ ಪತ್ನಿ ಕೊರೊನಾ ಸೋಂಕಿನಿಂದ ಸಾವನ್ನಪ್ಪಿದ್ದಾರೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ಹೇ ಸ್ನೇಹಿತರೇ, ಸೈನ್ಯದಲ್ಲಿರುವ ಸೈನಿಕನೊಬ್ಬ ಹಣ ಪಡೆದ ಕಾರಣಕ್ಕಾಗಿ ಯುದ್ಧಭೂಮಿಯಲ್ಲಿ ಸಾಯಲು ಹೋಗುತ್ತಾನೆ ನರೇಂದ್ರ ಮೋದಿಜಿ",0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ಭಾರತ್ ಬಯೋಟೆಕ್ ಉಪಾಧ್ಯಕ್ಷ ವಿ.ಕೆ.ಶ್ರೀನಿವಾಸ್ ಮಾತನಾಡಿ, ನಾನು ಮತ್ತು ನನ್ನ ತಂಡವು ಅಭಿವೃದ್ಧಿಪಡಿಸಿದ ಲಸಿಕೆಯನ್ನು ಮೊದಲ ಡೋಸ್ ತೆಗೆದುಕೊಂಡ ತಕ್ಷಣ ಪರೀಕ್ಷಿಸಿ ಮತ್ತು ಅವರ ಉತ್ಪನ್ನದ ಮೇಲೆ ಅವರಿಗೆ ಎಷ್ಟು ವಿಶ್ವಾಸವಿದೆ ಎಂದು ನೋಡಿದ ಮೊದಲ ವ್ಯಕ್ತಿ ನಾನು.",0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಎ ಪಾಸಿಟಿವ್ ರಕ್ತ ಹೊಂದಿರುವ ಜನರು ಹೊಸ ಕರೋನವೈರಸ್ ಅನ್ನು ಪಡೆಯುವ ಸಾಧ್ಯತೆ ಹೆಚ್ಚು,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಮಹಾರಾಷ್ಟ್ರದ ಮುಸ್ಲಿಂ ಎಸ್‌ಪಿ ಉರ್ದು ಮಾಧ್ಯಮದ ಮೂಲಕ ಮೊದಲ ಐಪಿಎಸ್ ಆದ ವ್ಯಕ್ತಿ ಪೊಲೀಸ್ ಡ್ರೆಸ್ ಕೋಡ್ ಅನ್ನು ಬಿಟ್ಟು ತನ್ನ ಮೊದಲ ದಿನವೇ ಇಸ್ಲಾಮಿಕ್ ಡ್ರೆಸ್ ಕೋಡ್ ಅಳವಡಿಸಿಕೊಂಡಿದ್ದಾನೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಬಂಗಾಳದಲ್ಲಿ ಪ್ರೇಮ ನಿವೇದನೆ ಮಾಡಲಿಲ್ಲ ಎಂಬ ಕಾರಣಕ್ಕೆ ಮುಸ್ಲಿಂ ವ್ಯಕ್ತಿಯೊಬ್ಬ ಹಿಂದೂ ಯುವತಿಯ ಮೇಲೆ ಬ್ಲೇಡ್ ನಿಂದ ಹಲ್ಲೆ ನಡೆಸಿದ್ದಾನೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಆರೋಗ್ಯ ಕುಟುಂಬ ಕಲ್ಯಾಣ ಇಲಾಖೆ ಇಂದ ನೇಮಕ ವಿವಿಧ ಹುದ್ದೆಗೆ ಅರ್ಜಿ ಆಹ್ವಾನ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2019ರ ವಿಶ್ವಕಪ್​​ನಲ್ಲಿಲ್ಲ 2011 ವಿಶ್ವಕಪ್​ನ ಹೀರೋಗಳು,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ದೆಹಲಿಯ ಮಸೀದಿಗಳಲ್ಲಿ ನನ್ನ ಮುಸ್ಲಿಂ ಸಹೋದರರನ್ನು ಗುಂಡಿಕ್ಕಿ ಕೊಂದ ಹಿಂದೂಗಳು ತಮ್ಮ ಜೀವದ ಬದಲು ಮುಸ್ಲಿಮರು ಭಾರತವನ್ನು ಆಳಬೇಕು,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಸಲ್ಲು ಶಿಕ್ಷೆಗೆ ಖುಷಿಪಟ್ಟ ಕೃಷ್ಣಮೃಗದ ಮರಿಮಕ್ಕಳು ಟ್ವಿಟರ್​ನಲ್ಲಿ ಹೀಗೊಂದು ಕುಚೋದ್ಯ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ನಾಗರ ಪಂಚಮಿ ದಿನವೇ ಕೇರಳದ ಇನ್ನೋರ್ವ ವ್ಯಕ್ತಿಯಲ್ಲಿ ಮಂಕಿಪಾಕ್ಸ್ ದೃಢ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಜಾರ್ಖಂಡ್‌ನಲ್ಲಿ ಹಣ್ಣಿನ ವ್ಯಾಪಾರಿಗಳು ಹಾಕಿದ್ದ ಕೇಸರಿ ಧ್ವಜಗಳನ್ನು ತೆಗೆದುಹಾಕಿದ ನಂತರ ಜನರು ತಮ್ಮ ಮನೆಗಳ ಮೇಲೆ ಕೇಸರಿ ಧ್ವಜಗಳನ್ನು ಹಾಕಿದರು.,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20 ವರ್ಷದ ದಾಂಪತ್ಯಕ್ಕೆ ಅಂತ್ಯ ಹಾಡಿದ ನಟ ಅರ್ಜನ್ರಾಮ್​ಪಾಲ್ಮೆಹರ್ಜೆಸಿಯಾ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಹುಬ್ಬಳ್ಳಿಯ ಈದ್ಗಾ ಮೈದಾನದಲ್ಲಿ ಗಣೇಶೋತ್ಸವ ಆ29ಕ್ಕೆ ಅಂತಿಮ ನಿರ್ಧಾರ ಈರೇಶ ಅಂಚಟಗೇರಿ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ವಸತಿ ಪ್ರದೇಶಗಳ ಬೆಲೆ ಏಪ್ರಿಲ್ ಜೂನ್ ತ್ರೈಮಾಸಿಕದಲ್ಲಿ 4% ಏರಿಕೆ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಆಯುಷ್ ಸಚಿವಾಲಯದಿಂದ ವೈದ್ಯರನ್ನು ವಜಾ ಮಾಡಲಾಗಿದೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಬಾಂಗ್ಲಾದೇಶದಲ್ಲಿ ರೈಲು ಅಪಘಾತದಲ್ಲಿ ಗಾಯಗೊಂಡಿರುವ ಮಗುವಿನ ಚಿತ್ರವನ್ನು ಸುಳ್ಳು ವಿವರಣೆಯೊಂದಿಗೆ ಪ್ರಸಾರ ಮಾಡಲಾಗುತ್ತಿದೆ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಮಗಳ ಮೊದಲ ವರ್ಷದ ಹುಟ್ಟುಹಬ್ಬಕ್ಕೆ ಸಾಮಾಜಿಕ ಜಾಲತಾಣದ ಮೂಲಕ ಆಹ್ವಾನ ನೀಡಿದ ನಟಿ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಚಿತ್ರದಲ್ಲಿ ಕೇಂದ್ರ ಸಚಿವೆ ಸ್ಮೃತಿ ಇರಾನಿ ಅವರೊಂದಿಗೆ ಬಿಜೆಪಿ ನಾಯಕ ಹುಕುಂದೇವ್ ಯಾದವ್ ಚಿನ್ಮಯಾನಂದನ್ ಅಲ್ಲ.,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ದಿನಾ ಲಿಂಬು ಪಾನಕ ಕುಡಿಯುವುದರಿಂದ ದೇಹದ ಅತಿಯಾದ ತೂಕ ಇಳಿಸಿಕೊಳ್ಳಬಹುದಾ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಇಂಗ್ಲೆಂಡ್ ಸರಣಿ ಸೋತಲ್ಲಿ ಕೊಹ್ಲಿ ರವಿ ಶಾಸ್ತ್ರಿ ಹುದ್ದೆಗೆ ಕಂಟಕ,1,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ಆರ್ಥಿಕತೆ ಮತ್ತಷ್ಟು ಕುಸಿಯದಂತೆ ತಡೆಯಲು ಕೊಲ್ಹಾಪುರಿ ಚಪ್ಪಲ್‌ಗಳನ್ನು ಮಾರಾಟ ಮಾಡಲು ಸರ್ಕಾರ ಯೋಜಿಸಿದೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ದೆಹಲಿ ಮೌಲಾನಾ ಹಿಂದೂಗಳ ವಿರುದ್ಧ ಹಿಂಸಾಚಾರ ಮತ್ತು ಕೋಮು ದ್ವೇಷವನ್ನು ಪ್ರಚೋದಿಸುವ ಬಹಿರಂಗ ಬೆದರಿಕೆ,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ನಾಗಾಲ್ಯಾಂಡ್‌ನ ನಾಗರಿಕರು ಭಾರತೀಯ ಸೈನಿಕರೊಂದಿಗೆ ಘರ್ಷಣೆ ನಡೆಸಿದರು,0,Kannada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+జంతువులతో అసురక్షిత సెక్స్‌ను నివారించాలని WHO జనాభాకు సలహా ఇస్తుంది,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"వినియోగదారులకు నాణ్యమైన ఉత్పత్తులు, సేవలు అందేలా చూసేందుకు కేంద్ర ప్రభుత్వం ‘ఒకే దేశం-ఒకే ప్రమాణం’ విధానంపై కృషిచేస్తోందని కేంద్ర ఆహార, వినియోగదారుల వ్యవహారాల శాఖ మంత్రి గురువారం తెలిపారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+కరోనా ప్రభావం జూన్‌ తరవాతా కొనసాగితే ప్రపంచ వృద్ధి రేటు 1% క్షీణించే అవకాశం ఉందని డన్‌ & బ్రాడ్‌స్ట్రీట్‌ నివేదిక వెల్లడించింది.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ఇండియన్‌ సూపర్‌ లీగ్‌ (ఐఎస్‌ఎల్‌) ఫుట్‌బాల్‌ టోర్నీ ఆరో సీజన్‌లో అట్లెటికో ది కోల్‌కతా ఎఫ్‌సీ జోరు కొనసాగుతోంది. శనివారం మ్యాచ్‌లో ఆ జట్టు 3-0 తేడాతో నార్త్‌ఈస్ట్‌ యునైటెడ్‌ ఎఫ్‌సీని చిత్తుచేసింది. అట్లెటికో జట్టులో రాయ్‌ కృష్ణ (35వ, 90+4వ నిమిషాల్లో) రెండు గోల్స్‌తో సత్తాచాటాడు. డేవిడ్‌ విలియమ్స్‌ (11వ నిమిషంలో) ఓ గోల్‌ కొట్టాడు. మ్యాచ్‌ ఆరంభం నుంచి అట్లెటికో పూర్తి ఆధిపత్యం ప్రదర్శించింది. ఆదివారం గచ్చిబౌలిలోని జీఎంసీ బాలయోగి స్టేడియంలో గోవా ఎఫ్‌సీతో హైదరాబాద్‌ ఎఫ్‌సీ తలపడనుంది.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ప్రయోగశాలలకు వెళ్లాల్సిన అవసరం లేకుండా బ్యాక్టీరియా ఉనికిని సత్వరం గుర్తించే సరికొత్త పరికరాన్ని ఐఐటీ-గువాహటి పరిశోధకులు అభివృద్ధి చేశారు. చేతితో పట్టుకునేందుకు వీలుగా ఉండటం దీని ప్రత్యేకత. ప్రస్తుతం బ్యాక్టీరియా సంక్రమణను గుర్తించేందుకు ప్రయోగశాలలపై ఆధారపడాల్సి వస్తోంది. అక్కడ సెల్‌ కల్చర్‌, మైక్రోబయాలాజికల్‌ అస్సేస్‌ వంటి విధానాల్లో గుర్తింపు ఆలస్యమవుతోంది.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ఉత్తరాఖండ్‌లోని రుద్రప్రయాగ్‌ జిల్లాలో కొండచరియలు విరిగిపడిన దుర్ఘటనలో 8 మంది వ్యక్తులు మరణించారు. శనివారం రాత్రి బాగా పొద్దుపోయిన తర్వాత ఈ ఘటన జరిగింది. విరిగిన కొండచరియల శిథిలాలతో పాటూ భారీ బండ ఒకటి దొర్లుకుంటూ వచ్చి రెండు మోటారుసైకిళ్లు, ఓ కారుపై పడ్డాయి. దీంతో ఐదుగురు అక్కడికక్కడే మరణించగా మరో ముగ్గురు ఆస్పత్రిలో మరణించారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+చైనీస్ మీడియా నుండి బెదిరింపులు చైనాతో భారత్‌ సాటి రాదు అమెరికా సహాయంతో కూడా యుద్ధంలో విజయం సాధించదు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+నడిరోడ్డుపై నోట్లను విసిరి కరోనాను వ్యాప్తి చేసే పనిలో పడ్డారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ఈ వీడియో గాల్వాన్ వ్యాలీకి చెందినది అక్కడ భారత సైనికులు గణేష్ ఉత్సవాలను జరుపుకుంటున్నారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"వాతావరణ కార్యాచరణపై అంతర్జాతీయ కృషిలో భారతదేశాన్ని కీలకపాత్రధారి, మౌలికభాగస్వామిగా ఐక్యరాజ్య సమితి సారథి ఆంటోనియో గుటెరస్‌ అభివర్ణించారు. పునరుత్పాదక ఇంధన సామర్థ్యాన్ని మరింత పరిపుష్టం చేసుకోనే దిశగా భారత్‌ అత్యద్భుత కృషి చేస్తోందన్నారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"అగ్ర కథానాయకుడు చిరంజీవి తనయుడిగా వెండితెరకు పరిచయమైనా నటుడిగా తనకంటూ ఓ గుర్తింపును, స్టార్‌డమ్‌ను సొంతం చేసుకున్న యువ కథానాయకుడు రామ్‌చరణ్‌. మాస్‌ కమర్షియల్‌ సినిమాలే కాదు, ‘రంగస్థలం’ వంటి నటనా ప్రాధాన్యం ఉన్న చిత్రాల్లో నటించి మెప్పించారు. ప్రస్తుతం ఎస్‌.ఎస్‌.రాజమౌళి దర్శకత్వంలో ప్రతిష్ఠాత్మకంగా తెరకెక్కుతున్న ‘ఆర్‌ఆర్‌ఆర్‌: రౌద్రం.. రణం.. రుధిరం’ చిత్రంలో అల్లూరి సీతారామరాజుగా కనిపించనున్నారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+అమెరికాలోని టెన్నెస్సీ రాష్ట్రాన్ని టోర్నెడో(పెనుతుపాను)లు మంగళవారం అతలాకుతలం చేశాయి. వీటి ధాటికి 22 మంది మృతి చెందారు. దాదాపు 140 భవనాలు సహా అనేక చెట్లు నేలకూలాయి. విద్యుత్తు సరఫరాకు అంతరాయం ఏర్పడింది. విమానాశ్రయాన్ని మూసివేశారు.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+భారతదేశంలో ఉబెర్ సేవలు నిలిపివేయబడ్డాయి,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"రైతుల అభివృద్ధే ప్రధాన ధ్యేయంగా హెరిటేజ్‌ కార్యకలాపాలు నిర్వహిస్తోందని సంస్థ వైస్‌ ఛైర్‌పర్సన్‌, ఎండీ నారా భువనేశ్వరి పేర్కొన్నారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ఎక్కువ నీరు త్రాగడం లేదా వేడి నీటితో పుక్కిలించడం వల్ల కరోనా వైరస్‌ను చంపవచ్చు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"5భారత్‌ సిరీస్‌ ఓడిపోతుందని ఎవరూ అనుకుని ఉండరు. గెలుపు ఆశ్చర్యం కలిగించేదేమీ కాదు. కానీ టీమ్‌ ఇండియా నిర్భీతిగా బ్యాటింగ్‌ చేసిన తీరు ఆకట్టుకుంది. ఒక్కరు కూడా జట్టులో తమ స్థానం కాపాడుకోవడం కోసం ఆడలేదు. గెలవడానికి ఆడారు. శభాష్‌ ఇండియా - గంగూలీ, బీసీసీఐ అధ్యక్షుడు",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+కోవిడ్19 ఆసియన్లను చంపేందుకు అమెరికా తయారు చేసినదని అమెరికా మాజీ అధ్యక్షుడు బరాక్ ఒబామా వెల్లడించారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ఉత్తరాఖండ్‌లోని చమోలి జిల్లా రైనీ గ్రామం ఫిబ్రవరి 7 ఉదయం హిమానీనదం విస్ఫోటనం చెందడంతో ధౌలిగంగా నది ఒడ్డున నివసించే ప్రజలు ప్రమాదంలో పడ్డారునివేదికల ప్రకారం 171 మంది అదృశ్యమయ్యారు మరియు హిమానీనదం విస్ఫోటనం కారణంగా ఇప్పటివరకు 26 మంది మృతదేహాలను స్వాధీనం చేసుకున్నారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"దేశంలో పెరిగిపోతున్న అసహనం, మూకదాడులను నియంత్రించాలంటూ ప్రధానికి బహిరంగ లేఖ రాయటం దేశ ద్రోహం ఎలా అవుతుందని ప్రముఖ సినీ దర్శకుడు ఆదూర్‌ గోపాలకృష్ణన్‌ ఆశ్చర్యం వ్యక్తం చేశారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+మనుషుల్లో చిప్‌లను అమర్చేందుకు కరోనా వైరస్‌ను కనుగొన్నారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"నలుగురు న్యాయవాదులను హైకోర్టులకు న్యాయమూర్తులుగా నియమించాలన్న ప్రతిపాదనకు సుప్రీంకోర్టు కొలీజియం ఆమోదం తెలిపింది. ఒడిశా, జమ్మూ-కశ్మీర్‌, రాజస్థాన్‌, బొంబాయి హైకోర్టులకు వీరు న్యాయమూర్తులుగా వ్యవహరిస్తారు. ఆరుగురు న్యాయాధికారులకు రాజస్థాన్‌ హైకోర్టు న్యాయమూర్తులుగా పదోన్నతి కల్పించడానికి కూడా భారత ప్రధాన న్యాయమూర్తి నేతృత్వంలోని కొలీజియం సమ్మతించింది.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+HDFC బ్యాంక్ CEO మరియు MD ఆదిత్య పూరితో ఇంటర్వ్యూ నుండి ముఖ్యాంశాల జాబితా కొరోనావైరస్‌పై పోరాటంలో భారతదేశం ఎందుకు గెలుస్తుంది మరియు ఈ మహమ్మారి నుండి బయటపడడంలో ఎందుకు విజయవంతమవుతుందనే సందేశంలోని అనేక అంశాలను పూరీ వివరించాడు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+భారత పర్యటనలో అగ్ర దేశాధ్యక్షుడు డొనాల్డ్‌ ట్రంప్‌ తన వస్త్రధారణతో ఆకట్టుకున్నారు. ఆయన పసుపు రంగు టైతో ముదురు రంగు సూట్‌ను ధరించారు. అమెరికాలో విమానం ఎక్కేముందు ఆయన ఎర్రటి టై ధరించి ఉండగా భారత్‌లో అడుగిడేప్పుడు మాత్రం పసుపు రంగుది దర్శనమిచ్చింది. ఈ ఆహార్యంపై సామాజిక మాధ్యమాల్లో నెటిజన్లు స్పందించారు.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ఈశాన్య సిరియాలో శనివారం టర్కీ బలగాలు జరిపిన దాడుల్లో 10 మంది సాధారణ పౌరులు ప్రాణాలు కోల్పోయారు. సరిహద్దు ప్రాంతాల్లో వైమానిక దాడులు, బాంబుల వర్షంలో ఏడుగురు చనిపోగా కుర్దుల ప్రాబల్య ప్రాంతాల్లో సాయుధ కాల్పుల్లో మరో ముగ్గురు చనిపోయారు. ఈ ఘటనలతో కలిపి నాలుగు రోజుల్లో మృతి చెందిన పౌరుల సంఖ్య 28కి చేరింది. సరిహద్దులో అటు టర్కీ వైపు 17 మంది పౌరులు ఇదే రీతిలో చనిపోయినట్లు సమాచారం.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+సిఎం ఇంటర్వ్యూ ప్రసారం చేయడానికి కేరళ రాష్ట్ర ప్రభుత్వం వార్తా ఛానెల్‌లకు డబ్బు చెల్లిస్తోంది,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ఆవనూనెను నోట్లో వేసుకుంటే కరోనా వైరస్ నశిస్తుంది,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+నటుడు అమీర్ ఖాన్ తన పిల్లలు ఇస్లాంను మాత్రమే అనుసరించాలని పట్టుబడుతున్నారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ముంబైలోని ప్రముఖ బాంద్రావర్లి సీ లింక్‌ని ప్రధానమంత్రి మోదీ హయాంలో నిర్మించారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ఉస్మానియా విశ్వవిద్యాలయ అంతర్‌ కళాశాలల మహిళల జూడో ఛాంపియన్‌షిప్‌లో సెయింట్‌ ఆన్స్‌ ఓవరాల్‌ ఛాంపియన్‌గా నిలిచింది.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ముంబయి: ఆయుర్వేదిక్‌ ఆహారం పేరిట కొత్త విభాగాన్ని ఏర్పాటు చేసే దిశగా కృషి చేస్తున్నట్లు భారత ఆహార భద్రత, ప్రమాణాల ప్రాధికార సంస్థ (ఎఫ్‌ఎస్‌ఎస్‌ఏఐ) తెలిపింది.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+మా దేశానికి వచ్చిన కశ్మీరీ యువకులు హీరో స్వాగతం పొందారు. వారికి మేము శిక్షణ ఇచ్చి ముజాహిదీన్‌లుగా తయారుచేశాం. జమ్మూ-కశ్మీర్‌లో భారత సైనికులపై దాడులు చేసేందుకు మా మద్దతు వారికి ఉంటుంది. వారు మా హీరోలు.2015లో పాకిస్థాన్‌ మాజీ అధ్యక్షుడు జనరల్‌ ముషారఫ్‌ చేసిన వ్యాఖ్యలివి. ఇందుకు సంబంధించిన వీడియోను హమీద్‌ మందోఖాయిల్‌ ట్విట్టర్‌లో పోస్టుచేయగా... పాక్‌ అధ్యక్షుడి మాజీ ప్రెస్‌ సెక్రటరీ ఫర్హాతుల్లా తాజాగా రీ-ట్వీట్‌ చేశారు.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ఖలిస్థాన్‌ లిబరేషన్‌ ఫ్రంట్‌ (కేఎల్‌ఎఫ్‌) అగ్రనేతల్లో ఒకడైన హర్మీత్‌సింగ్‌ లాహోర్‌ శివారులో హత్యకు గురయ్యాడు. మాదక ద్రవ్యాల సరఫరా వ్యవహారంలో గుర్తుతెలియని ఇద్దరు వ్యక్తులు అతడిని తుపాకీతో కాల్చి చంపినట్టు తెలుస్తోంది.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+అయోధ్య రామ మందిరానికి 10000 కోట్ల రూపాయులు కేటాయించనున్నట్లు కేంద్ర ప్రభుత్వం వెల్లడి,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+హోండా మోటర్‌సైకిల్‌ అండ్‌ స్కూటర్‌ ఇండియా (హెచ్‌ఎమ్‌ఎస్‌ఐ) ‘డియో’ 110 సీసీ స్కూటర్‌ను బీఎస్‌-6 ఇంజిన్‌తో అందుబాటులోకి తెచ్చింది.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ధాన్యం విక్రయానికి గడువు ముగుస్తుండడంతో ఆసుపత్రిలో చికిత్స పొందుతున్న ఓ రైతు అంబులెన్సులో మండీకి వెళ్లిన ఘటన ఒడిశా రాష్ట్రం సువర్ణపూర్‌ జిల్లాలో చోటుచేసుకుంది.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"చలువరాళ్ల లోడ్‌తో రాజస్థాన్‌ నుంచి బిహార్‌కు వస్తున్న 18 చక్రాల భారీ ట్రక్కు బోల్తాపడి, రోడ్డు పక్కన నిల్చొన్న చిన్నారులపైకి దూసుకువెళ్లడంతో ఆరుగురు ప్రాణాలు కోల్పోయారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+కన్హయ్య కుమార్ ముస్లిం అని చెప్పడానికి ఇంతకంటే రుజువు ఏమి కావాలి మీరు తప్పక వీడియో చూడండి,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ప్రభుత్వం మూడు కొత్త వ్యవసాయం చట్టాలకు వ్యతిరేకంగా ఢిల్లీ సరిహద్దులో రైతులు నిరసనలు చేస్తున్నారు వ్యవసాయ శాఖ మంత్రి నరేంద్ర సింగ్‌ తోమర్‌తో పాటు పలువురు మంత్రులతో రైతు నేతలు పలుమార్లు సమావేశాలు జరిపినా ఇంతవరకు ఎలాంటి ఫలితం రాలేదు చలికాలంలో వ్యవసాయ చట్టాన్ని ఉపసంహరించుకోవాలనే డిమాండ్‌పై మొండిగా ఉన్న రైతుల్లో ఇప్పటివరకు చాలా మంది రైతులు ప్రాణాలు కోల్పోయారు నివేదిక ప్రకారం నిరసనలలో చలి కారణంగా సుమారు 33 మంది రైతులు మరణించారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ముంబయి-దిల్లీ సహ 100 మార్గాల్లో 150 రైళ్లను ప్రైవేటు ఆపరేటర్ల ఆధ్యర్యంలో నడిపేందుకు నీతీ ఆయోగ్‌, భారతీయ రైల్వే సంస్థలు ఒక చర్చా పత్రాన్ని వెలువరించాయి. ఈ రైలు మార్గాల ప్రైవేటీకరణ ద్వారా సుమారు రూ.22,500 కోట్లు పెట్టుబడులు వస్తాయని పేర్కొన్నాయి. దిల్లీ-పట్నా, ఇండోర్‌-ఓక్లా, లఖ్‌నవూ- జమ్మూ-తావీ, చెన్నై-ఓక్లా తదితర 100మార్గాల్లో ప్రైవేటు రైళ్లను నడపాలని ఈ పత్రంలో ప్రతిపాదించారు. ఈ మొత్తం 100 మార్గాలను పది క్లస్టర్ల పరిధిలోకి తెచ్చారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+వృద్ధులు ఎక్కువ కాలం జీవిస్తారు మరియు అది ప్రపంచ ఆర్థిక వ్యవస్థకు ప్రమాదం అని ట్రంప్ అన్నారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+కథానాయికగా పదిహేనేళ్ల ప్రయాణాన్ని పూర్తి చేసుకుంది తమన్నా. అటు అందం ఇటు అభినయంతోనూ తెలుగు తెరపై తనదైన ముద్రవేసింది. ఇక ఆమె నృత్యాలకే చాలామంది అభిమానులున్నారు. అందుకే ఆమె ఇప్పటికీ వరుస అవకాశాలతో బిజీ బిజీగా గడుపుతోంది. తొలినాళ్లలో మీలో మీకు బాగా నచ్చిన విషయం ఏంటి? ఇప్పుడు మీ ప్రయాణంలో మీకు నచ్చే అంశం ఏంటని అడిగితే... ‘‘తొలి సినిమా చేసేటప్పుడు నాలో ఉత్సాహం నాకు బాగా నచ్చేది. అప్పుడు టీనేజ్‌ అమ్మాయిని కదా. అవకాశం ఇస్తే ఏదైనా చేసేయగలననే ఆత్మవిశ్వాసం ఉండేది.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+‘ఫలక్‌నుమా దాస్‌’ లాంటి మాస్‌ కథా చిత్రంతో తెలుగు ప్రేక్షకులకు చేరువయ్యారు నటుడు విశ్వక్‌సేన్‌. ఆయన కథానాయకుడిగా త్వరలో ఓ విభిన్నమైన ప్రేమకథా చిత్రం తెరకెక్కనుంది. ‘పాగల్‌’ అనే టైటిల్‌తో తెరకెక్కనున్న ఈ సినిమా పూజా కార్యక్రమం గురువారం హైదరాబాద్‌లో జరిగింది. పూజా కార్యక్రమం సందర్భంగా ‘పాగల్‌’ టైటిల్‌ పోస్టర్‌ను చిత్రబృందం సోషల్‌మీడియా వేదికగా విడుదల చేసింది. నూతన దర్శకుడు నరేష్‌ కుప్పిలి డైరెక్షన్‌లో తెరకెక్కనున్న ఈ సినిమాకు బెక్కం వేణుగోపాల్‌ నిర్మాతగా వ్యవహరించనున్నారు. విశ్వక్‌సేన్‌ ఐదో సినిమాగా ‘పాగల్‌’ రానుంది. ఈ ఏడాది ఆరంభంలో విడుదలైన ‘హిట్’ చిత్రంలో విశ్వక్‌సేన్‌ నటించారు. శైలేష్‌ కొలను దర్శకత్వం వహించిన ఈ క్రైమ్‌ థ్రిల్లర్‌ ఫిబ్రవరి 28న విడుదలై ప్రేక్షకుల నుంచి మంచి స్పందనను అందుకుంది. ఈ సినిమాలో విశ్వక్‌సేన్‌.. విక్రమ్‌ రుద్రరాజు అనే పోలీస్‌ అధికారి పాత్రలో మెప్పించారు. వాల్‌ పోస్టర్‌ సినిమా బ్యానర్‌పై తెరకెక్కిన ఈ చిత్రానికి నాని నిర్మాతగా వ్యవహరించారు.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+మృతదేహం దగ్గర నవ్వుతూ ఫొటో దిగిన కుటుంబ సభ్యులు అసలు,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+సోమాలియా రాజధాని మొగదిషులో శనివారం సంభవించిన కారు బాంబు పేలుడులో 90 మంది మృతి చెందారు. మరో 60 మంది గాయపడ్డారు. క్షతగాత్రుల్లో అత్యధికులు విశ్వవిద్యాలయం విద్యార్థులే. వారు ప్రయాణిస్తున్న బస్సును బాంబులతో ఉన్న కారు ఢీ కొట్టింది. అల్‌ ఖైదా అనుబంధ ఉగ్ర సంస్థ అల్‌ షెహబాబ్‌ ఈ దారుణానికి పాల్పడినట్లు తెలుస్తోంది.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+పశ్చిమ బెంగాల్‌లోని దుర్గా పూజా పందిరిలో నమాజ్ సమయ సూచిక,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+అల్అక్సా మసీదును రక్షించడానికి పాలస్తీనా అమ్మాయి ధైర్యంగా ఇజ్రాయెల్ పోలీసుల ముందు నిలబడింది,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+నిర్భయ కేసులో ప్రధాన నిందితుడు జైలు నుంచి బయటకు వచ్చిన రాక్షసుడు మహమ్మద్ అఫ్రోజ్ కు ఢిల్లీ ముఖ్యమంత్రి అరవింద్ కేజ్రీవాల్ 10 వేల రూపాయలు మరియు కుట్టు మిషన్ ఇచ్చారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"అప్పులభారంతో కుంగిన రైతు ఆత్మహత్యకు పాల్పడ్డారు. కర్నూలు జిల్లా ఆత్మకూరు మండలం పెద్దనంతాపురం గ్రామానికి చెందిన రైతు గుంటక అనంతరెడ్డి తనకున్న ఎకరంన్నర సొంత పొలంతోపాటు 7.5 ఎకరాలు కౌలుకు తీసుకున్నారు. మినుము, మొక్కజొన్న, వరిసాగు చేశారు. అధిక వర్షాలకు మూడు పంటలూ దెబ్బతినటంతో రైతు కుంగిపోయారు. శనివారం రాత్రి సొంత పొలంలోని బావిలోదూకి ఆత్మహత్య చేసుకున్నారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+జో బిడెన్ మరియు కమలా హారిస్ కోవిడ్19 వ్యాక్సిన్‌లపై అపనమ్మకం కలిగి ఉన్నారని చెప్పారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+నేషనల్ ఎడ్యుకేటెడ్ నిరుద్యోగుల కింద రేషన్ కార్డుదారులకు ప్రభుత్వం 50 వేల రూపాయలు ఇస్తుంది,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"వైష్ణవ్‌ తేజ్‌, కృతిశెట్టి జంటగా నటిస్తున్న చిత్రం ‘ఉప్పెన’. బుచ్చిబాబు సానా దర్శకుడు. నవీన్‌ యెర్నేని, వై.రవిశంకర్‌ నిర్మిస్తున్నారు. దేవిశ్రీ ప్రసాద్‌ స్వరాలు సమకూరుస్తున్నారు. ‘ధక్‌ ధక్‌ ధక్‌..’ అంటూ సాగే ఈ చిత్రంలోని రెండో గీతాన్ని సోమవారం విడుదల చేయబోతున్నారు. ‘‘తొలి గీతం ఇటీవలే విడుదలైంది. ‘నీ కన్ను నీలి సముద్రం...’ అంటూ సాగే ఆ పాట తక్కువ సమయంలోనే మంచి ఆదరణ పొందింది. కథానాయికపై తనకెంత ప్రేమ ఉందో కథానాయకుడు చెప్పే గీతమది.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+కొరోనా వ్యాధి వచ్చిన 20000 మంది ని చంపడానికి కోర్టు పర్మిషన్ కోరిన చైనా ప్రభుత్వం,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+క్వారంటైన్ సాకుతో ముస్లింలను బలవంతంగా నిర్బంధ కేంద్రంలో ఉంచారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+విశ్వబ్రాహ్మణులను ప్రపంచంలోనే అత్యంత మేధావులుగా ఐక్యరాజ్య సమితి గుర్తించిందని వస్తున్న వార్త నిజం,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+పుల్వామా దాడి కి వ్యతిరేకంగా జరిగిన పోరాటంలో దేశం విఫలమైందని రాహుల్ గాంధీ అన్నారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+గౌరవనీయులైన రాజ్యసభ ఎంపీ శ్రీ రంజన్ గొగోయ్ జీకి కరోనా ఇన్ఫెక్షన్ వార్త అందింది ప్రపంచ సృష్టికర్త అయిన శ్రీరాముడు ని కోలుకోవాలని ప్రార్థిస్తున్నాను,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"వివాదాల పరిష్కారానికి సంప్రదింపులు జరపాలే తప్ప, మూర్ఖంగా బలప్రయోగం చేయరాదన్నది భారతీయ విధానమని ప్రధాని నరేంద్ర మోదీ అన్నారు. శాంతి, సౌభ్రాతృత్వం ద్వారానే దేశం అభివృద్ధి సాధించిందని తెలిపారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"కర్ణాటకలోని మంగళూరు విమానాశ్రయంలో సోమవారం బాంబు కనిపించడం కలకలం సృష్టించింది. టికెట్‌ కౌంటర్‌ సమీపంలో గుర్తుతెలియని వ్యక్తి విడిచి వెళ్లిన ఓ ల్యాప్‌టాప్‌ బ్యాగులో కేంద్ర పారిశ్రామిక భద్రతాదళం (సీఐఎస్‌ఎఫ్‌) సిబ్బంది దాన్ని గుర్తించారు.పేలుడు పదార్థాన్ని బాంబు నిర్వీర్యక దళం నిపుణులు విమానాశ్రయానికి 2 కిలోమీటర్ల దూరంలోని కెంజారు మైదానానికి తీసుకెళ్లి ఇసుక మూటల మధ్య ఉంచి పేల్చివేశారు. దీంతో పెను ప్రమాదం తప్పింది. తలకు టోపీ పెట్టుకుని, నీలం రంగు పుస్తకాన్ని చేతిలో పట్టుకుని వచ్చిన ఓ వ్యక్తి ల్యాప్‌టాప్‌ బ్యాగును వదిలి వెళ్లాడని.. అతడు ఆటోలో విమానాశ్రయానికి వచ్చాడని సీసీటీవీ ఫుటేజీల ఆధారంగా పోలీసులు గుర్తించారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ఇస్లాం మత బోధకుడు జాకీర్ నాయక్‌ని మలేషియా ప్రభుత్వం అరెస్ట్ చేసి భారతదేశానికి పంపిస్తుంది,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"సెల్ఫీల మోజులో కొందరు ప్రాణాల మీదకు తెచ్చుకోవడం, ప్రమాదాల బారిన పడటం వంటి ఘటనలు అప్పుడప్పుడూ వింటున్నాం. అయితే కర్ణాటకలో ఓ యువకుడు తీసుకున్న సెల్ఫీ ఒక పెద్దాయన ప్రాణాలు కాపాడింది. దావనగెరె జిల్లా హరిహర తాలుకాలో తుంగభద్ర నది వంతెనపై నుంచి ఆ యువకుడు వెళుతుండగా.. ఆ ప్రాంతం అతనికి బాగా నచ్చింది. వరద ప్రవాహం, ఆనకట్టలతో కలిపి అతను సెల్ఫీ (స్వీయచిత్రం) తీసుకోవాలనుకున్నాడు. వెంటనే ఫోన్‌ తీసి క్లిక్‌లు మొదలు పెట్టాడు. ఆ సెల్ఫీలో రోడ్డుకు అవతలివైపున ఓ వృద్ధుడు నదిలోకి దూకేందుకు సిద్ధమవుతూ కనిపించాడు. వెంటనే వెనక్కి తిరిగి చూసిన యువకుడికి ఆ పెద్దాయన ఆత్మహత్యకు ప్రయత్నిస్తున్నట్లు అర్థమైంది. వెంటనే గట్టిగా కేకలు వేయడంతో చుట్టుపక్కల ఉన్నవారంతా పరుగున వచ్చి వృద్ధుడిని కాపాడారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ఫుడ్ అండ్ డ్రగ్ అడ్మినిస్ట్రేషన్ ఫైజర్ యొక్క మూడవ డోస్ ను ఆమోదించలేదు ఎందుకంటే దాని కోవిడ్19 వ్యాక్సిన్ వల్ల ప్రజలు చనిపోతున్నారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"నదీ ప్రవాహ ప్రాంతం(రివర్‌ బెడ్‌) నుంచి ఇసుక అక్రమ రవాణా చేసిన కేసులో ఓ వ్యక్తికి కడప రెండో అదనపు జ్యుడీషియల్‌ మేజిస్ట్రేట్‌ కోర్టు మూడేళ్ల సాధారణ జైలు శిక్ష, రూ.5వేల జరిమానా విధించింది. దీంతోపాటు ప్రజా ఆస్తుల నష్ట నిర్మూలన చట్టం సెక్షన్‌ 3 ప్రకారం ఏడాది సాధారణ జైలుశిక్ష, రూ.5వేల జరిమానా విధించింది. శిక్షలు రెండూ ఏకకాలంలో అమలవుతాయని పేర్కొంది. నవంబరు 20న ఈ మేరకు తీర్పు ఇచ్చింది.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+కరోనావైరస్ కారణంగా సంభవించిన ఆర్థిక నష్టాన్ని భర్తీ చేయడానికి రాబోయే 10 సంవత్సరాల వరకు దేశంలో ఎటువంటి ఎన్నికలు నిర్వహించకూడదని భారత మాజీ ప్రధాన న్యాయమూర్తి రంజన్ గొగోయ్ ట్వీట్ చేశారు ఎందుకంటే ఎన్నికలకు చాలా డబ్బు ఖర్చు అవుతుంది,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+బెంగాల్ కాలిపోతోంది మమత నిద్రపోతోంది,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ప్రపంచ ఆరోగ్య సంస్థ డబ్ల్యూహెచ్‌ఓ తులసి తాగడం వల్ల కరోనా వైరస్ ప్రభావం ఉండదని పేర్కొంది,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+కరోనా నేపథ్యంలో కొన్ని రోజులుగా ఇంట్లోనే గడుపుతోంది రకుల్‌ప్రీత్‌ సింగ్‌. ఇలాంటి కష్ట కాలాన్ని కూడా సంతోషంగా మార్చుకోవచ్చని చెబుతోందామె. ఈ సమయాన్ని ఎలా సద్వినియోగం చేసుకోవచ్చో చెబుతోంది. ‘‘ఇంట్లో మీ కుటుంబ సభ్యులతో కలిసి కూర్చోండి. ఒకరితో ఒకరు మనసు విప్పి మాట్లాడుకోండి. ఇప్పటివరకు చేయని పనులు ఏవైనా ఉంటే వాటి కోసం సమయం కేటాయించండి. ఇళ్లలోనే జాగ్రత్తగా ఆనందంగా ఉండండి’’ అంటూ సూచనలు చేస్తోంది రకుల్‌.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"యునైటెడ్‌ అరబ్‌ ఎమిరేట్స్‌ (యూఏఈ)లోని ఫెడరల్‌, లోకల్‌ కోర్టులు జారీ చేసే డిక్రీలు, జడ్జిమెంట్ల ఉత్తర్వుల అమలుకు భారత ప్రభుత్వం అంగీకరించింది. ఈ మేరకు కేంద్ర న్యాయశాఖ గెజిట్‌ నోటిఫికేషన్‌ జారీ చేసింది.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+సమాచార హక్కు (సహ) చట్టంపై కొత్త నిబంధనలను కేంద్ర ప్రభుత్వం నోటిఫై చేసింది. దేశవ్యాప్తంగా సహ కమిషనర్ల పదవీ కాలాన్ని మూడేళ్లకు తగ్గించింది. వారి జీతభత్యాలను ఇకపై ప్రభుత్వమే నిర్ణయించనుంది.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+నరేంద్ర మోదీ ప్రభుత్వం 35A రద్దుకు వ్యతిరేకంగా భారత ఆక్రమిత కాశ్మీర్‌లో లక్షలాది మంది కాశ్మీరీలు ర్యాలీ చేపట్టారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+పౌరసత్వ సవరణ చట్టం (సీఏఏ) ఆమోదించిన అనంతరం దేశంలో తలెత్తిన పరిస్థితులను చక్కదిద్దడంతో మోదీ ప్రభుత్వం సమర్థంగా వ్యవహరించలేదని భాజపా మాతృ సంస్థ అయిన ఆర్‌ఎస్‌ఎస్‌ అసంతృప్తి వ్యక్తం చేసినట్లు సమాచారం.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"హోండా మోటార్‌సైకిల్‌ అండ్‌ స్కూటర్‌ ఇండియా (హెచ్‌ఎమ్‌ఐఎస్‌) బీఎస్‌-6 ప్రమాణాలతో రూపొందించిన యూనికార్న్‌ బైకును గురువారం విపణిలోకి విడుదల చేసింది. దీని ధర రూ.93,593గా (ఎక్స్‌-షోరూమ్‌, దిల్లీ) నిర్ణయించింది.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"సెప్టెంబరులో తగ్గించిన కార్పొరేట్‌ పన్ను రేట్లను కంపెనీలు వినియోగించుకోవడానికి వీలుగా దరఖాస్తులను ఆదాయ పన్ను(ఐటీ) విభాగం నోటిఫై చేసింది. ప్రత్యక్ష పన్నుల కేంద్ర బోర్డు(సీబీడీటీ) ఆ మేరకు ఫారమ్‌ 10-ఐసీ, 10-ఐడీలను నోటిఫై చేసింది.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+73 ఏళ్లలో భారతదేశంలో ఇంత బలమైన మరియు ఉక్కు సంకల్పం ఉన్న ప్రభుత్వం ఎన్నడూ లేదని ఇమ్రాన్ ఖాన్ బహిరంగంగా అంగీకరించారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+పుట్టిన తర్వాత తప్పనిసరిగా భారతీయులందరికీ ఇవ్వబడిన BCG వ్యాక్సిన్ వారిని కరోనావైరస్ నుండి రోగనిరోధక శక్తిని కలిగిస్తుంది,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+టాటా కన్సల్టెన్సీ సర్వీసెస్‌ (టీసీఎస్‌) అరుదైన గుర్తింపు సాధించింది. ఫార్చ్యూన్‌ నివేదిక ప్రకారం.. ఈ ఏడాది (2020) అమెరికాలో పనిచేయడానికి అనువైన అత్యుత్తమ 20 సంస్థల్లో చోటు దక్కించుకుంది. అమెరికా దిగ్గజ సంస్థల సరసన భారత్‌ నుంచి ఈ ఘనత సాధించిన ఏకైక సంస్థ టీసీఎస్‌ కావడం గమనార్హం.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+అస్సాంలో NRC ప్రారంభమైంది ప్రజలను ఇళ్ల నుంచి గెంటివేస్తున్నారు మీడియా దీన్ని చూపించదు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"తూర్పుగోదావరి జిల్లా కాకినాడ డీప్‌వాటర్‌ పోర్టులోని సౌత్‌బెర్తు వద్ద మంగళవారం అర్ధరాత్రి దాటిన తర్వాత జరిగిన ప్రమాదంలో ఓ ట్రాలీ లారీ సముద్రంలో పడిపోగా... నల్గొండకు చెందిన డ్రైవర్‌ మల్లిరెడ్డి వెంకటరెడ్డి గల్లంతయ్యాడు. గ్రానైట్‌ లోడు దించి లారీని వెనక్కి మళ్లిస్తున్న క్రమంలో అది అదుపు తప్పి సముద్రంలో పడిపోయింది. దానిని బుధవారం వెలికితీసినా అతని ఆచూకీ లభించలేదు. విశాఖపట్నం నుంచి వచ్చిన స్కూబా డైవర్లు, పెట్రోలింగ్‌ సిబ్బంది గాలింపు చర్యలు చేపట్టారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"అమెరికా వైద్య ఉపకరణాల దిగ్గజం మెడ్‌ట్రానిక్‌ తయారు చేసే ఇన్సులిన్‌ పంపులకు సైబర్‌ భద్రత ముప్పు పొంచి ఉన్నట్లు కేంద్ర ఔషధ ప్రమాణాల నియంత్రణ సంస్థ (సీడీఎస్‌సీవో) హెచ్చరించింది. సదరు పంపులతో రోగి కాకుండా ఇతరులెవరైనా తీగరహితంగా అనుసంధానమై దాని సెట్టింగ్‌లను, ఇన్సులిన్‌ విడుదల నియంత్రణలను మార్చివేసే ముప్పుందని పేర్కొంది. ఇన్సులిన్‌ అధిక మోతాదుల్లో అందడం వల్ల రక్తంలో గ్లూకోజ్‌ తగ్గిపోయే సమస్య తలెత్తుతుందని తెలిపింది. ఇన్సులిన్‌ను నిలిపివేస్తే రక్తంలో గ్లూకోజ్‌ పెరిగిపోవడం, ఆమ్లాలు పేరుకుపోవడం వంటి సమస్యలకు దారితీసే ముప్పుందని పేర్కొంది.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+రామసేతు 7 లక్షల సంవత్సరాల క్రితంది అని NASA చెప్పింది,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ఆ రాత్రి రాహుల్ గాంధీ స్వయంగా చైనా బోర్డర్‌లో ఏకే 47 గంజాయి పట్టుకుని వచ్చారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+పౌరసత్వ సవరణ చట్టం సిఎఎకి విశ్వహిందూ పరిషత్ నాయకుడు మద్దతు తెలుపుతూ ముస్లింలను అసదుద్దీన్ ఒవైసీని విమర్శించిన వ్యక్తి ప్రస్తుత హైదరాబాద్ నిజాం,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+చంద్రయాన్2 వైఫల్యంపై పశ్చిమ బెంగాల్ ముఖ్యమంత్రి మమతా బెనర్జీ ఇస్రో శాస్త్రవేత్తలను విమర్శిస్తూ మీరు చేయలేని పనిని చేయడానికి ప్రయత్నించవద్దు అని చెప్పారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+మరణం మర్చిపోయిన 180 సంవత్సరాల వయసు గల భారతీయుడు బెంగుళూరు లో నివసిస్తున్నారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+జూన్ 1 నుండి ATM నుండి నాలుగు సార్లు కంటే ఎక్కువ డబ్బు విత్‌డ్రా చేస్తే రూ 150 పన్ను మరియు రూ 23 సర్‌చార్జి విధించబడుతుంది,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+భారత ముస్లింలపై జరిగిన అకృత్యాలు మరియు షరియత్‌ను తారుమారు చేసే ప్రయత్నానికి వ్యతిరేకంగా సౌదీ అరేబియాలో ప్రజలు మోడీకి వ్యతిరేకంగా బూట్లు మరియు చెప్పులతో వీధుల్లోకి వచ్చారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"అమ్మానాన్నలు, అధ్యాపకులు, ఇతర సిబ్బంది అంతా కూడా కోపాన్ని త్యజించి బడిపిల్లలకు మార్గదర్శకులుగా నిలవాలని సీబీఎస్‌ఈ తన పరిధిలోని పాఠశాలలన్నిటినీ కోరింది.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ఇటలీలోని ధనవంతులు వీధుల్లో నోట్లను విసిరారు కరోనా విషాదాన్ని చూసి ఈ సంపద వల్ల ఉపయోగం లేదు అని అన్నారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+TANA and TANTEX డల్లాస్‌లో ఘనంగా యజ్ఞేశ్వర శతక మహోత్సవం కవి జొన్నవిత్తులకు ఘన సన్మానం,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"హైదరాబాద్‌ క్రికెట్‌ సంఘం (హెచ్‌సీఏ) అవినీతిలో కూరుకుపోయిందని సీనియర్‌ ఆటగాడు అంబటి రాయుడు ఆరోపించాడు. ఈ అవినీతిని అరికట్టే దిశగా చొరవ చూపాలని రాష్ట్ర ఐటీ, పురపాలక మంత్రి కేటీ రామారావును అతను ట్విట్టర్‌ వేదికగా కోరాడు. కేటీఆర్‌ సర్‌.. హెచ్‌సీఏలో పేరుకుపోయిన అవినీతిపై దృష్టి పెట్టి దాన్ని నిర్మూలించాలని కోరుతున్నా. డబ్బుతో పాటు ఎన్నో ఏసీబీ కేసులు ఎదుర్కొంటున్న అవినీతి పరుల ప్రభావం పడ్డ జట్టుతో హైదరాబాద్‌ క్రికెట్‌ గొప్పగా ఎలా ఎదుగుతుంది? అని రాయుడు శనివారం ట్వీట్‌ చేశాడు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ఇంటర్నెట్‌కు సంధానమయ్యే హక్కు కూడా ప్రాథమిక హక్కేనని కేరళ హైకోర్టు కీలక తీర్పునిచ్చింది. 18 సంవత్సరాలు నిండిన వారికి ఇది రాజ్యాంగంలో పేర్కొన్న వ్యక్తిగత గోప్యత హక్కు, విద్యా హక్కుల్లో భాగంగా ఉంటుందని స్పష్టం చేసింది.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+నేషనల్ ఏరోనాటిక్స్ అండ్ స్పేస్ అడ్మినిస్ట్రేషన్ నాసా సూర్యుడి నుంచి వెలువడే ధ్వనిగా ఓంను రికార్డ్ చేసింది,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+కొరోనా కారణంగా ఇటలీ లో ప్రజలు డబ్బుని రోడ్ల మీద పడేస్తున్నారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ఢిల్లీలో క్యాంపు చేస్తున్న రైతులంతా నక్సలైట్లు దేశ వ్యతిరేకులుపంజాబ్ కర్ణాటకలో రాహుల్ రుణమాఫీ చేస్తే పెద్ద విషయం కాదు మోదీ జీ ఎన్నో కార్పొరేట్ పనులు చేశారు రుణమాఫీ చేశారు ఈ రైతు దేశ ప్రగతికి ఆటంకం,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+పాశ్చాత్య దేశాలు కొత్త కరోనా వైరస్ తో పోరాడుతున్నప్పుడు అంతర్జాతీయ ఉగ్రవాదం ఆగిపోయింది,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ఆహారం ఉత్పత్తి చేసే జంతువుల్లో కొలిస్టిన్‌ మందు దాని ఫార్ములేషన్ల వినియోగంపై కేంద్ర ప్రభుత్వం నిషేధం విధించ లేదు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+మాటలు రాని మానసిక వికలాంగురాలైన బాలికపై 34 ఏళ్ల వ్యక్తి అత్యాచారానికి పాల్పడిన ఘటన గుంటూరు జిల్లా చెరుకుపల్లిలో వెలుగు చూసింది.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+అగరబత్తుల నుంచి వెలువడే పాజిటివ్‌ ఎనర్జీ క‌రోనా వైరస్‌ని చంపేస్తుంది,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+సాంకేతిక అంశాలను సాకుగా చూపి సౌర విద్యుత్తు సంస్థలను ఇబ్బంది పెట్టడానికి ప్రయత్నిస్తున్న రాష్ట్ర ప్రభుత్వాలకు ముకుతాడు వేసేలా కేంద్ర ప్రభుత్వం సర్క్యులర్‌ జారీ చేసింది.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+పాక్ కు వెళ్లే సింధు జలాలను ఆపివేయాలనే నిర్ణయం భారత్ తీసుకుంది,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+13 లక్షల మంది ఉద్యోగుల జీతాలు అలవెన్సులు తగ్గించాలని రైల్వే మంత్రిత్వ శాఖ యోచిస్తోంది,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"చిరంజీవి తొలి సినిమా ‘పునాదిరాళ్లు’ తీసిన దర్శకుడు గూడపాటి రాజ్‌కుమార్‌ (76) కన్నుమూశారు. కొంతకాలంగా అనారోగ్యంతో బాధపడుతున్న ఆయన శుక్రవారం రాత్రి నిద్రలోనే తుదిశ్వాస విడిచినట్టు కుటుంబ సభ్యులు వెల్లడించారు. ఆయనకు ఇద్దరు కుమారులు కాగా గతంలోనే భార్య, పెద్ద కుమారుడు మృతి చెందారు. చిన్న కుమారుడు విజయ్‌తో కలిసి హైదరాబాద్‌లోని లాలా పేటలో ఉంటున్నారు. రాజ్‌కుమార్‌ సొంతూరు కృష్ణ జిల్లా ఉయ్యూరు. అంత్య క్రియల కోసం మృతదేహాన్ని స్వస్థలానికి తరలించడానికి ఏర్పాట్లు చేశారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"డోమినార్‌ స్పోర్ట్స్‌ టోరర్‌ విభాగంలో డోమినార్‌ 250 బైక్‌ను బజాజ్‌ ఆటో బుధవారం విపణిలోకి విడుదల చేసింది. దీని ధర రూ.1.6 లక్షలు (ఎక్స్‌-షోరూమ్‌, దిల్లీ). 248.8 సీసీ ఇంజిన్‌ లిక్విడ్‌ కూల్డ్‌ సామర్థ్యం, 27 పీఎస్‌ పవర్‌ దీని సొంతమని బజాజ్‌ ఆటో తెలిపింది.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+అస్సాం కాంగ్రెస్ నాయకుడు అమ్జత్ అలీని మసీదు నుండి ఆపిల్ బాక్స్‌లో ఆయుధాలు మరియు బుల్లెట్లతో అదుపులోకి తీసుకున్నారు హిందువులను చంపాలని ప్లాన్ చేశారు పోలీసులు పట్టుకున్నారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ప్రత్యేక ఆకర్షణగా 18 అడుగుల బంగారు గణపతి తిరుమల శ్రీనివాసుడి మాదిరిగా అలంకరణ,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"కరోనా మహమ్మారి ప్రబలుతుండటంతో దేశవ్యాప్తంగా ఆరోగ్య అత్యవసర పరిస్థితి నడుస్తోంది. లాక్‌డౌన్‌ నేపథ్యంలో సంస్థలు మూతబడ్డాయి. దీన్ని దృష్టిలో పెట్టుకుని తమ ఖాతాదారుల కోసం పలు ప్రభుత్వరంగ బ్యాంకులు ప్రత్యేక రుణాలు ఇవ్వడానికి ముందుకొస్తున్నాయి. ఇప్పటికే స్టేట్‌ బ్యాంక్‌ ఆఫ్‌ ఇండియా, బ్యాంక్‌ ఆఫ్‌ బరోడా వీటిని ప్రకటించగా.. తాజాగా మరికొన్ని బ్యాంకులు ఈ జాబితాలో చేరాయి.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+కాశ్మీర్‌లో ముస్లిం మహిళలపై భారత సైన్యం దౌర్జన్యాలు కాశ్మీర్ ముస్లింలు నేటి ప్రపంచంలో నిస్సహాయంగా ఉన్నారు కాశ్మీర్‌ను రక్షించండి కశ్మీర్‌లో మహిళలపై భారత సైన్యం అఘాయిత్యాలకు పాల్పడుతోంది,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"కూచ్‌ బెహార్‌ ట్రోఫీ (అండర్‌-19)లో భాగంగా ముంబయితో తలపడే హైదరాబాద్‌ జట్టును ప్రకటించారు. ఈనెల 20 నుంచి 23 వరకు ముంబయిలో ఈ మ్యాచ్‌ జరుగుతుంది. జట్టు: అనికేత్‌రెడ్డి, వైష్ణవ్‌రెడ్డి, ప్రత్యూష్‌, అబ్దుల్‌ వాహిద్‌, శశాంక్‌ లోకేశ్‌, ప్రతీక్‌రెడ్డి, తుషార్‌ త్రిపాఠి, సక్లాయిన్‌ అరాఫత్‌, త్రిశాంక్‌గుప్తా, వెంకట్‌ చైతన్య, పున్నయ్య, షాజైబ్‌ఖాన్‌, పారస్‌ రాజ్‌, లోకేశ్‌, రిషికేత్‌ సిసోడియా, సహేంద్ర మల్లు, మహ్మద్‌ గౌస్‌ (కోచ్‌), శివశంకర్‌ (బౌలింగ్‌ కోచ్‌), రొనాల్డ్‌ రోడ్రిగ్స్‌ (ఫీల్డింగ్‌ కోచ్‌)",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+పాకిస్తాన్ దావూద్ ఇల్లులో వరద కోపంతో ప్రజలు పరిపాలన కార్యాలయంపై రాళ్లు రువ్వారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+వాస్తవానికి కోవిడ్19 లాంటి వైరస్ లేదని ఇటాలియన్ శాస్త్రవేత్తలు తమ కొత్త పరిశోధనలో కనుగొన్నారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ఓ శిక్షణ విమానం కుప్పకూలిన దుర్ఘటనలో పైలెట్‌, శిక్షణ పైలెట్‌ మృతిచెందారు. వికారాబాద్‌ జిల్లా బంట్వారం మండలం సుల్తాన్‌పూర్‌ సమీపంలో ఆదివారం మధ్యాహ్నం ఈ ప్రమాదం చోటుచేసుకుంది. మధ్యాహ్నం 12 గంటల సమయంలో పెద్దశబ్దం చేసుకుంటూ వచ్చిన విమానం పోలాల్లో ఒక్క ఉదుటున భూమిని ఢీకొనడంతో ముక్కలు ముక్కలైంది. సమీపంలో ఉన్న రైతులు అక్కడకు పరుగులు తీశారు. శకలాల నుంచి పొగలు వస్తుండటంతో సిబ్బందిని రక్షించడం వారికి సాధ్యంకాలేదు. ఈ ప్రమాదంలో బిహార్‌కు చెందిన సీనియర్‌ పైలెట్‌ ప్రకాష్‌ విశాల్‌, పంజాబ్‌కు చెందిన కుమ్‌ అమన్‌ప్రీత్‌ కౌర్‌ (21) మహిళా ట్రైనీ పైలెట్‌ అక్కడికక్కడే మృతిచెందారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"భారత్‌లో పరిశోధన, అభివృద్ధి కార్యక్రమాలకు కేంద్ర ప్రభుత్వం కేటాయింపులు పెంచాలని నోబెల్‌ బహుమతి విజేత వెంకట్రామన్‌ రామకృష్ణన్‌ పేర్కొన్నారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+పాక్‌ ప్రధాని ఇమ్రాన్‌ ఖాన్‌కు తమ దేశ శక్తి సామర్థ్యాలను ప్రపంచానికి ఎలా తెలియజేయాలో పాలుపోతున్నట్లు లేదు. అందుకే క్రికెట్‌పై గొప్పలు చెప్పుకొచ్చారు.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+మహారాష్ట్ర నవ నిర్మాణ సేన పార్టీ అధ్యక్షుడు రాజ్ థాకరే కంగనా రనౌత్‌ ధైర్యాన్ని పొగుడుతూ అలాగే కరీనా కపూర్‌ని విమర్శిస్తూ ఒక ట్వీట్ పెట్టారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+దేశంలో అతిపెద్ద మొబైల్‌ టవర్ల సంస్థ ఇండస్‌టవర్స్‌.. భారతీ ఇన్‌ఫ్రాటెల్‌లో విలీనానికి టెలికాం విభాగం (డాట్‌) ఆమోదం తెలిపిందని సంబంధిత వర్గాలు తెలిపాయి.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ప్రముఖ గాయని మంగ్లీ నాయికగా నటించిన చిత్రం ‘స్వేచ్ఛ’. కె.పి.ఎన్‌.చౌహాన్‌ ప్రధాన పాత్రలో నటిస్తూ, తెరకెక్కించారు. ఆంగోత్‌ రాజునాయక్‌ నిర్మాత. 28న చిత్రం వస్తోంది. బుధవారం హైదరాబాద్‌లో విడుదల ముందస్తు వేడుకని నిర్వహించారు. అతిథిగా మాజీ మంత్రి తీగల కృష్ణారెడ్డి హాజరయ్యారు. విశ్వాన్ని కాపాడుకోవడానికి చెట్లను పెంచడం ఎంత ముఖ్యమో, సృష్టిని రక్షించుకోవడానికి ఆడవాళ్లు అంతే ముఖ్యమని సందేశమివ్వబోతున్నాం అన్నారు దర్శకుడు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mexico శవపేటికలో పెట్టే సమయంలో లేచిన చిన్నారి కానీ కొన్ని గంటల్లోనే,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+అల్పాహారంలో తీసుకునే ఫ్రెంచ్‌ వంటకం ‘క్రొసాంట్‌’ నుంచి స్ఫూర్తి పొందిన శాస్త్రవేత్తలు ఇంధన నిల్వ కోసం సరికొత్త పరికరాన్ని తయారుచేశారు. ఈ డై ఎలక్ట్రిక్‌ కెపాసిటర్‌.. బ్యాటరీ తరహాలో విద్యుత్‌ను భద్రపరుస్తుంది. పిండిని పొరలుపొరలుగా అర్ధచంద్రాకారంలో మడత పెట్టడం ద్వారా క్రొసాంట్‌ను తయారుచేస్తారు. అదేరీతిలో ప్లాస్టిక్‌ ఇన్సులేటింగ్‌ పొర కలిగిన ఒక కెపాసిటర్‌ను ముడిచేయడం ద్వారా దాని ఇంధన నిల్వ సామర్థ్యాన్ని బాగా పెంచవచ్చని బ్రిటన్‌లోని క్వీన్‌ మేరీ ఇన్‌స్టిట్యూట్‌ ఆఫ్‌ లండన్‌కు చెందిన శాస్త్రవేత్తలు తెలిపారు. ప్రస్తుతమున్న మెరుగైన డై ఎలక్ట్రిక్‌ కెపాసిటర్‌ కన్నా 30 రెట్లు ఎక్కువగా ఇది కరెంటును భద్రపరుస్తుందని చెప్పారు. ఈ తరహా కెపాసిటర్లలో ఇదే అత్యంత ఎక్కువ ఇంధన సాంద్రత అని వారు తెలిపారు.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+హుజురాబాద్ ఉపఎన్నికలో కుక్కను కాదు కేసీఆర్ చెప్పును నిలబెట్టిన లక్ష మెజారిటీతో గెలుస్తాం టీఆర్ఎస్ పార్టీ ఎంఎల్ఏ బాల్క సుమన్,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"మాదక ద్రవ్యాలను విక్రయిస్తున్న ముఠా సభ్యులను గుంటూరు అర్బన్‌ పోలీసులు అరెస్టు చేశారు. ఆదివారం పోలీసు కార్యాలయంలో ఏర్పాటు చేసిన విలేకరుల సమావేశంలో గుంటూరు అర్బన్‌ ఎస్పీ పీహెచ్‌డీ రామకృష్ణ నిందితుల వివరాలను తెలిపారు. నల్లపాడు పోలీసుస్టేషన్‌ పరిధిలో మాదక ద్రవ్యాలు అమ్ముతున్నారనే సమాచారంతో పోలీసులు తనిఖీలు నిర్వహించారన్నారు. అక్కడ అనుమానాస్పదంగా సంచరిస్తున్న ముగ్గురిని ఆదివారం అదుపులోకి తీసుకొని విచారించినట్లు తెలిపారు. వారు ఇచ్చిన సమాచారంతో మరో ఇద్దరిని అరెస్టు చేసినట్లు చెప్పారు. వారిలో సౌత్‌ యెమన్‌ దేశానికి చెందిన మహ్మద్‌షాద్‌ అహ్మద్‌ మెహసేన్‌ ఏడాది పాటు భారత్‌లో ఉండటానికి వీసా పొందినట్లు వెల్లడించారు. గడువు ముగిసినా విజయవాడలో ఉంటూ తాడేపల్లి మండలంలోని ఓ విశ్వవిద్యాలయంలో చదువుకోవడానికి ప్రవేశం పొందినట్లు తెలిపారు. అతను బెంగళూరులో ఉంటున్న నైజీరియా దేశానికి చెందిన జనరల్‌ మ్యాక్స్‌ మక్సే నుంచి మాదకద్రవ్యాలు, వాటి ద్వారా తయారు చేసిన మాత్రలు, గంజాయి, మత్తు కలిగించే ఖరీదైన క్రిస్టల్‌ పదార్థాలను సిరియాకు చెందిన రాఫత్‌ ద్వారా తెప్పించుకుంటున్నాడని తేలిందన్నారు. ఆ మత్తు పదార్థాలను సదరు విశ్వవిద్యాలయంలోని విద్యార్థులకు సూడాన్‌కు చెందిన మిన్నీ, టాంజానియాకి చెందిన యోనా, గుంటూరుకు చెందిన షరీఫ్‌, సూర్యకుమార్‌రెడ్డి, ఫిరంగిపురానికి చెందిన అవినాష్‌ల ద్వారా సరఫరా చేస్తున్నారని చెప్పారు. దీంతో మహ్మద్‌షాద్‌ అహ్మద్‌ మెహసేన్‌, రాఫత్‌, షరీఫ్‌, సూర్యకుమార్‌రెడ్డి, అవినాష్‌లను అరెస్టు చేసినట్లు తెలిపారు. వారి వద్ద నుంచి 2.60 కిలోల గంజాయి, మత్తు పదార్థాలు, సింథటిక్‌ డ్రగ్స్‌ ఉపయోగించే పరికరాలను స్వాధీనం చేసుకున్నట్లు చెప్పారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ఊగిసలాటకు అడ్డుకట్ట ఆ దిశగా చర్యల ప్రకటన దిల్లీ మార్కెట్లు కరోనా తాకిడికి తీవ్ర హెచ్చుతగ్గులకు లోనవుతున్నాయి. కొద్ది రోజుల వ్యవధిలోనే 32% వరకు సూచీలు పతనమయ్యాయి. దీంతో సెబీ నష్ట నివారణ చర్యలకు దిగింది. హెచ్చుతగ్గులను అరికట్టేందుకు శుక్రవారం పలు నిర్ణయాలను ప్రకటించింది. మార్చి 23(సోమవారం) నుంచి ఒక నెల పాటు అమల్లోకి వచ్చేలా 4పేజీల ప్రకటన విడుదల చేసింది.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"పక్షవాత బాధితులు, వెన్నెముక తీవ్రంగా దెబ్బతిన్నవారు తిరిగి మామూలుగా నడిచేందుకు దోహదపడే సరికొత్త సాంకేతికత త్వరలో అందుబాటులోకి వచ్చే అవకాశాలు కనిపిస్తున్నాయి. మెదడు సంకేతాలను విశ్లేషిస్తూ.. తదనుగుణంగా అడుగులు వేయడంలో సహకరించే బాహ్య అస్థిపంజరాన్ని శాస్త్రవేత్తలు అభివృద్ధి చేశారు. వెన్నెముక దెబ్బతిని నాలుగేళ్లుగా కుర్చీకే పరిమితమైన ఫ్రాన్స్‌కు చెందిన 28 ఏళ్ల థిబాల్ట్‌ ఇప్పుడు అడుగులు వేయగలుగుతున్నారు. స్థానిక వైద్యులు, సినాటెక్‌ అనే బయోమెడికల్‌ సంస్థకు చెందిన పరిశోధకులు అతడి కోసం ప్రత్యేక బాహ్య అస్థిపంజరాన్ని రూపొందించారు. అనంతరం థిబాల్ట్‌ మెదడు, చర్మానికి మధ్య 2 రికార్డింగ్‌ పరికరాలను అమర్చారు. శరీర కదలికలను నియంత్రించే ‘సెన్సారిమోటర్‌ కార్టెక్స్‌’ నుంచి ఈ పరికరాలు సంకేతాలను గ్రహించి ఎక్సోస్కెల్టన్‌కు చేరవేస్తాయి. వాటిని విశ్లేషించడం ద్వారా ఎక్సోస్కెల్టన్‌ పనిచేసింది. థిబాల్ట్‌ అడుగులు వేసేందుకు సహకరించింది.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"యువతకు సాంకేతిక విద్య, శిక్షణపై ప్రభుత్వం ప్రాధాన్యత ఇస్తుందని, ‘స్కిల్డ్‌ ఇన్‌ ఒడిశా’ కార్యక్రమం ప్రపంచస్థాయిలో గుర్తింపు సాధించిందని ఒడిశా ముఖ్యమంత్రి నవీన్‌ పట్నాయక్‌ అన్నారు. త్వరలో భువనేశ్వర్‌లో ప్రపంచస్థాయి నైపుణ్య అభివృద్ధి కేంద్రాన్ని ఏర్పాటు చేస్తామని తెలిపారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"భూతాపం, వాతావరణ మార్పుల వల్ల భారత దేశం తీవ్ర నష్టాన్ని చవి చూడనుందని ఐక్యరాజ్య సమితి కార్మిక విభాగం హెచ్చరించింది. వ్యవసాయం, నిర్మాణ రంగాలు తీవ్ర ప్రభావానికి గురికావటం వల్ల ఉత్పాదకతపరంగా 2030లో 5.8శాతం పని గంటలను కోల్పోనుందని తెలిపింది. ఇది 3.40 కోట్ల పూర్తిస్థాయి ఉద్యోగాలకు సమానమని వివరించింది.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"కరోనావైరస్‌పై జరుగుతున్న యుద్ధంలో మనవంతు భాగస్వామ్యం అంటే... మనం ఇళ్లలో ఉండడమే అన్నారు ప్రముఖ కథానాయకుడు వెంకటేష్‌. ‘ఇంట్లో ఉండండి, హీరోలుగా నిలవండి’ అంటూ ఆయన ట్విటర్‌ ద్వారా ఓ సందేశాన్ని పంచుకున్నారు. తెలుగు రాష్ట్ర ప్రభుత్వాలు ప్రకటించిన లాక్‌డౌన్‌కు ప్రతి ఒక్కరూ సహకారం అందించాలంటూ సినీ తారలు ప్రజల్లో అవగాహన పెంపొందించే ప్రయత్నం చేస్తున్నారు. అందుకోసం సామాజిక మాధ్యమాల్ని వినియోగిస్తున్నారు. స్టే హోమ్‌ ఛాలెంజ్‌ పేరుతో సినీ ప్రముఖులు వినూత్న కార్యక్రమానికి శ్రీకారం చుట్టారు. పది మంది కోసం ఆలోచిద్దాం... రామ్‌: ‘‘బాధ్యత కలిగిన పౌరులుగా ప్రతి ఒక్కరూ ప్రభుత్వ సూచనలు పాటిస్తూ ఇంటికే పరిమితం కావాలని’’ ప్రజలకు పిలుపునిచ్చారు రామ్‌.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"సంచలనం సృష్టించిన ప్రణయ్‌ హత్య కేసులో తమకు అనుకూలంగా వ్యవహరించాలని అమృతను బెదిరించిన ఘటనలో ఆమె తండ్రి మారుతీరావు, ఎంఏ కరీం, కందుల వెంకటేశ్వర్లును శనివారం అరెస్టు చేశారు. మిర్యాలగూడ ఒకటో పట్టణ సీఐ సదానాగరాజు తెలిపిన ప్రకారం.. మిర్యాలగూడ ముత్తిరెడ్డి కుంటలోని అమృత నివాసానికి ఇటీవల కందుల వెంకటేశ్వర్లు వెళ్లాడు. తనను మారుతీరావు పంపాడని.. ఆస్తి మొత్తం నీకే రాసిస్తాడని.. ప్రణయ్‌ హత్యకేసులో ఆయనకు అనుకూలంగా ఉండాలని అమృతతో చెప్పాడు. ఆమె వెంటనే పోలీసులకు సమాచారం ఇవ్వడంతో వారు కందుల వెంకటేశ్వర్లును అదుపులోకి తీసుకున్నారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+కరోనావైరస్ భయంతో పోప్ ఫ్రాన్సిస్ బహిరంగ సభ నుండి పారిపోయారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ఆల్ ఇండియా మజ్లిస్ఎఇత్తెహాదుల్ ముస్లిమీన్ చీఫ్ అసదుద్దీన్ ఒవైసీ ఈ ప్రకటన చేశారు కేంద్ర ప్రభుత్వం ఏడుగురు రోహింగ్యా శరణార్థులను మయన్మార్‌కు బహిష్కరిస్తే వారు నన్ను కూడా దేశం నుండి బహిష్కరించవలసి ఉంటుంది,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"పౌరసత్వ సవరణ చట్టం(సీఏఏ), జాతీయ పౌర పట్టిక(ఎన్‌ఆర్‌సీ)కు వ్యతిరేకంగా దేశ రాజధానిలో నిరసనలు హోరెత్తుతున్నవేళ దిల్లీ పోలీసులకు అసాధారణ అధికారాలు లభించాయి. జాతీయ భద్రత చట్టం(ఎన్‌ఎస్‌ఏ) కింద వ్యక్తులను నిర్బంధంలోకి తీసుకునే అధికారాలను దిల్లీ పోలీసు కమిషనర్‌కు కట్టబెడుతూ లెఫ్టినెంట్‌ గవర్నర్‌ అనిల్‌ బైజల్‌ ఉత్తర్వులు జారీ చేశారు. ఈ నెల 19 నుంచి మూడు నెలలపాటు అవి అమల్లో ఉంటాయి.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+రైతులకు మద్దతుగా మలేర్‌కోట్ల నుండి మహిళల బృందం ఘాజీపూర్ సరిహద్దుకు వచ్చింది,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"కొత్త ప్రతిభని, కథల్ని ప్రోత్సహించడానికే నిర్మాణ సంస్థని ఏర్పాటు చేశా. ఇందులో అగ్ర దర్శకులు సినిమాలు చేయరు. నేను కూడా నటించను. నాకు కథ నచ్చి నేను చేయలేని సినిమాల్ని ఇందులో నిర్మిస్తా అన్నారు కథానాయకుడు నాని. ఆయన వాల్‌పోస్టర్‌ సినిమా పతాకంపై ప్రశాంతి త్రిపిర్నేనితో కలిసి నిర్మించిన చిత్రం ‘హిట్‌’. విశ్వక్‌సేన్‌, రుహానీశర్మ నాయకానాయికలు. శైలేష్‌ కొలను దర్శకుడు. శుక్రవారం విడుదలవుతోంది.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"పెట్రోనెట్‌లో ఎంహెచ్‌బీలో 8 ప్రభుత్వ రంగ బ్యాంకుల కన్సార్షియంకు ఉన్న 34.56 శాతం వాటాను ఓఎన్‌జీసీ, హెచ్‌పీసీఎల్‌లు దాదాపు రూ.371 కోట్లకు కొనుగోలు చేశాయి.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+కరోనా వైరస్‌ వల్ల శ్రుతిహాసన్‌కి కొత్త చిక్కొచ్చింది. ఆమెని తన సినిమాలోలాగా ఒక సాహసం చేయమని వేడుకుంటున్నారట అభిమానులు. ఇంతకీ ఆ సాహసమేంటో తెలుసా? ఆమె కథానాయికగా నటించిన ‘సెవెన్త్‌ సెన్స్‌’ సినిమాలో కరోనా వైరస్‌ తరహాలోనే చైనా వల్ల ఒక వైరస్‌ ముప్పు ఏర్పడుతుంది. ఆ వైరస్‌ నుంచి మనకు విముక్తి కలగాలంటే బోధిధర్మ రావడమే మార్గం అనే విషయం జన్యు పరిశోధకురాలైన శ్రుతిహాసన్‌ తెలుసుకుంటుంది. వందేళ్ల కిందటి బోధిధర్మని కథలోకి తీసుకొస్తుంది. దాంతో సమస్య పరిష్కారమవుతుంది. ఇప్పుడు కరోనాతో సమస్యల్లో ఉన్నాం కాబట్టి... ఆ సినిమాలోలాగా బోధిధర్మని పిలవండంటూ శ్రుతిని పదే పదే అడుగుతున్నారట అభిమానులు. ఆ విషయాన్ని ఆమె ఇన్‌స్టాగ్రామ్‌ ద్వారా చెప్పింది.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ఉత్తరప్రదేశ్ రాష్ట్రం బిజ్నోర్ నగరంలోని మదర్సాలో పోలీసులు స్వాధీనం చేసుకున్న ఆయుధాలు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"కోహ్లీ, అనుష్క శర్మ ఒక్కటై రెండు వసంతాలు ఆమె ఓ సినీనటి. అందాల ముద్దుగుమ్మ. అతనో క్రికెటర్‌. మైదానంలో తారాజువ్వ. యాడ్‌ షూటింగ్‌లో కలిశారు. ఆమె ఎత్తుపై అతడు వేసిన జోకు ఆమెకు చెత్తగా అనిపించింది. కవ్వింపులతో మొదలైన వారిద్దరి స్నేహం కొన్నాళ్లకే మరో స్థాయికి చేరుకుంది. వారి హృదయాల్లో ప్రేమ చిగురించింది. ఊహాలోకాల్లో విహరిస్తున్న ఆ అందమైన ప్రేమ జంటపై ఎవరి చూపు పడిందో ఏమో! అలకలతో ఎడబాటుకు గురైంది. విరహంతో వైరాగ్యానికి దారితీసిన వారి ప్రణయ రాగంలో మళ్లీ సరిగమలు మొదలయ్యాయి. శ్రుతి కలిసింది. 2017, డిసెంబర్‌ 11న వివాహ బంధంతో వారు ఒక్కటయ్యారు. వారే బాలీవుడ్‌ అందాల తార అనుష్క శర్మ, టీమిండియా క్రికెటర్‌ విరాట్‌ కోహ్లీ. వారి వైవాహిక బంధం నేను మూడో వసంతంలోకి అడుగుపెట్టింది.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+మోడీని అత్యంత నిజాయితీ గల రాజకీయ నాయకుడిగా అమెరికన్ సర్వే సంస్థ వెల్లడి,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+గోమూత్రం ఉపయోగించడం ద్వారా తన క్యాన్సర్ తగ్గిందని కాంగ్రెస్ ఎంపీ రాజ్యసభలో మాట్లాడారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"‘నిర్భయ’ను అత్యంత దారుణంగా పొట్టనబెట్టుకున్న దోషులు నలుగురిలో ముగ్గురు తమ ఉరిశిక్ష అమలును తప్పించుకునేందుకు తాజాగా హేగ్‌లోని అంతర్జాతీయ న్యాయస్థానం (ఐసీజే) తలుపులు తట్టారు. తమకు ఉరిశిక్ష విధింపు చట్టవిరుద్ధమని, నిలిపివేయాలని ఐసీజేను కోరారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ఇటీవల బెంగాల్ లో కొందరు వ్యక్తులు చేతుల్లో కత్తులు మరియు కర్రలతో ఊరేగింపు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ఇండియా టుడే విడుదల చేసిన ఉత్తమ ముఖ్యమంత్రుల లిస్టులో జగన్ కి నాల్గవ ర్యాంకు వచ్చింది,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"తెలంగాణ రాష్ట్ర స్విమ్మింగ్‌ ఛాంపియన్‌షిప్‌లో గచ్చిబౌలీ స్టేడియం శాట్స్‌ స్విమ్మర్లు జాహ్నవి, హనుమాన్‌ మెరిశారు. జాహ్నవి 4 స్వర్ణాలు, ఒక రజతం సాధించింది. 100 మీ బ్యాక్‌స్ట్రోక్‌, 200 మీ బ్యాక్‌స్ట్రోక్‌, 200 మీ వ్యక్తిగత మెడ్లే, 400 మీ వ్యక్తిగత మెడ్లేలో జాహ్నవి ప్రథమ స్థానాల్లో నిలిచింది. హనుమాన్‌ 4 స్వర్ణ పతకాలతో సత్తాచాటాడు. 50 మీ బటర్‌ఫ్లై, 50 బ్యాక్‌స్ట్రోక్‌, 100 మీ బ్యాక్‌స్ట్రోక్‌, 100 మీ బటర్‌ఫ్లైలో హనుమాన్‌ అగ్రస్థానాలు సాధించాడు. ఈ టోర్నీలో గచ్చిబౌలీ స్విమ్మర్లు మొత్తం 47 పతకాలు గెలుచుకున్నారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"అత్యంత అరుదైన శ్వేతనాగు ఒకటి కడలూరులో దర్శనమిచ్చింది. ధవళ వర్ణంలో మెరిసిపోతున్న ఆ సర్పాన్ని చూసేందుకు స్థానికులు ఎగబడ్డారు. సెల్‌ఫోన్లు, కెమెరాల్లో ఫొటోలు తీసుకున్నారు. చుట్టూ జనం గుమిగూడటంతో శ్వేతనాగు తొలుత కాస్త బెదిరిపోయింది. ఆపై తప్పించుకునేందుకు ప్రయత్నిస్తూ బుసలు కొట్టింది. పడగ విప్పి కోపాన్ని ప్రదర్శించింది. స్థానికుల్లో ఒకరు ఆ అరుదైన సర్పాన్ని చాకచక్యంగా పట్టుకున్నారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+మధ్యప్రదేశ్ కాంగ్రెస్ సోషల్ మీడియా బృందం తమ నాయకులందరినీ విడిచిపెట్టి INC రాజకీయ అబద్ధాల IPLలో ఛాంపియన్‌లుగా మారినట్లు కనిపిస్తోంది,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+కార్పొరేట్‌ దిగ్గజ సంస్థ టాటా సన్స్‌ బ్యాంకు ఖాతాను హ్యాక్‌చేసి రూ.200 కోట్లు కొట్టేసేందుకు కుట్రపన్నిన అభియోగాలపై ఏడుగురు వ్యక్తులను మహారాష్ట్రలోని పాల్‌ఘర్‌ పోలీసులు గురువారం అరెస్టుచేశారు. నిందితుల్లో ఇండస్‌ఇండ్‌ బ్యాంక్‌ ఉద్యోగి ఉన్నట్లు పోలీసులు చెప్పారు.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+కరోనా వైరస్ మహమ్మారిని ఎదుర్కోవటానికి బాలీవుడ్ నటుడు అమీర్ ఖాన్ భారత ప్రభుత్వానికి 250 కోట్ల రూపాయలు ఇచ్చారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ఆగ్రాలో చేరిన 28 మంది కరోనా రోగులు 48 గంటల్లో మరణించారుప్రభుత్వం నో టెస్ట్ నో కరోనా పాలసీపై ప్రశ్నలు లేవనెత్తారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+కరోనా వైరస్ ఇప్పుడు అత్యంత ప్రమాదకరంగా మారింది వయసుతో సంబంధం లేకుండా ఎవరినైనా మూడు రోజుల్లోనే లక్షణాలు కనబడకుండానే చంపేస్తుంది ప్రపంచ ఆరోగ్య సంస్థ,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"నీ కాళ్లని పట్టుకు వదలనన్నవి చూడే నా కళ్లు... అంటూ పూజా హెగ్డే గురించి ఇంకా పాడుకుంటూనే ఉన్నారు కుర్రాళ్లు. ఆ పొడుగు కాళ్లతో మునుముందు కూడా మాయ చేస్తానని చెప్పకనే చెబుతోంది పూజా. ‘మోస్ట్‌ ఎలిజిబుల్‌ బ్యాచిలర్‌’లోనూ అదే అందంతో సందడి చేయబోతోందామె. మూడు ముళ్ల బంధం తర్వాతే ఏడడుగులు వేస్తారు. కానీ బ్రహ్మచారులతోనూ ఏడడుగులు వేయిస్తున్నారు బొమ్మరిల్లు భాస్కర్‌. మరి ఆ అడుగులు సినిమా ప్రచారం వరకేనా?లేదంటే సినిమాలోనూ వేయించారా? అనేది తెలియాలంటే కొన్ని రోజులు ఆగాల్సిందే. అఖిల్‌ కథానాయకుడిగా బొమ్మరిల్లు భాస్కర్‌ తెరకెక్కిస్తున్న చిత్రం ‘మోస్ట్‌ ఎలిజిబుల్‌ బ్యాచ్‌లర్‌’. పూజా హెగ్డే నాయిక. బన్నీ వాసు, వాసు వర్మ నిర్మాతలు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+భారత ప్రభుత్వం జాతీయ అత్యవసర పరిస్థితిని ప్రకటించబోతోందని డాక్టర్ నరేష్ ట్రెహాన్ చెప్పారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"మన దైనందిన జీవితంలో సిక్కు గురు బోధనలను అనుసరిస్తే... శాంతి, సుస్థిరాభివృద్ధి సుసాధ్యమవుతాయని ఉపరాష్ట్రపతి వెంకయ్యనాయుడు అన్నారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+కోకాకోలా ద్వారా కొత్త కరోనా వైరస్ వ్యాప్తి చెందుతోంది,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+భారత్‌ పెట్రోలియం కార్పొరేషన్‌ (బీపీసీఎల్‌) 52.98 శాతం ప్రభుత్వ వాటా కొనుగోలు చేయడానికి ఆహ్వానించిన బిడ్ల గడువును పొడిగించారు. వాటా కొనుగోలు చేయడానికి ఆసక్తి వ్యక్తీకరణ (ఈఓఐ)కు ఇంతకు ముందు గడువు మే 2 కాగా.. ఇప్పుడు దాన్ని ప్రభుత్వం నెల రోజులకు పైగా పొడిగించి జూన్‌ 13 చేసింది.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+మోదీ పాలనలో పడిపోతున్న జీడీపీ అంబానీ సంపద రెట్టింపు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"అయోధ్యలో మసీదు నిర్మాణం కోసం కేటాయించే ఐదు ఎకరాల స్థలంలో మసీదు కాకుండా పాఠశాలలు, ఆసుపత్రులు నిర్మించాలని హిందీ సినిమా సీనియర్‌ కథా రచయిత సలీమ్‌ ఖాన్‌ అన్నారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+నల్లధనం నిర్మూలనకు ప్రభుత్వ చర్యలో 2000 రూపాయల నోట్లు అడ్డంకులు సృష్టిస్తున్నాయని అందుకే వాటి ముద్రణ నిలిపివేయబడిందని అధికారులు చెబుతున్నారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ఈజిప్టు మాజీ అధ్యక్షుడు హోస్నీ ముబారక్‌ (91) కన్నుమూశారు. ఇటీవల శస్త్రచికిత్స చేయించుకున్న ఆయన ఆస్పత్రిలో చికిత్స పొందుతూ మంగళవారం తుదిశ్వాస విడిచారని అధికారవర్గాలు వెల్లడించాయి. ముబారక్‌ 1981 నుంచి 2011 వరకు ఈజిప్టు అధ్యక్షుడిగా ఉన్నారు.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ఉత్తరప్రదేశ్‌లోని యోగి ప్రభుత్వం కరోనా కాలంలో విద్యార్థుల స్కాలర్‌షిప్‌లను నిలిపివేసింది,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+కెనడియన్ పాప్ స్టార్ జస్టిన్ బీబర్ మయన్మార్‌లో బౌద్ధమతాన్ని స్వీకరించారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"సామాజిక కార్యకర్త సందీప్‌ పాండేను సోమవారం లఖ్‌నవూ పోలీసులు అరెస్టు చేశారు. సీఏఏకు వ్యతిరేకంగా నిర్వహించిన పాదయాత్రలో పాండే, మరి కొందరు కరపత్రాలను పంచారు. నిబంధనలకు విరుద్ధంగా వ్యవహరించారన్న కారణంతో వారిని అరెస్టు చేసినట్లు పోలీసులు తెలిపారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+‘ఎక్కడిదీ కరోనా ఏమిటీ కరోనా’ అంటూ ప్రజలకు కరోనా వైరస్‌పై అవగాహన కల్పిస్తున్నారు ప్రముఖ గాయకుడు ఎస్పీ బాలసుబ్రహ్మణ్యం. కరోనా మహమ్మారి రోజురోజూకీ విజృంభిస్తోన్న నేపథ్యంలో ప్రపంచవ్యాప్తంగా ఉన్న పలు దేశాలు దాని కట్టడికి ఎంతగానో శ్రమిస్తున్నాయి. మనదేశంలో చాపకింద నీరులా విస్తరిస్తోన్న కరోనా నివారణకు కేంద్ర ప్రభుత్వం 21 రోజులపాటు లాక్‌డౌన్‌ను ప్రకటించిన విషయం తెలిసిందే. దీంతో కొవిడ్‌-19 గురించి ప్రజలకు అవగాహన కల్పించేందుకు ఇప్పటికే పలువురు సినీ తారలు నడుం బిగించారు. కరోనా విస్తరించుకుండా మనం తీసుకోవాల్సిన జాగ్రత్తల గురించి తెలియజేస్తూ.. పలు వీడియోలను రూపొందించి సోషల్‌మీడియా వేదికగా విడుదల చేస్తున్నారు. తాజాగా గాయకుడు ఎస్పీ బాలసుబ్రహ్మణ్యం సైతం తనదైన శైలిలో కరోనా గురించి ఓ ప్రత్యేకమైన పాట పాడి ప్రజలకు అవగాహన కల్పించారు.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ప్రపంచాన్ని పట్టి పీడిస్తున్న కరోనా వైరస్‌ నివారణ ప్రస్తుతం మందు లేదు. వ్యక్తిగత పరిశుభ్రత, సామాజిక దూరం పాటించడం ద్వారా వైరస్‌ వ్యాప్తిని అడ్డుకోవచ్చని వైద్య నిపుణులు చెబుతున్నారు. ఈ నేపథ్యంలో దేశవ్యాప్తంగా 21రోజుల పాటు లాక్‌డౌన్‌ ప్రకటించారు. ప్రధాని నరేంద్రమోదీ ఇచ్చిన పిలుపు మేరకు అన్ని రాష్ట్ర ప్రభుత్వాలు లాక్‌డౌన్‌ను కఠినంగా అమలు చేస్తున్నాయి. సినీ ప్రముఖులు సైతం సామాజిక మాధ్యమాల వేదికగా కరోనా తీవ్రత గురించి చెబుతూ ప్రజల్లో అవగాహన కల్పిస్తున్నారు. తాజాగా మోహన్‌బాబు తన ట్విటర్‌ వేదికగా ఓ వీడియోను అభిమానులతో పంచుకున్నారు. పెద్దలు చెప్పే మాటలను ప్రతి పౌరుడు గౌరవించాలని మోహన్ బాబు విజ్ఞప్తి చేశారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+పుల్వామా లో దాడి చేసిన ఉగ్రవాదితో రాహుల్ గాంధీ,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"పూరి జగన్నాథ్‌ తనయుడు ఆకాష్‌పూరి హీరోగా నటిస్తున్న చిత్రం ‘రొమాంటిక్‌’. కేతికాశర్మ నాయిక. అనిల్‌ పాడూరి దర్శకుడు. కథ, స్క్రీన్‌ప్లే, సంభాషణలు సమకూర్చడంతోపాటు... ఛార్మితో కలిసి నిర్మించారు పూరి జగన్నాథ్‌. రమ్యకృష్ణ ముఖ్య పాత్ర పోషిస్తున్న ఈ చిత్రాన్ని మే 29న విడుదల చేయనున్నారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+no,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ఢిల్లీ మెట్రో లిఫ్ట్ లోపల చూడండి దుండగుడు మహిళపై ఘోరమైన దాడితో ఎలా దాడి చేసాడో,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+మహిళలకు ‘సువిధ’ పేరుతో జన్‌ ఔషధి కేంద్రాల ద్వారా రూ.2.50కి విక్రయిస్తున్న ఒక్కో శానిటరీ నాప్కిన్‌ను... ఇక నుంచి కేవలం రూపాయికే అందించాలని కేంద్ర ప్రభుత్వం నిర్ణయించింది.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+హత్రాస్ సామూహిక అత్యాచారానికి గురైన మహిళ రద్దీగా ఉండే గదిలోకి వెళుతుండగా ప్రజలు ఆమె పాదాలను తాకి పూలతో సత్కరిస్తూ ఆశీర్వాదం తీసుకుంటున్నారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+బాక్స్ ఆఫీస్ ఆదాయాల పరంగా కబీర్‌సింగ్ 2023 సంవత్సరంలో అతిపెద్ద చిత్రంగా నిలిచింది,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+భారతదేశంచైనా సరిహద్దులో పెరుగుతున్న ఉద్రిక్తత మధ్య రక్షణ మంత్రిత్వ శాఖ తన సైనిక బలాన్ని మరింత బలోపేతం చేయడానికి పెద్ద ఒప్పందం చేసుకుంది,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+మీడియా గొంతును మూయించడం అంటే ప్రజల గొంతును అణచివేయడమే ఒక నిర్దిష్ట వ్యక్తి లేదా ప్రభుత్వం మీడియా ద్వారా బెదిరింపులకు గురైనప్పుడు మాత్రమే ఇది జరుగుతుంది ప్రెస్ గొంతు నొక్కే వారి మాటలు వినండి 130 కోట్ల మంది ప్రజల గొంతు నొక్కే ప్రయత్నం చేస్తున్నారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ఆంధ్రప్రదేశ్ లోని వైయస్జగన్ ప్రభుత్వం కొత్తగా పెంచిన ఆర్టీసీ బస్ చార్జీలు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+అల్లాహ్ అనుమతి లేకుండా ఏదీ జరగదు మరియు అతనికి అన్ని విషయాలు తెలుసు అని చైనా అధ్యక్షుడు జీ జిన్‌పింగ్ అన్నారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+కోవిడ్19 వ్యాక్సిన్‌లు పొందిన చాలా మంది వ్యక్తుల కంటే టీకాలు వేయని వ్యక్తులు ఎక్కువ విద్యావంతులని FDA సలహా బోర్డు తెలిపింది,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+తెలంగాణ పై ముస్లింలకు ప్రథమ హక్కు ఉంటుంది అని కేసీఆర్ అన్నారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+రామమందిర భూమి పూజకు తనను ఆహ్వానించకపోతే జలసమాధి చేస్తానని సమాజ్‌వాదీ పార్టీ నాయకుడు ఆజం ఖాన్ అన్నారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+విద్యుదాఘాతంతో బడి ఆవరణలో విద్యార్థి మృతి ఘటనకు బాధ్యులను చేస్తూ అధికారులు ముగ్గురు ప్రధానోపాధ్యాయులపై సస్పెన్షన్‌ వేటు వేశారు.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+పంచంలోనే అత్యంత శక్తివంతమైన అమెరికా దేశం ఢిల్లీ యొక్క ArvindKejriwal మోడల్‌ను అనుసరిస్తోంది,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+అమెరికన్ సెంటర్స్ ఫర్ డిసీజ్ కంట్రోల్ CDC జూన్ 24 2021 నివేదించబడిన కేసుల్లో కేవలం 6% మాత్రమే కోవిడ్19తో మరణిస్తున్నారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+యోగి ఆదిత్యనాథ్ సోదరుడు అసిత్‌నాథ్ బిష్త్ అఖిలేష్ జీ కోసం ప్రచారం చేస్తున్నారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+కోవిడ్19ని ఆపడానికి యేసును ప్రార్థించాలని భారతీయ రాజకీయ నాయకుడు ఉద్ధవ్ థాకరే క్రైస్తవులను కోరారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ఆసియా చింపాంజీలు పెద్ద దిక్కును కోల్పోయాయి! ‘లిమ్కా బుక్‌ ఆఫ్‌ వరల్డ్‌ రికార్డ్‌’ సాధించిన రీటా... దిల్లీ జూపార్క్‌లో తీవ్ర అనారోగ్యంతో బాధపడుతూ మంగళవారం కన్నుమూసింది. ఆసియా చింపాంజీల్లో పెద్ద వయస్కురాలిగా ఇది లిమ్కా రికార్డులకెక్కింది.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+యూపీలో యోగి జీ కొత్త పౌల్ట్రీ ఫారం,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ప్రఖ్యాత శిర్డీ సాయిబాబా ఆలయానికి భక్తుల నుంచి 11 రోజుల్లో రూ.17.42 కోట్లు కానుకలుగా లభించాయి. శ్రీ సాయిబాబా సంస్థాన్‌ ట్రస్ట్‌ శనివారం ఈ విషయాన్ని వెల్లడించింది. 2019 డిసెంబరు 23 నుంచి జనవరి 2వ తేదీ దాకా 8.23లక్షల మంది భక్తులు సాయిబాబాను దర్శించుకున్నారు. 1,213.680 గ్రాముల బంగారం, 17,223 గ్రాముల వెండిని కానుకగా సమర్పించారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"దేశీయ పరిజ్ఞానంతో కొత్తగా డిజైన్‌ చేసిన సంపీడిత భారజల రియాక్టర్ల నిర్మాణానికి చర్యలు చేపట్టినట్లు భారత అణు ఇంధన కార్పొరేషన్‌ ఛైర్మన్‌ ఎస్‌.కె.శర్మ తెలిపారు. మొత్తం 10 యూనిట్లు నిర్మిస్తామన్నారు. మొదటి కర్మాగార నిర్మాణం వచ్చే ఏడాది ప్రారంభమయ్యే అవకాశం ఉందని చెప్పారు. అమెరికాలోని వెస్టింగ్‌హౌస్‌ ఎలక్ట్రిక్‌తో కలిసి ఆంధ్రప్రదేశ్‌లో అణు రియాక్టర్లను నిర్మించే విషయమై వాణిజ్య, సాంకేతిక అంశాలపై చర్చలు జరుగుతున్నాయన్నారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"నోయెల్‌ ప్రధాన పాత్రలో తెరకెక్కుతోన్న చిత్రం ‘14’. రతన్‌, వైశాఖ నాయకానాయికలు. లక్ష్మీ శ్రీనివాస్‌ దర్శకుడు. సుబ్బారావ్‌ రాయన, శివకృష్ణ నిచ్చెనమెట్ల నిర్మాతలు. ఈ సినిమా ఫస్ట్‌లుక్‌ మోషన్‌ పోస్టర్‌ని గాయకుడు రాహుల్‌ సిప్లిగంజ్‌ విడుదల చేశారు. దర్శకుడు మాట్లాడుతూ ఈ సినిమాకి ‘14’ అనే పేరు పెట్టడానికి ప్రత్యేకమైన కారణం ఉంది. ఆ అంకె వెనకే ఈ చిత్ర కథ దాగి ఉంటుంది. అదెలా అన్నది తెరపైనే చూడాలి. ఒక కొత్త అంశంతో ఈ చిత్రం రూపొందుతోంది అన్నారు. నోయెల్‌కి ‘కుమారి 21 ఎఫ్‌’కంటే మంచి పేరు ‘14’ తీసుకురావాలన్నారు రాహుల్‌ సిప్లిగంజ్‌.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"సామాజిక మాధ్యమాల్లో చురుగ్గా ఉండే సినీ ప్రముఖులు కరోనా విషయంలో స్పందిస్తున్నారు. తమ వంతు బాధ్యతగా ఎవరి శైలిలో వాళ్లు, ప్రజల్లో అవగాహన పెంపొందించేందుకు ప్రయత్నిస్తున్నారు. తీసుకోవాల్సిన జాగ్రత్తల గురించి చెబుతున్నారు. తాజాగా అగ్ర దర్శకుడు ఎస్‌.ఎస్‌.రాజమౌళి స్పందించారు. ఇలాంటి పరిస్థితుల్లో భయాందోళనలు వ్యాప్తి చెందకుండా ఉండటం అత్యవసరమని ట్వీట్‌ చేశారాయన. ‘‘కరోనాతో ప్రపంచం నిలిచిపోవడం చూస్తే షాకింగ్‌గా ఉంది. కోవిడ్‌19 వ్యాప్తిని నివారించడానికి అందరూ తగిన జాగ్రత్తల్ని పాటించండి’’ అని తెలిపారు రాజమౌళి.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+భారత స్టార్‌ ఆర్చర్‌ దీపిక కుమారి సత్తా చాటింది. ఆసియా ఆర్చరీ ఛాంపియన్‌షిప్‌లో అద్భుత ప్రదర్శనతో స్వర్ణం గెలవడమే కాక.. టోక్యో ఒలింపిక్స్‌ బెర్తూ సంపాదించింది.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ఇస్లామిక్‌ స్టేట్‌ ఐఎస్‌ చీఫ్‌ అబూ బకర్‌ అల్‌ బాగ్దాదీ మృతిలో ప్రధానమంత్రి నరేంద్ర మోదీ కీలక పాత్ర పోషించారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+‘‘ఐపీయస్‌ పాత్రలో నటించాలని ప్రతి ఒక్కరూ కలలు కంటారు. నేనా కలని ఈ చిత్రంతో నెరవేర్చుకున్నా’’ అన్నారు కథానాయిక పాయల్‌ రాజ్‌పుత్‌. ఆమె ప్రధాన పాత్రలో తెరకెక్కుతున్న చిత్రం '5Ws' ‘సాధారణ ప్రశ్నలు.. అసాధారణ సమాధానాలు’ అనేది ఉపశీర్షిక. ప్రణదీప్‌ ఠాకోర్‌ దర్శకుడు. యశోధ ఠాకోర్‌ నిర్మాత. ఈ సినిమా ఫస్ట్‌లుక్‌ని హైదరాబాద్‌లో విడుదల చేశారు.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+పాస్‌బుక్ చివరి పేజీలో గీత సారాన్ని ముద్రించాలని ఆర్‌బీఐ అన్ని బ్యాంకులను ఆదేశించింది,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+కొకైన్‌ కరోనా వైరస్‌ని చంపేస్తుంది,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+రాజ్యసభ సభ్యుల్లో 19 మందిపై వచ్చిన ఫిర్యాదులు నిర్ణీత నిబంధనల ప్రకారం లేవంటూ నైతిక విలువల కమిటీ వాటిని తిరస్కరించింది.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ఉప్పల్‌ స్టేడియంలో శుక్రవారం పండగ వాతావరణం నెలకొంది. భారత్‌-వెస్టిండీస్‌ తొలి టీ20 మ్యాచ్‌ను వీక్షించేందుకు అభిమానులు భారీగా తరలివచ్చారు. బ్యాట్స్‌మెన్‌ భారీ షాట్లతో చెలరేగిపోతుంటే ఆటను తనివితీరా ఆస్వాదించారు.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+A పాజిటివ్ రకం రక్తం ఉన్న వ్యక్తులు కొత్త కరోనావైరస్ పొందే అవకాశం ఉంది,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ఉత్తరాఖండ్‌లోని రైల్వేస్టేషన్ల పేర్లు ఇకపై సంస్కృతంలోనూ కనిపించబోతున్నాయి. హిందీ, ఆంగ్లంతో పాటు ఆయా రాష్ట్రాల్లోని ద్వితీయ అధికార భాషలో రైల్వే ప్లాట్‌ఫాంలపై పేర్లు, సూచికలు రాయాలని రైల్వే నిబంధనలు చెబుతున్నాయని, ఇంతవరకు ఉర్దూలో ఉన్న పేర్లను ఆ ప్రకారమే సంస్కృతంలో రాయించబోతున్నామని ఉత్తర రైల్వే ముఖ్య ప్రజా సంబంధాల అధికారి దీపక్‌ కుమార్‌ తెలిపారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Guntur కరోనా వ్యాక్సిన్ పేరుతో వస్తారు నమ్మారో నిండా మునిగినట్లే,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+US ప్రయాణానికి సంబంధించి పాకిస్తాన్ రేటింగ్‌ను లెవల్3కి అప్‌గ్రేడ్ చేసింది అయితే రేటింగ్ 4తో ప్రయాణించవద్దని సూచించిన దేశాలలో భారతదేశం ఇప్పటికీ ఒకటి భారత్‌తో పాటు సిరియా యెమెన్‌ ఇరాన్‌ ఇరాక్‌ వంటి హింసాత్మక దేశాలు ఈ జాబితాలో చేరాయి,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+యోగి ఆదిత్యనాథ్ ప్రభుత్వం ఉత్తరప్రదేశ్ రాష్ట్రంలో ప్రవేశపెట్టిన జనాభా నియంత్రణ బిల్లును ఆస్ట్రేలియా ఎంపీ క్రేగ్ కెల్లి ప్రశంసించారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+మహేంద్రసింగ్‌ ధోని అంతర్జాతీయ క్రికెట్లో కొనసాగాలని అనుకుంటే కొనసాగుతాడని.. దాని మీద మిగతా వాళ్లు చర్చ ఆపాలని టీమ్‌ఇండియా కోచ్‌ రవిశాస్త్రి అన్నాడు. జులైలో ప్రపంచకప్‌ తర్వాత ధోని ఆటకు దూరంగా ఉన్న సంగతి తెలిసిందే.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"త్రివిక్రమ్‌ ఓసారి పనిచేసిన కథానాయికతో మళ్లీ మళ్లీ పనిచేస్తుంటారు. ఇలియానా, సమంత లాంటి వారితో ఒకటి కన్నా ఎక్కువ సినిమాలే చేశారు. పూజా హెగ్డేతో రెండు సినిమాలు చేశారు త్రివిక్రమ్‌. ‘అరవింద సమేత వీర రాఘవ’, ‘అల వైకుంఠపురములో’ చిత్రాలు విజయాల్ని అందుకున్నాయి. ఇప్పుడు మరోసారి పూజనే నాయికగా ఎంచుకున్నారని సమాచారం. ఎన్టీఆర్‌ - త్రివిక్రమ్‌ కలయికలో ఓ చిత్రం తెరకెక్కనుంది. ఈ చిత్రంలో నాయికగా రష్మిక పేరు వినిపించింది. ఇప్పుడు పూజా హెగ్డే రేసులోకి వచ్చింది. ఎన్టీఆర్‌ - పూజ జంటని మరోసారి తెరపై చూపించాలని త్రివిక్రమ్‌ భావిస్తున్నట్టు తెలుస్తోంది. త్వరలో దీనిపై ఓ స్పష్టత రానుంది.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ప్లాస్టిక్‌ వినియోగాన్ని తగ్గించే చర్యల్లో భాగంగా ప్యాకేజ్డ్‌ మంచి నీటికి బదులు కాగితంతో సీల్‌ చేసిన గాజు సీసాల వినియోగానికి హోటళ్లకు అనుమతులు ఇస్తున్నట్లు ఆహార భద్రత, ప్రమాణాల ప్రాధికార సంస్థ గురువారం తెలిపింది. ప్లాస్టిక్‌ పాత్రలు, స్ట్రాలు, కప్పులకు బదులు వెదురుతో చేసినవి ఉపయోగించేందుకు అనుమతించినట్లు వెల్లడించింది.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020లో మిగిలి ఉన్నవన్నీ డైనోసార్‌లు భూమి మీదికి తిరిగి వచ్చాయి,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+పాక్‌ ఆక్రమిత కశ్మీర్‌ (పీవోకే) విషయంలో ప్రభుత్వ వర్గాల నుంచి ఆదేశాలు అందితే.. ఆ భూభాగాన్ని భారత్‌ నియంత్రణలోకి తీసుకొచ్చేందుకు చర్యలు చేపడతామని భారత సైన్యాధిపతి జనరల్‌ మనోజ్‌ ముకుంద్‌ నరవణే అన్నారు.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+అణచివేయబడిన T కణాల కారణంగా టీకాలు వేసిన కోవిడ్19లో క్యాన్సర్ ఇరవై రెట్లు పెరిగింది,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+రాళ్లు విసిరినందుకు ఫొటోలోని వ్యక్తికి లక్షన్నర రూపాయల ఫైన్,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+కొరోనా వ్యాప్తి చేయడానికి ముస్లిం హోటళ్లలో హిందువులు తినే ఆహారం లో ఉమ్మేసి ప్యాక్ చేస్తున్నారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"బుర్ఖాలను వెంటనే నిషేధించాలని, మత-జాతి ప్రాతిపదికన ఏర్పడ్డ రాజకీయపార్టీల రిజిస్ట్రేషన్లను సస్పెండ్‌ చేయాలని శ్రీలంక పార్లమెంటరీ కమిటీ ప్రతిపాదించింది. ఆ దేశంలో గతేడాది ఈస్టర్‌ రోజున జరిగిన వరుస పేలుళ్లలో దాదాపు 250మంది మృతి చెందారు. ఈ ఘటన నేపథ్యంలో ఏర్పడ్డ పార్లమెంటరీ కమిటీ 14 వివాదాస్పద అంశాలపై అధ్యయనం చేసి శ్రీలంక పార్లమెంటుకు నివేదిక సమర్పించింది.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+గోదావరి-కావేరి నదుల అనుసంధానానికి అవసరమయ్యే మొత్తాన్ని ఆర్థిక సంస్థల నుంచి రుణంగా సమకూర్చుకోవాలని యోచిస్తున్నట్లు కేంద్ర జలవనరుల శాఖ మంత్రి నితిన్‌ గడ్కరీ తెలిపారు.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"రైల్వేలో ఉద్యోగ నియామకాల కోసం నిర్వహిస్తున్న ఆర్‌ఆర్‌బీ పరీక్ష విషయంలో గందరగోళం ఏర్పడటంతో అభ్యర్థుల ఆగ్రహం కట్టెలు తెంచుకుంది. బిహార్‌లో ఒక రైలును దహనం చేశారు. అనేక రైళ్లపై రాళ్లతో దాడి చేశారు. యూపీలోనూ అభ్యర్థుల ఆందోళన హింసాత్మకంగా మారడంతో రైల్వేశాఖ అనేక రైళ్లను రద్దు చేసింది. పరీక్షను నిలిపివేయాలని నిర్ణయం తీసుకొంది. సమస్య పరిష్కారానికి ఉన్నతస్థాయి కమిటీని నియమించింది. అలాగే, రైల్వే ఆస్తుల విధ్వంసానికి పాల్పడినవారిని జీవితాంతం రైల్వే ఉద్యోగాలకు అనర్హులను చేస్తామని హెచ్చరించింది.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ప్రజాస్వామ్య వ్యవస్థకు కంటికి కనిపించని అవరోధాన్ని సృష్టించే ప్రబల శక్తిగా ‘ఇంటర్నెట్‌’ మారిపోయిందని కేంద్ర ప్రభుత్వం సుప్రీంకోర్టుకు తెలిపింది.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"బాబ్రీ మసీదు కూల్చివేతకు ముందు సంబంధిత అధికారులు, సంస్థలతో చర్చలు జరిగిన అనంతరం హోంమంత్రిత్వశాఖ తయారు చేసిన సమగ్ర అత్యవసర ప్రణాళికను నాటి ప్రధాని పీవీ నరసింహారావు ఆమోదించలేదని కేంద్ర హోంశాఖ మాజీకార్యదర్శి మాధవ్‌గొడ్‌బొలే పేర్కొన్నారు. నాడు రాజకీయ సంకల్పం ఉండి ఉంటే బాబ్రీ మసీదు దక్కి ఉండేదని అభిప్రాయపడ్డారు. ఆ రోజుల్లో ప్రధానమంత్రి స్థాయిలో రాజకీయపరమైన చొరవతీసుకుని ఉంటే ఈ రామాయణాని(అయోధ్య వివాదం)కి చెందిన మహాభారతం జరిగి ఉండేదే కాదని అభిప్రాయపడ్డారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+బొగ్గు రంగంలో అంతర్జాతీయ సంస్థలకు అవకాశం కల్పించాలని కేంద్ర ప్రభుత్వం నిర్ణయించింది. గనుల వేలంలో ఆ సంస్థలు పాల్గొనేలా నిబంధనలను సరళీకరిస్తూ జారీ చేయనున్న అత్యవసర ఆదేశాల (ఆర్డినెన్స్‌)కు ఆమోదం తెలిపింది.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ముఖ్యమంత్రి కేసీఆర్‌, మంత్రి కేటీఆర్‌లను కించపరిచేలా సామాజిక మాధ్యమాల్లో చిత్రాలతో కూడిన అభ్యంతరకర సందేశాలు పంపిన ఆరుగురిపై కేసు నమోదు చేసిన సంఘటన .",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+వియత్నాంలో నల్ల పిల్లులను కోవిడ్19 నివారణగా చంపి తినేస్తున్నారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"బతుకు తెరువు కోసం ఎడారి దేశం వెళ్లిన కారు డ్రైవరును లాటరీ రూపంలో అదృష్టం వరించింది. తిరువనంతపురానికి చెందిన అబ్దుల్‌ సలాం షానవాజ్‌ రెండు దశాబ్దాల నుంచి అబుధాబిలో నివసిస్తున్నాడు. సాదాసీదా జీవితం గడుపుతున్న అతడి జీవనరేఖ హఠాత్తుగా మారింది.. అబుధాబి పర్యాటక, సాంస్కృతికశాఖ నిర్వహించిన ‘మాల్‌ మిలియనీర్‌’ లాటరీలో అతడికి రూ.1,93,41,922 ప్రైజ్‌మనీ లభించింది. తాను 50 ఏళ్లు కష్టపడినా ఇంత సంపాదించి ఉండేవాడిని కానని అబ్దుల్‌ సలాం చెప్పాడు. చరవాణిలో వచ్చిన సంక్షిప్త సందేశ సమాచారం కనపడకపోయినా.. చివరికి నిర్వాహకులు తననే విజేతగా ప్రకటించారని చెప్పాడు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ఎమ్మెల్సీ అనంతబాబు ఇంట్లో విషాదం బెయిల్ కోసం దరఖాస్తు,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+వాల్‌మార్ట్ పని గంటలను తగ్గిస్తుంది,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+కొత్త హాంటా వైరస్ చైనాలో పుట్టుకొస్తున్న ప్రాణాంతక వైరస్దానికి మందు లేదు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1975లో దేశంలో ఎమర్జెన్సీ సమయంలో ప్రధాని ఇందిరాగాంధీ జెఎన్‌యుకు పోలీసు బలగాలతో పాటు వచ్చి సీతారాం ఏచూరిని కొట్టారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+బురఖా ఓటు జిహాద్‌ను ప్రోత్సహిస్తోంది బురఖా ధరించిన వ్యక్తులను పోలింగ్ స్టేషన్ వెలుపల తనిఖీ చేయాలి మరియు ఫేస్ మ్యాచింగ్ ఉండాలి చాలా పోలింగ్‌ కేంద్రాల్లో బురఖాలు ధరించి నకిలీ ఓట్లు వేస్తున్నారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+కోవిడ్19 వ్యాక్సిన్‌లు ప్రపంచవ్యాప్తంగా భారతదేశంలో మాత్రమే ఎటువంటి ధర లేకుండా అందించబడతాయి,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ఆర్థిక వ్యవస్థను నియంత్రించడానికి ఎటువంటి చర్యలు సహాయపడకపోతే ఆర్టికల్ 360 ప్రకారం భారతదేశంలో ఆర్థిక అత్యవసర పరిస్థితిని విధించడం తప్ప నరేంద్ర మోడీకి వేరే మార్గం లేదు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"కరడుగట్టిన నలుగురు ఉగ్రవాదుల పేర్లను భారత ప్రభుత్వం బుధవారం అధికారికంగా ప్రకటించింది. జైష్‌-ఎ-మహమ్మద్‌ అధినేత మసూద్‌ అజార్‌, లష్కర్‌-ఎ-తయిబా వ్యవస్థాపకుడు హఫీజ్‌ మహమ్మద్‌ సయీద్‌, ముంబయి దాడుల సూత్రధారి జకీ-ఉర్‌-రెహ్మాన్‌ లఖ్వీ, ఉగ్రవాద కార్యకలాపాలకు ఆర్థిక తోడ్పాటు అందిస్తున్న గ్యాంగ్‌స్టర్‌ దావూద్‌ ఇబ్రహీంలను కేంద్ర హోంశాఖ ఉగ్రవాదులుగా పేర్కొంది. ఈ మేరకు ఓ ప్రకటన విడుదల చేసింది.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"మానవ మెదడు ఓ అద్భుతం! వాక్యాల్లోని పదాలను విడివిడిగా విశ్లేషించుకుంటూ.. వాటన్నింటినీ క్రమపద్ధతిలో జత చేసుకుంటూ.. పూర్తి వాక్యం అర్థాన్ని సరిగ్గా తెలుసుకునే ప్రక్రియను అది రెప్పపాటు కంటే తక్కువ సమయంలో పూర్తిచేసేస్తుంది. ఇంత వేగంగా మెదడు తన పనిని ఎలా పూర్తిచేయగలుగుతోందో స్పష్టంగా గుర్తించే దిశగా బ్రిటన్‌లోని కేంబ్రిడ్జి విశ్వవిద్యాలయం పరిశోధకులు కీలక ముందంజ వేశారు. ఒక పదం తన వద్దకు చేరగానే.. వ్యక్తులు ఆ పదాన్ని ఏ నేపథ్యంలో ఉపయోగించారో అర్థవంతంగా మెదడు తెలుసుకుంటున్న తీరును గుర్తించారు. తమ అధ్యయనంలో భాగంగా పరిశోధకులు కొంతమందిని ఎంచుకొని.. ‘ది ఎల్డర్లీ మ్యాన్‌ ఏట్‌ ది యాపిల్‌’ అనే మాటను వారికి వినిపించాడు. అప్పుడు వారి మెదళ్లలో సమాచార ప్రవాహం చోటుచేసుకున్న తీరును విశ్లేషించారు. ‘ఏట్‌’ అనే పదం వినగానే, అది ఆహారానికి సంబంధించినదని.. తర్వాతి పదం దాని గురించే రావొచ్చునని మెదళ్లు అప్రమత్తమైనట్లు గుర్తించారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"లష్కర్‌-ఎ-తోయిబా, జైష్‌-ఎ-మహమ్మద్‌ వంటి కరడుగట్టిన ఉగ్రవాద సంస్థలను నియంత్రించడంలో పాకిస్థాన్‌ ఘోరంగా విఫలమయిందని అమెరికా తీవ్రంగా ఆక్షేపించింది. పాకిస్థాన్‌ కేంద్రంగా ఉగ్రవాదులు 2018లోనూ విదేశాలపై దాడులు కొనసాగించారని పేర్కొంది. ఈ మేరకు అమెరికా విదేశాంగశాఖ ఓ నివేదిక విడుదల చేసింది.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+గాంధీజీ బాబా సాహిబ్ పాదాలను తాకడం ఈ ఫోటో మీకు ఎక్కడా కనిపించదు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+శిక్ష సమయంలో నేరస్థుల బాధలు తీవ్రమయ్యేలా నేర నిర్మూలనా వ్యవస్థ ఉండకూడదని కేంద్ర హోంశాఖ సహాయ మంత్రి కిషన్‌రెడ్డి పేర్కొన్నారు.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+కరోనా లేదా మరేదైనా కారణాల వల్ల మరణిస్తే మరణించిన వారి బంధువులు PMJJBY లేదా PMSBY కింద క్లెయిమ్ చేస్తే రూ 2 లక్షలు అందజేస్తారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+హోంమంత్రి అమిత్ షా ఎముకల క్యాన్సర్‌తో పోరాడుతున్నారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ఐఫోన్లను లక్ష్యంగా చేసుకుని రెండేళ్లపాటు విచక్షణారహితంగా సాగిన హ్యాకింగ్‌ ఆపరేషన్‌ను గూగుల్‌ భద్రతా నిపుణులు బయటపెట్టారు. ఫొటోలు, తదితర సమాచారాన్ని తస్కరించేందుకుగాను హానికారక సాఫ్ట్‌వేర్‌ను చొరబడేలా చేసేందుకు వెబ్‌సైట్లను ఉపయోగించినట్లు పేర్కొన్నారు. గూగుల్‌కు చెందిన భద్రతా కార్యదళం, సైబర్‌ నిపుణులు ప్రాజెక్ట్‌ జీరో బ్లాగ్‌లో రాసిన పోస్ట్‌లో ఈ అంశాలను వివరించారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+సుశాంత్ సింగ్ రాజ్‌పుత్ మృతిపై సిబిఐ విచారణకు మన భారత ప్రధాని నరేంద్ర మోడీ ఆదేశించారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"కశ్మీరులోయలో చిన్నారులు తిరిగి బడికి వెళ్లేలా చూడాలని, శాంతికి సాయపడాలని ఐరాసను నోబెల్‌ విజేత మలాలా అభ్యర్థించడాన్ని పలువురు నెటిజన్లు తప్పుబట్టారు. కశ్మీరులో పిల్లలు పాఠశాలలకు వెళ్లలేకపోతున్నారంటూ వచ్చిన వార్తలు తనను తీవ్రంగా కలవరపరుస్తున్నాయని మలాలా ట్వీట్‌ చేశారు. అక్కడ ఆడపిల్లలు గడపదాటి వెలుపలికి రావాలంటేనే భయపడుతున్నారన్న వార్తలు తనను బాధిస్తున్నాయని పేర్కొన్నారు. ఆమె వ్యాఖ్యలపై నెటిజన్లు స్పందిస్తూ పాకిస్థాన్‌లో మైనారిటీ వర్గాలకు చెందిన అమ్మాయిలు పడుతున్న బాధలపై ఎందుకు నోరుమెదపడం లేదని ప్రశ్నించారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ఓల్డ్ ఢిల్లీలోని హౌజ్ ఖాజీ ప్రాంతంలో గత నెలలో ఆలయాన్ని ధ్వంసం చేసినందుకు ఆరుగురు బజరంగ్ దళ్ కార్యకర్తలను పోలీసులు అరెస్టు చేశారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"దుండగుల దాడిలో గాయపడ్డ విద్యార్థులను పరామర్శించేందుకు బాలీవుడ్‌ అగ్ర నటి దీపికా పదుకొణె మంగళవారం రాత్రి జేఎన్‌యూ క్యాంపస్‌కు వచ్చారు. జేఎన్‌యూ విద్యార్థి సంఘం అధ్యక్షురాలు అయిషీ ఘోష్‌ తదితరులను పరామర్శించారు. దాడిని ఖండిస్తూ ఏర్పాటుచేసిన సభలో ఆమె కొద్దిసేపు ఉన్నప్పటికీ, ఏమీ మాట్లాడకుండానే వెళ్లిపోయారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+తెల్లవారుజామున 430 గంటలకు భారత సైన్యం ఆనందం 30 సెకన్ల నిడివిగల వీడియో దలేర్ మెహందీ యొక్క పాపులర్ సాంగ్ బోలో తరా రా రాకు ముగ్గురు సైనికులు డ్యాన్స్ చేయడంతో ప్రారంభమవుతుంది త్వరలో చాలా మంది సైనిక సిబ్బంది చేరారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+సుప్రీం కోర్టు ఇచ్చిన ఐదెకరాల భూమిలో బాబ్రీ ఆసుపత్రిని నిర్మించాలని సున్నీ వక్ఫ్ బోర్డు నిర్ణయించింది ఇది AIIMS తో సమానంగా ఉచిత సౌకర్యాలు కల్పిస్తుంది,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+అయోధ్యలో ఉన్నది బాబ్రీ మసీదు అంటూ సుప్రీం కోర్టు వ్యాఖ్యలు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+తమిళనాడులో తన కుమార్తె ఆ ముస్లిం వ్యక్తితో పారిపోయిందనే కారణంతో ఒక హిందువు ఒక ముస్లింను తల నరికి చంపాడు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+పాత రద్దయిన నోట్లు మారుస్తామని నమ్మబలుకుతూ మోసం చేస్తున్న ముఠా గుట్టును పోలీసులు రట్టు చేశారు. ఖమ్మం జిల్లా కల్లూరు ఏసీపీ వెంకటేశ్‌ మంగళవారం విలేకరుల సమావేశంలో ఈ ముఠాకు సంబంధించిన వివరాలను వెల్లడించారు.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"‘ఎం.సి.ఎ’ (మిడిల్‌ క్లాస్‌ అబ్బాయి)తో ఆకట్టుకున్న జంట నాని, సాయిపల్లవి. వీరిద్దరూ మరోసారి వెండి తెరపై సందడి చేయడానికి సిద్ధం అవుతున్నారు. నాని కథా నాయకుడిగా సితార ఎంటర్‌టైన్‌మెంట్స్‌ సంస్థ ఓ చిత్రాన్ని రూపొందించనుంది. నాగవంశీ నిర్మాత. ‘టాక్సీవాలా’తో ఆకట్టుకున్న రాహుల్‌ సంకృత్యాన్‌ దర్శకుడు. ఈ చిత్రంలో కథానాయిక పాత్ర కోసం సాయిపల్లవి పేరు పరిశీలిస్తున్నారు. ప్రస్తుతం ‘టక్‌ జగదీష్‌’ సినిమాతో బిజీగా ఉన్నారు నాని. ఆ తరవాతే రాహుల్‌ సినిమా పట్టాలెక్కుతుంది. 2021 సంక్రాంతికి ఈ చిత్రాన్ని విడుదల చేసే అవకాశాలున్నాయి. నాని కథానాయకుడిగా నటించిన ‘వి’ చిత్రం ఈ ఉగాదిన విడుదల కానుంది. మరోవైపు సాయి పల్లవి చేతిలో రెండు చిత్రాలుఉన్నాయి. ‘విరాటపర్వం’, ‘లవ్‌స్టోరీ’ చిత్రాలతో బిజీగా ఉంది సాయి పల్లవి.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"బ్రిటన్‌ నూతన అటార్నీ జనరల్‌ (ఏజీ)గా భారత సంతతి మహిళ సుయెల్లా బ్రేవర్‌మాన్‌ (39) సోమవారం లండన్‌లో ప్రమాణ స్వీకారం చేశారు. మంత్రివర్గ విస్తరణలో భాగంగా ఈ క్యాబినెట్‌ పదవికి సుయెల్లాను ప్రధాని బోరిస్‌ జాన్సన్‌ ఎంపిక చేశారు. కేంబ్రిడ్జ్‌ విశ్వవిద్యాలయం నుంచి న్యాయవిద్యను అభ్యసించిన ఆమె... పబ్లిక్‌ లా, జ్యుడీషియల్‌ రివ్యూల్లో నిపుణురాలు. చ",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+పండ్లు మరియు కూరగాయల ద్వారా కరోనా వైరస్ వ్యాప్తి చెందుతుంది,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"నిద్రమత్తు, అతివేగం ఐదుగురు యువకుల ప్రాణాలను బలి తీసుకుంది. డ్రైవరు నిద్రమత్తులో ఉండటంతో కారు డివైడరును తాకి పల్టీకొట్టి ఎదురుగా వస్తున్న మరో కారును ఢీకొట్టింది. తెలంగాణ, ఆంధ్రప్రదేశ్‌ సరిహద్దుల్లో జరిగిన ఈ ఘోర రోడ్డు ప్రమాదంలో కారులో ప్రయాణిస్తున్న వారంతా ప్రాణాలు కోల్పోయారు. మరో కారులో ప్రయాణిస్తున్న ఇద్దరు యువకులు సీటు బెల్టు పెట్టుకోవడంతో స్వల్ప గాయాలతో బయటపడ్డారు. ప్రమాద తీవ్రతకు 2 కార్లు పూర్తిగా దెబ్బతిన్నాయి. కృష్ణా జిల్లా జగ్గయ్యపేట మండలం గరికపాడు చెక్‌పోస్టు సమీపంలో ఆదివారం ఉదయం ఈ ప్రమాదం జరిగింది.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+చైనాను నిలువరించాలి అమెరికా కాంగ్రెస్‌ కమిటీలో చర్చ హిందూ మహాసముద్రంలో పెరుగుతున్న చైనా సైనిక కార్యకలాపాలను తిప్పికొట్టడంలో భారత్‌ పాత్రపై అమెరికా కాంగ్రెస్‌లోని కీలక కమిటీ శుక్రవారం చర్చించింది. ఈ అంశంపై భారత్‌ నాయకత్వ పాత్ర పోషించేలా తోడ్పాటు అందించాల్సిన అవసరం ఉందని పేర్కొంది.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ఇండోర్‌లో జరిగిన స్టాండప్ కామెడీ షోలో హిందూ దేవతలపై అమిత్ షాపై అనుచిత వ్యాఖ్యలు చేశారనే ఆరోపణపై హాస్యనటుడు మునవ్వర్ ఫరూఖీ మరియు మరో నలుగురిపై కేసు నమోదు చేసి అరెస్టు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ఇంత గూండాయిజం చేసిన తర్వాత మా మౌనాన్ని మా బలహీనతగా తీసుకోవద్దని ఠాక్రే అన్నారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ఈరోజు అహ్మదాబాద్‌లో ఓ అద్భుతం జరుగుతోంది సబర్మతీని పరిశుభ్రంగా ఉంచాలని సామాన్య ప్రజలు నిర్ణయించుకున్నారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+నేరస్తులకు హక్కులు ఉండవని అమెరికా మాజీ అధ్యక్షుడు బరాక్ ఒబామా అన్నారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"మహారాష్ట్రలోని శిర్డీలో, చుట్టుపక్కలున్న 25 గ్రామాల్లో ఆదివారం స్థానికులు పూర్తిస్థాయిలో బంద్‌ పాటించారు. శిర్డీ సాయిబాబా జన్మస్థానంపై మొదలైన వివాదం దరిమిలా వివిధ పక్షాలు బంద్‌కు పిలుపునిచ్చాయి. అయితే సాయిబాబా ఆలయంలో భక్తుల్ని ఎప్పటిమాదిరిగానే అనుమతించారు. శిర్డీ, పాథ్రీ గ్రామాల ప్రతినిధులతో ముఖ్యమంత్రి ఠాక్రే సోమవారం ముంబయిలోని మంత్రాలయంలో చర్చించనున్నారు. దీంతో ఆదివారం అర్ధరాత్రి నుంచి బంద్‌ను విరమించాలని నేతలు నిర్ణయించారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+కాంగ్రెస్ నాయకుడు షేర్ చేసిన వీడియోలో అపస్మారక స్థితిలో ఉన్న మహిళ దగ్గర కూర్చున్న ఇద్దరు చిన్న పిల్లలు ఆమె తలపై నీళ్లు పోస్తున్నారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"నెల్లూరు పెద్దబజారులోని కనకదుర్గ మెటల్‌ ఎంటర్‌ప్రైజెస్‌ గోదాంలో ఆదివారం రాత్రి భారీ అగ్ని ప్రమాదం చోటు చేసుకుంది. ఆక్వా రంగానికి చెందిన ప్లాస్టిక్‌ పట్టలు, వలలు, థర్మాకోల్‌ షీట్లు ఉండటంతో మంటలు పెద్ద ఎత్తున చెలరేగాయి. అగ్నిమాపక శాఖ, పోలీసు అధికారులు ఘటనా స్థలానికి చేరుకుని అదుపు చేసేందుకు ప్రయత్నించారు. మండే స్వభావం ఎక్కువగా ఉండే వస్తువులు కావడంతో మంటలు వెంటనే చల్లారలేదు. ఎట్టకేలకు సోమవారం మధ్యాహ్నానికి అదుపులోకి తెచ్చారు. రెండంతస్తుల భవనానికి పైన స్లాబు లేకపోవడం వల్ల, దీపావళి సందర్భంగా కాల్చిన టపాసులు వచ్చి పడి, ప్రమాదం సంభవించి ఉండొచ్చని అధికారులు భావిస్తున్నారు. బాధిత యజమానులు అందించిన సమాచారం ప్రకారం.. రూ.కోట్లలో నష్టం వాటిల్లిందని అంచనా వేశారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+కరోనా వైరస్ సృష్టికర్తగా బిల్ గేట్స్‌ను నిర్బంధించారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+సొంత జిల్లా పర్యటనకు సీఎం జగన్ కట్టుదిట్టమైన ఏర్పాట్లు,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+పాట్నా స్మార్ట్ సిటీ ప్రతి ఇంటి ముందు ప్రత్యేక స్విమ్మింగ్ పూల్ ఉన్న మొదటి నగరం,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ఆంధ్రప్రదేశ్‌లో ఫార్మా పరిశ్రమ అభివృద్ధికి సంబంధించిన కామన్‌ ఫెసిలిటీ కేంద్రం ఏర్పాటుకు రూ.25 కోట్ల ఆర్థికసాయం చేసేందుకు తుది అనుమతినిచ్చినట్లు కేంద్ర మంత్రి డి.వి.సదానందగౌడ తెలిపారు.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+భారత దేశంలోని మాలెగావ్‌లోని ముస్లింలు వంతెనపై నమాజ్ చదవడానికి లాక్‌డౌన్‌ను ఉల్లంఘించారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+నకిలీ ఈమెయిల్‌ సృష్టించారన్న ఫిర్యాదుతో టీవీ 9 మాజీ సీఈవో రవిప్రకాశ్‌పై నమోదైన కేసులో శుక్రవారం ఆయనకు హైకోర్టు బెయిలు మంజూరు చేసింది. రూ.15 వేలు వ్యక్తిగత పూచీకత్తుతోపాటు అదే మొత్తానికి మరో రెండు పూచీకత్తులు తీసుకుని తక్షణం బెయిలు మంజూరు చేయాలని కూకట్‌పల్లి 9వ అదనపు మెట్రోపాలిటన్‌ మేజిస్ట్రేట్‌ కోర్టుకు ఆదేశాలు జారీ చేసింది.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+నిర్మల్‌ జిల్లాలోని కడెం జలాశయం ప్రధాన కాల్వలోకి ఓ కారు దూసుకెళ్లి.. ఇద్దరు యువకులు గల్లంతయ్యారు. దస్తురాబాద్‌ మండలం రేవోజిపేట గ్రామ సమీపంలోని కాల్వ వద్ద శనివారం మధ్యాహ్నం ఈ ఘటన జరిగింది.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+హిందూ దేవాలయాలను ప్రభుత్వ ఆధీనం నుండి విడిపించేందుకు బీజేపీ ఎంపీ సత్యపాల్ సింగ్ ఇటీవల పార్లమెంట్ లో ఒక ప్రైవేటు బిల్లును ప్రవేశపెట్టారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+నీచ రాజకీయాలు వద్దని BJP రాజకీయ నాయకులకు విన్నపం చేసిన వీడియోలో ఉన్నది వింగ్ కమాండర్ అభినందన్ భార్య,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"అపోలో టైర్స్‌లో ప్రైవేట్‌ ఈక్విటీ సంస్థ వార్‌బర్గ్‌ పింకస్‌ దాదాపు రూ.1,080 కోట్ల పెట్టుబడులు పెట్టనుంది.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+PMతో అభినందన్ భార్య మరియు కొడుకు మరియు PM తో అభినందన్ భార్య మరియు కుమారుడు జై హో,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+తాను ప్రముఖ గాయని అనురాధా పౌడ్వాల్‌ కుమార్తెనంటూ నగరానికి చెందిన కర్మలా మోడెక్స్‌ (46) కుటుంబ న్యాయస్థానాన్ని ఆశ్రయించారు. తనకు బాల్యజీవితం లేకుండా చేసినందుకు పౌడ్వాల్‌చే రూ.50 కోట్ల నష్టపరిహారం ఇప్పించాలని అందులో కోరారు. సాకే తీరిక లేకపోవడంతో తనను ఆమె పొన్నాచన్‌-ఆగ్నేస్‌ దంపతులకు దత్తత ఇచ్చినట్లు కర్మలా ఆరోపించారు. ఈ ఆరోపణలను అనురాధా పౌడ్వాల్‌ ఖండించారు.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ఉత్తర ప్రదేశ్ పోలీసులు ఫోన్ దొంగిలించినందుకు ఒక వ్యక్తిని దారుణంగా కొట్టారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+నాగర్‌కర్నూల్‌ జిల్లా బిజినేపల్లి మండలం నందివడ్డెమాన్‌ గ్రామంలో నిద్రిస్తున్న వృద్ధుడిపై పంది దాడి చేయడంతో ఆయన అక్కడికక్కడే మృతి చెందారు.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+రెండు తలల ఆకుపచ్చ తాబేలు ఒకటి మలేసియాలోని మాబుల్‌ ద్వీపం బొర్నియోలో జన్మించింది. ఇక్కడి హేచరీలో మరో 90 తాబేలు పిల్లల్లో దీనిని గుర్తించారు.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"రక్షణ రంగంలో ప్రైవేటు భాగస్వామ్యం పెరగాలని రక్షణ మంత్రి రాజ్‌నాథ్‌ సింగ్‌ ఆకాంక్షించారు. ఇందుకు ముందుకు వచ్చే ప్రైవేటు సంస్థలకు పూర్తి సహాయ సహకారాలు అందించేందుకు తాను సిద్ధంగా ఉన్నానన్నారు. అవినీతి సంబంధిత ఫిర్యాదులు, ఆరోపణలు వస్తాయేమోనన్న భయంతో నిర్ణయాలు తీసుకోకుండా ఉండటం తన నైజం కాదన్నారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+బాల్య వివాహాల నిర్మూలనకు కృషి చేసిన పాయల్‌ జంగిడ్‌(17) ప్రతిష్ఠాత్మక ‘ఛేంజ్‌మేకర్‌-2019’ పురస్కారాన్ని అందుకుంది. బిల్‌ అండ్‌ మెలిండా గేట్స్‌ ఫౌండేషన్‌ ఈ అవార్డును ప్రకటించింది. ఆమె స్వస్థలం రాజస్థాన్‌లోని హిన్‌స్లా.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"రక్తపోటు, కొలెస్ట్రాల్‌ను తగ్గించే ఔషధాలు, ఆస్పిరిన్‌లతో కూడిన ఓ చవకైన మాత్ర..పాలీపిల్‌ను రోజూ తీసుకోవడం ద్వారా గుండె వైఫల్యం, పక్షవాతం ముప్పును మూడొంతులు తగ్గించవచ్చని తాజా పరిశోధనలో వెల్లడైంది. గుండె, రక్తనాళాల వ్యాధుల చరిత్ర లేని వారిలో పాలీపిల్‌ మంచి ప్రభావం చూపుతున్నట్లు క్లినికల్‌ ట్రయల్స్‌లో తేలింది. ప్రస్తుతం రక్తపోటు తగ్గించేందుకు ఒకట్రెండు రకాల మాత్రలు ఇస్తూ, కొవ్వు ఆమ్లాలను నిలువరించేందుకు స్టాటిన్‌ మాత్రలు ఇస్తున్నారు. వీటికి తోడు రక్తాన్ని పలుచగా ఉంచేందుకు ఆస్పిరిన్‌నూ ఇస్తున్నారు. దీర్ఘకాలిక వ్యాధుల్లో 30-40 ఏళ్లపాటు రోజూ బహుళ రకాల మాత్రలు వేసుకోవడం ఒక సవాలేనని లండన్‌ ఇంపీరియల్‌ కాలేజ్‌ పరిశోధకులు కౌశిక్‌ రే పేర్కొన్నారు. ఈ సమస్యను పాలీపిల్‌ అధిగమిస్తుందన్నారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"కొత్తగా తయారైన హెలికాప్టర్లను నిలిపి ఉంచే హ్యాంగర్‌ (గోదాము)ను రక్షణ శాఖ మంత్రి రాజ్‌నాథ్‌సింగ్‌ బెంగళూరులోని హిందూస్థాన్‌ ఏరోనాటికల్‌ లిమిటెడ్‌(హెచ్‌ఏఎల్‌)లో గురువారం ప్రారంభించారు. యుద్ధ అవసరాలకు, నిఘా కోసం తేలికపాటి హెలికాప్టర్లను తయారు చేస్తున్న హెచ్‌ఏఎల్‌... ఇప్పుడు మల్టీ రోల్‌ హెలికాప్టర్‌ను రూపొందించడం పట్ల ఆయన హర్షం వ్యక్తంచేశారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+జమ్మూ-కశ్మీర్‌ మాజీ ముఖ్యమంత్రి ఒమర్‌ అబ్దులాను ప్రజా భద్రత చట్టం( పీఎస్‌ఏ) కింద నిర్బంధించడాన్ని సవాల్‌ చేస్తూ ఆయన సోదరి సారా అబ్దుల్లా పైలట్‌ సుప్రీం కోర్టులో సోమవారం పిటిషన్‌ దాఖలు చేశారు. దీనిపై అత్యవసర విచారణ చేపట్టాలని ఆమె విజ్ఞప్తి చేశారు.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"అనారోగ్యం బారిన కాకుండా ఉండేందుకు జీవనశైలిని ఎలా మలుచుకోవాలో మన అమ్మలు ముందే చెప్పారని, కానీ మనం వాళ్ల మాటలు వినలేదని ప్రముఖ నటుడు సోనూసూద్‌ అన్నారు. ప్రపంచాన్ని కరోనా వైరస్ వణికిస్తోన్న నేపథ్యంలో వ్యక్తిగత శుభ్రత పాటించాలని ప్రముఖులు అవగాహన కల్పిస్తున్నారు. ఈ నేపథ్యంలో సోనూసూద్‌ విలువైన మాటలు పంచుకున్నారు. ‘భయపడాల్సిన అవసరం లేదు.. అంతా చక్కబడుతుంది’ అంటూ వీడియోను షేర్‌ చేశారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ఆమెకు అనుకోని కష్టమొచ్చింది. భర్త ఆకస్మికంగా మరణించడంతో కుంగిపోయింది. చెల్లెళ్లిద్దరూ అండగా నిలవడంతో కాస్త ఊరటచెందింది. పుట్టెడు దుఃఖాన్ని కడుపులో దాచుకుని తోబుట్టువులిద్దరూ వెంటరాగా భర్త మృతదేహాన్ని స్వగ్రామానికి తీసుకెళ్లేందుకు సిద్ధమైంది. కసి చల్లారని కాలం రక్కసిలా రోడ్డు ప్రమాదం రూపంలో మరోసారి వెంటాడటంతో తల్లడిల్లింది. కళ్లుమూసి తెరిచేలోపు చెల్లెళ్లిద్దరూ మాంసం ముద్దలుగా కళ్లెదుటే కన్పించడంతో కంపించిపోయింది. దేవుడా! మాపై ఎందుకింత కోపం అంటూ గుండెలు బాదుకుంది. ఆ ఇల్లాలు కార్చిన కన్నీళ్లు ఒక్కొక్కటిగా కదిలి..చుక్కలుగా రాలి...ఏరై పారింది. ఈ విషాద ఘటన సిద్దిపేట అర్బన్‌ మండలంలో శనివారం వేకువజామున జరిగింది.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+లవ్ జిహాద్ ఎప్పుడూ హిందూ అమ్మాయి మరణంతో ముగుస్తుంది,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+సిపిఐ మరియు సిపిఎం పార్టీలకు జాతీయ హోదాని ఎలక్షన్ కమిషన్ రద్దు చేసింది,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+భద్రతా శిబిరాలపై నిఘా వేయడానికి మావోయిస్టులు తొలిసారిగా డ్రోన్లను రంగంలోకి దించినట్లు వెల్లడైంది. దీంతో వామపక్ష తీవ్రవాద సమస్య ఉన్న రాష్ట్రాల్లో భద్రతా దళాలను ఉన్నతాధికారులు అప్రమత్తం చేశారు. స్థావరాల వద్ద ఆ లోహ విహంగాలు కనిపిస్తే కాల్చివేయాలని ఉత్తర్వులు జారీ అయ్యాయి.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+‘షెడ్యూల్డు ప్రాంతాల్లోని పాఠశాలల్లో ఉపాధ్యాయ పోస్టుల భర్తీలో అర్హులు తగినంతగా లేనప్పుడు వంద శాతం రిజర్వేషన్ల కల్పన సహకరిస్తుందా’ అని సుప్రీంకోర్టు ప్రశ్నించింది.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ప్రముఖ పర్యావరణవేత్త, సామాజిక ఉద్యమకారుడు చండీ ప్రసాద్‌ భట్‌ (85)కు ఇందిరాగాంధీ జాతీయ సమైక్యత పురస్కారం లభించింది. మాజీ ప్రధాని ఇందిరాగాంధీ స్మారకార్థం కాంగ్రెస్‌ పార్టీ దీన్ని నెలకొల్పింది. ఈ పురస్కారం కింద రూ.10 లక్షల నగదు, ప్రశంసా పత్రాన్ని బహూకరించనుంది.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ఉత్తరప్రదేశ్‌లోని కొన్ని ఎంపిక చేసిన స్థానాల్లో బీజేపీ అభ్యర్థులకు సమాన ఓట్లు వచ్చాయి,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ఢిల్లీలోని నిజాముద్దీన్ మర్కజ్ కార్యక్రమానికి హాజరైన అనుమానితుల కోసం వెతకడానికి వెళ్లిన అహ్మదాబాద్ లోని గోమ్తీపూర్‌లో పోలీసులపై రాళ్లు రువ్వారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+సృజనాత్మక వైరుధ్యాలతో చిరంజీవి చిత్రం నుంచి తప్పుకుంటున్నట్టు ప్రకటించింది కథానాయిక త్రిష. కొరటాల శివ దర్శకత్వంలో చిరంజీవి కథా నాయకుడిగా ‘ఆచార్య’ తెరకెక్కుతున్న సంగతి తెలిసిందే. ఇందులో కథానాయికగా త్రిషని ఎంపిక చేసుకున్నారు. త్వరలోనే ఆమె చిత్రీకరణలో పాల్గొనాల్సి ఉంది. ఇంతలోనే ఆమె సినిమా నుంచి తప్పుకున్నట్టు ట్విటర్‌ ద్వారా ప్రకటించింది.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+దేశవ్యాప్తంగా 97 వేల మంది విద్యార్థులు కోవిడ్19 బారిన పడ్డారు ఈ నేపథ్యంలో 2021లో మాత్రమే పాఠశాలలను తెరవాలని కేంద్ర విద్యాశాఖ నిర్ణయించింది,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+కరోనా వైరస్ నుంచి రక్షణ కోసం ప్రధాని విపత్తు నిధికి 5 కోట్లు విరాళంగా అందించిన రాహుల్ గాంధీ సహాయ నిధికి సాయం చేసిన తొలి ఎంపీగా నిలిచారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"సరిహద్దుల్లో పాకిస్థాన్‌ బలగాల దురాగతానికి పది రోజుల పసికందు బలైంది. జమ్మూకశ్మీర్‌లోని పూంచ్‌ జిల్లాలో నియంత్రణ రేఖ వెంబడి షాహ్‌పుర్‌ గ్రామంపై పాక్‌ దళాలు ఆదివారం రాత్రి కాల్పులకు తెగబడ్డాయి. ఈ కాల్పుల్లో శిశువుతోపాటు అతడి తల్లి ఫాతిమా జాన్‌, మహమ్మద్‌ అరిఫ్‌ అనే మరో వ్యక్తి గాయపడ్డారు. పూంచ్‌ జిల్లా ఆస్పత్రిలో చికిత్స పొందుతూ పసికందు సోమవారం మరణించాడు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ఇస్లాం మత బోధకుడు జాకీర్ నాయక్‌ని మలేషియా ప్రభుత్వం అరెస్ట్ చేసి భారతదేశానికి పంపిస్తుంది,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"బాలలను ఉత్తమ పౌరులుగా తీర్చిదిద్దే క్రమంలో వారికి సంపూర్ణ విద్యను అందించాలని ఉపరాష్ట్రపతి వెంకయ్యనాయుడు పిలుపునిచ్చారు. జాతి అభివృద్ధిలో వాస్తుశిల్పులుగా ఉపాధ్యాయులను అభివర్ణించిన ఆయన ప్రజాస్వామ్యం, సమానత్వం, స్వేచ్ఛ, న్యాయం, లౌకికవాదం తదితరాలను బాల్యం నుంచే పిల్లల మనసులో నాటాలని అభిలషించారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+రాత్రికి రాత్రే బీజేపీలో చేరిన సచిన్ పైలట్,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+వీవీఐపీ హెలికాప్టర్ల కుంభకోణానికి సంబంధించి.. మధ్యప్రదేశ్‌ ముఖ్యమంత్రి కమల్‌నాథ్‌ మేనల్లుడు రతుల్‌ పురీకి చెందిన రూ. 254 కోట్ల ‘బినామీ’ ఈక్విటీని ఆదాయపు పన్ను (ఐటీ) విభాగం జప్తుచేసింది.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+నేరచరిత్ర ఉన్న అభ్యర్థులకు ఎట్టిపరిస్థితుల్లోనూ టిక్కెట్‌లు ఇవ్వరాదంటూ రాజకీయపార్టీలను కోరాల్సిన అవసరాన్ని ఎన్నికల సంఘం(ఈసీ) శుక్రవారం సుప్రీంకోర్టులో నొక్కి చెప్పింది.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"హిందుస్థాన్‌ ఏరోనాటిక్స్‌ (హెచ్‌ఏఎల్‌) ఒక్కో ఈక్విటీ షేరుపై రూ.33.25 (332 శాతం) మధ్యంతర డివిడెండును చెల్లించనున్నట్లు తెలిపింది. రికార్డు తేదీని మార్చి 24గా నిర్ణయించింది. స్పిన్నర్లకు స్టేపుల్‌ ఫైబర్‌ సరఫరా విషయంలో నిబంధనలు ఉల్లంఘించినందుకు గ్రాసిమ్‌ ఇండస్ట్రీస్‌పై రూ.302 కోట్ల జరిమానాను కాంపిటీషన్‌ కమిషన్‌ ఆఫ్‌ ఇండియా విధించింది. బ్యాంక్‌ ఆఫ్‌ బరోడా, ఆంధ్రాబ్యాంక్‌ ఉమ్మడి భాగస్వామ్య సంస్థ ఇండియాఫస్ట్‌ లైఫ్‌ ఇన్సూరెన్స్‌ మేనేజింగ్‌ డైరెక్టర్‌, సీఈఓగా ఆర్‌.ఎం.విశాఖ తిరిగి నియమితులయ్యారు. ఈ మేరకు ఐఆర్‌డీఏ అనుమతిని ఇచ్చింది.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"ఉద్యోగులకు రిలయన్స్‌ ఇండస్ట్రీస్‌ సూచన కరోనా వైరస్‌ వ్యాప్తి నేపథ్యంలో దేశవ్యాప్తంగా ఉన్న ఉద్యోగులను ఇంటి నుంచే పనిచేయమని (వర్క్‌ ఫ్రమ్‌ హోమ్‌) రిలయన్స్‌ ఇండస్ట్రీస్‌ ఆదేశాలు జారీ చేసింది. వినియోగదారులతో నేరుగా సంబంధాలు ఉన్న ఆసుపత్రులు, రిటైల్‌ స్టోర్లు, టెలికాం వ్యాపారాలను తక్కువ ఉద్యోగులతో కొనసాగించనున్నట్లు కంపెనీ తెలిపింది. మార్చి 31 వరకు ఈ ఆదేశాలు అమల్లో ఉంటాయి. వ్యాపారాలను కొనసాగించడానికి తక్కువ సంఖ్యలో ఉద్యోగులను వినియోగిస్తామని వెల్లడించింది.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ఆంధ్ర ప్రదేశ్ సీఎం గా వైఎస్ జగన్ 30 సంవత్సరాలు ఉంటాడు అంటూ గవర్నర్ విశ్వ భూషణ్ హరిచంద్ అన్నారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"దేశంలో అతివాదాన్ని బాగా తలకెక్కించుకున్న వారిని సాధారణ స్థాయికి తెచ్చేందుకు ప్రత్యేక శిబిరాలను నిర్వహిస్తున్నట్లు భారత త్రివిధ దళాధిపతి జనరల్‌ బిపిన్‌ రావత్‌ గురువారం పేర్కొన్నారు. జమ్మూ-కశ్మీర్‌లో 10-12 ఏళ్ల వయసున్నవారిలోనూ అతివాద బీజాలు నాటుతున్నారని, ఇది ఆందోళనకరమని చెప్పారు.",1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ప్రధానమంత్రికి రాసిన ఉత్తరంలో తన సంతకం ఫోర్జరీ చేసారని మణిరత్నం వ్యాఖ్యానించారు,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5 లక్షల మంది కేంద్ర ఉద్యోగులను ఉద్యోగాల నుంచి తొలగించేందుకు కేంద్ర ప్రభుత్వం సిద్ధమవుతోంది,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ప్రధాని సోదరుడి కుమార్తె దమయంతి బెన్‌ మోదీ చేతిసంచిని ఇద్దరు అగంతుకులు శనివారం దిల్లీలో గుంజుకుని పారిపోయిన కేసులో ఇద్దరు నిందితులను అరెస్టు చేసినట్లు పోలీసులు ఆదివారం వెల్లడించారు.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+రహస్య పరిశోధన కోసం అమెరికా వైమానిక దళం పంపిన ఒక వ్యోమనౌక రెండేళ్ల పాటు రోదసిలో గడిపిన అనంతరం భూమికి తిరిగొచ్చింది. ఎక్స్‌-37బి అనే ఈ అంతరిక్ష నౌక ఫ్లోరిడాలోని కెన్నెడీ అంతరిక్ష కేంద్రంలో దిగింది. దీన్ని 2017లో ప్రయోగించారు. 780 రోజుల పాటు భూ కక్ష్యలో ఉంది. ప్రయోగాత్మకంగా అంతరిక్షంలోకి పంపిన పునర్‌వినియోగ వాహకనౌకలకు సంబంధించి ఇది రికార్డు కాలం. ఇన్నిరోజుల పాటు అది రోదసిలో ఏం చేసిందన్నది అమెరికా గోప్యంగా ఉంచింది. తమ లక్ష్యాలన్నీ నెరవేరాయని మాత్రమే చెప్పింది.,1,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+చంద్రయాన్ 2 వైఫల్యానికి కాంగ్రెస్ కారణమా,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+లిఫ్ట్ లో 71 గంటలు ఆకలేసి భార్యను తినేసిన భర్త,0,Telugu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

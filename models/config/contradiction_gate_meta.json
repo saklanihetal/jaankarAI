@@ -1,0 +1,27 @@
+{
+  "required_features": [
+    "num_evidence",
+    "max_rel",
+    "mean_rel",
+    "p90_rel",
+    "max_ent",
+    "mean_ent",
+    "max_con_used",
+    "mean_con",
+    "body_success_rate",
+    "context_mismatch_rate",
+    "update_style_rate"
+  ],
+  "auto_label_info": {
+    "rel_th": 0.48260664939880366,
+    "con_th": 0.2816612517242416,
+    "ent_max": 0.1,
+    "ctx_th": 0.0,
+    "upd_th": 0.0,
+    "positives": 113,
+    "negatives": 1387
+  },
+  "default_threshold": 0.5,
+  "best_threshold": 0.7,
+  "best_f1_pos": 0.9361702127659575
+}

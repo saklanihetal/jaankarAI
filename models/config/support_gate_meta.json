@@ -1,0 +1,30 @@
+{
+  "model_file": "support_gate.joblib",
+  "best_threshold": 0.35,
+  "required_features": [
+    "num_evidence",
+    "max_rel",
+    "mean_rel",
+    "p90_rel",
+    "max_ent",
+    "mean_ent",
+    "max_con_used",
+    "mean_con",
+    "context_mismatch_rate",
+    "update_style_rate",
+    "margin_ent_minus_con",
+    "rel_support",
+    "rel_contra",
+    "support_to_con_ratio",
+    "coverage_strength"
+  ],
+  "label_thresholds": {
+    "ent_th": 0.8,
+    "rel_th": 0.48618487119674675,
+    "margin_th": 0.0
+  },
+  "train_rows": 1500,
+  "positives": 55,
+  "negatives": 1445,
+  "note": "Support gate predicts when evidence is strong enough to assert SUPPORTED safely."
+}
